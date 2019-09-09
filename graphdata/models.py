@@ -13,6 +13,7 @@ class Player(models.Model):
     xA = models.FloatField()
     xG90 = models.FloatField()
     xA90 = models.FloatField()
+    year = models.IntegerField()
 
 
 '''

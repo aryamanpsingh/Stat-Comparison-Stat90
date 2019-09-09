@@ -1,11 +1,14 @@
-import React, { Component } from "react";
+import React, { Component, Fragment } from "react";
 import TextField from "@material-ui/core/TextField";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import update from "immutability-helper";
 import Button from "@material-ui/core/Button";
 import { Radar } from "react-chartjs-2";
-import { FormControl, Paper } from "@material-ui/core";
+import { FormControl, Typography } from "@material-ui/core";
+import Card from "@material-ui/core/Card";
+import CardActions from "@material-ui/core/CardActions";
+import CardContent from "@material-ui/core/CardContent";
 
 const style = {
   background: "white",
@@ -13,7 +16,8 @@ const style = {
   color: "black"
 };
 const chart = {
-  border: 1
+  justifyContent: "center",
+  margin: "auto"
 };
 
 const options = {
@@ -26,11 +30,12 @@ const options = {
   scale: {
     reverse: false,
     ticks: {
-      step: 0.3
+      step: 0.3,
+      beginAtZero: true
     }
   },
 
-  responsive: false,
+  responsive: true,
   pointDot: false,
   showTooltips: true,
   maintainAspectRatio: false,
@@ -72,10 +77,6 @@ export class Compare extends Component {
     showChart: false
   };
 
-  static propTypes = {
-    players: PropTypes.array.isRequired
-  };
-
   handleChange = index => e => {
     console.log(index);
     this.setState({
@@ -114,7 +115,7 @@ export class Compare extends Component {
     let data1 = {
       label: this.state.player[0].name,
       data: array1,
-      backgroundColor: "rgba(0, 255, 0, 0.5)"
+      backgroundColor: "rgba(0, 0, 255, 0.5)"
     };
     let data2 = {
       label: this.state.player[1].name,
@@ -134,47 +135,60 @@ export class Compare extends Component {
 
   render() {
     return (
-      <div>
-        <div>
-          <FormControl>
-            <TextField
-              id="name"
-              label="Name"
-              className="name"
-              value={name[0]}
-              onChange={this.handleChange(0)}
-              margin="normal"
-            />
-            <TextField
-              id="name"
-              label="Name"
-              className="name"
-              value={name[1]}
-              onChange={this.handleChange(1)}
-              margin="normal"
-            />
-            <br />
-            <Button
-              variant="contained"
-              color="primary"
-              className="submit"
-              onClick={this.handleSubmit}
+      <Fragment>
+        <Card>
+          <CardContent>
+            <Typography variant="h5" gutterBottom>
+              Compare any two players stats to see who comes out on top!
+            </Typography>
+            <CardActions
+              style={{ textAlign: "center", justifyContent: "center" }}
             >
-              Go
-            </Button>
-          </FormControl>
-        </div>
-        <div style={chart}>
-          {this.state.showChart == true && (
-            <Radar height={400} data={this.state.data} options={options} />
-          )}
-        </div>
-      </div>
+              <FormControl>
+                <TextField
+                  id="name"
+                  label="Name"
+                  className="name"
+                  value={name[0]}
+                  onChange={this.handleChange(0)}
+                  margin="normal"
+                />
+                <TextField
+                  id="name"
+                  label="Name"
+                  className="name"
+                  value={name[1]}
+                  onChange={this.handleChange(1)}
+                  margin="normal"
+                />
+                <br />
+                <Button
+                  variant="contained"
+                  color="primary"
+                  className="submit"
+                  onClick={this.handleSubmit}
+                >
+                  Go
+                </Button>
+              </FormControl>
+            </CardActions>
+          </CardContent>
+        </Card>
+
+        {this.state.showChart == true && (
+          <Card style={chart}>
+            Test
+            <Radar
+              height={400}
+              data={this.state.data}
+              options={options}
+              style={chart}
+            />
+          </Card>
+        )}
+      </Fragment>
     );
   }
 }
 
-const mapStateToProps = state => ({
-  players: state.players.players
-});
-export default connect(mapStateToProps)(Compare);
+export default Compare;

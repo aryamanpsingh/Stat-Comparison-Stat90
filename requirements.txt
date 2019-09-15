@@ -1,7 +1,7 @@
 asn1crypto==0.24.0
 autopep8==1.4.4
 certifi==2019.6.16
-cffi==1.7.0
+cffi==1.12.3
 chardet==3.0.4
 cryptography==2.7
 Django==2.2.5
@@ -20,7 +20,6 @@ psycopg2-binary==2.8.3
 pycodestyle==2.5.0
 pycparser==2.19
 python-dateutil==2.8.0
-python-libmagic==0.4.0
 python-magic==0.4.15
 pytz==2019.1
 requests==2.22.0

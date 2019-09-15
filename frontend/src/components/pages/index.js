@@ -26,6 +26,11 @@ import SettingsIcon from "@material-ui/icons/Settings";
 const styles = theme => ({
   list: {
     width: 200
+  },
+  graph: {
+    padding: theme.spacing(2),
+    textAlign: "center",
+    color: theme.palette.text.secondary
   }
 });
 
@@ -162,6 +167,7 @@ export class index extends Component {
           <Grid container>
             <Grid item xs={4} style={{ textAlign: "center" }}>
               <Graph
+                className={classes.graph}
                 length={10}
                 attribute="goals"
                 color="rgba(255, 0, 0, 0.6)"
@@ -169,6 +175,7 @@ export class index extends Component {
                 players={currentPlayers}
               />
               <Graph
+                className={classes.graph}
                 length={10}
                 attribute="assists"
                 color="rgba(0, 0, 255, 0.6)"
@@ -187,6 +194,7 @@ export class index extends Component {
 
             <Grid item xs={4} style={{ textAlign: "center" }}>
               <Graph
+                className={classes.graph}
                 length={10}
                 attribute="xG"
                 color="rgba(255, 0, 0, 0.6)"
@@ -194,6 +202,7 @@ export class index extends Component {
                 players={currentPlayers}
               />
               <Graph
+                className={classes.graph}
                 length={10}
                 attribute="xA"
                 color="rgba(0, 0, 255, 0.6)"

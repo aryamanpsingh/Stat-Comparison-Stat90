@@ -154,8 +154,8 @@ export class index extends Component {
           {sideList("right")}
         </Drawer>
         <Container fixed>
-          <Grid container item xs={12}>
-            <Grid item xs={3}>
+          <Grid container>
+            <Grid item xs={4}>
               <Graph
                 length={10}
                 attribute="goals"
@@ -163,8 +163,6 @@ export class index extends Component {
                 year={this.state.year}
                 players={currentPlayers}
               />
-            </Grid>
-            <Grid item xs={3}>
               <Graph
                 length={10}
                 attribute="assists"
@@ -173,7 +171,16 @@ export class index extends Component {
                 players={currentPlayers}
               />
             </Grid>
-            <Grid item xs={3}>
+
+            <Grid item xs={4}>
+              <Grid container alignItems="center">
+                <Grid item xs>
+                  <Compare players={currentPlayers} />
+                </Grid>
+              </Grid>
+            </Grid>
+
+            <Grid item xs={4}>
               <Graph
                 length={10}
                 attribute="xG"
@@ -181,8 +188,6 @@ export class index extends Component {
                 year={this.state.year}
                 players={currentPlayers}
               />
-            </Grid>
-            <Grid item xs={3}>
               <Graph
                 length={10}
                 attribute="xA"
@@ -198,11 +203,6 @@ export class index extends Component {
             tabChange={this.tabChange}
             toggleDrawer={toggleDrawer}
           />
-          <Grid container alignItems="center">
-            <Grid item xs>
-              <Compare players={currentPlayers} />
-            </Grid>
-          </Grid>
         </Container>
       </Fragment>
     );

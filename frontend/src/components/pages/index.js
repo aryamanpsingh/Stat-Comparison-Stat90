@@ -160,7 +160,7 @@ export class index extends Component {
             toggleDrawer={toggleDrawer}
           />
           <Grid container>
-            <Grid item xs={4} style={{ marginTop: "20px" }}>
+            <Grid item xs={4} style={{ textAlign: "center" }}>
               <Graph
                 length={10}
                 attribute="goals"
@@ -177,7 +177,11 @@ export class index extends Component {
               />
             </Grid>
 
-            <Grid item xs={4}>
+            <Grid
+              item
+              xs={4}
+              style={{ marginTop: "20px", textAlign: "center" }}
+            >
               <Grid container alignItems="center">
                 <Grid item xs>
                   <Compare players={currentPlayers} />
@@ -185,7 +189,7 @@ export class index extends Component {
               </Grid>
             </Grid>
 
-            <Grid item xs={4}>
+            <Grid item xs={4} style={{ textAlign: "center" }}>
               <Graph
                 length={10}
                 attribute="xG"

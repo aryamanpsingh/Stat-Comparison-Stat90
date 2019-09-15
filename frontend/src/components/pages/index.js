@@ -180,13 +180,9 @@ export class index extends Component {
             <Grid
               item
               xs={4}
-              style={{ marginTop: "20px", textAlign: "center" }}
+              style={{ marginTop: "50px", textAlign: "center" }}
             >
-              <Grid container alignItems="center">
-                <Grid item xs>
-                  <Compare players={currentPlayers} />
-                </Grid>
-              </Grid>
+              <Compare players={currentPlayers} />
             </Grid>
 
             <Grid item xs={4} style={{ textAlign: "center" }}>

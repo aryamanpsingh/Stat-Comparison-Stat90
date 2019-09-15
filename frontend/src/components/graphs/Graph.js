@@ -36,6 +36,14 @@ export class Graph extends Component {
         data={data}
         height={350}
         options={{
+          layout: {
+            padding: {
+              left: 50,
+              right: 0,
+              top: 0,
+              bottom: 0
+            }
+          },
           scales: {
             xAxes: [
               {

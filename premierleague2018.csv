@@ -1,0 +1,491 @@
+,Unnamed: 0,name,team,apps,mins,goals,assists,xG,xA,xG90,xA90,Year,league
+0,0,Pierre-Emerick Aubameyang,Arsenal,36,2740,22,5,23.55,4.99,0.77,0.16,2018,1
+1,1,Sadio Mané,Liverpool,36,3100,22,1,16.76,5.12,0.49,0.15,2018,1
+2,2,Mohamed Salah,Liverpool,38,3274,22,8,21.79,10.47,0.6,0.29,2018,1
+3,3,Sergio Agüero,Manchester City,33,2515,21,8,19.95,5.23,0.71,0.19,2018,1
+4,4,Jamie Vardy,Leicester,34,2740,18,4,19.12,5.14,0.63,0.17,2018,1
+5,5,Raheem Sterling,Manchester City,34,2788,17,10,15.91,10.79,0.51,0.35,2018,1
+6,6,Harry Kane,Tottenham,28,2437,17,4,16.12,4.56,0.6,0.17,2018,1
+7,7,Eden Hazard,Chelsea,37,2935,16,15,12.3,11.57,0.38,0.35,2018,1
+8,8,Callum Wilson,Bournemouth,30,2548,14,9,16.02,5.96,0.57,0.21,2018,1
+9,9,Gylfi Sigurdsson,Everton,38,3150,13,6,12.12,6.79,0.35,0.19,2018,1
+10,10,Glenn Murray,Brighton,38,2517,13,1,11.54,1.12,0.41,0.04,2018,1
+11,11,Paul Pogba,Manchester United,35,3013,13,9,15.88,5.19,0.47,0.15,2018,1
+12,12,Alexandre Lacazette,Arsenal,35,2498,13,8,12.03,4.1,0.43,0.15,2018,1
+13,13,Raúl Jiménez,Wolverhampton Wanderers,38,3143,13,7,14.27,6.99,0.41,0.2,2018,1
+14,14,Richarlison,Everton,35,2702,13,1,11.33,1.96,0.38,0.07,2018,1
+15,15,Son Heung-Min,Tottenham,31,2061,12,6,8.36,3.97,0.37,0.17,2018,1
+16,16,Joshua King,Bournemouth,35,2987,12,3,13.55,4.26,0.41,0.13,2018,1
+17,17,Roberto Firmino,Liverpool,34,2631,12,6,13.74,6.34,0.47,0.22,2018,1
+18,18,Romelu Lukaku,Manchester United,32,2113,12,0,13.11,2.32,0.56,0.1,2018,1
+19,19,Ayoze Pérez,Newcastle United,37,2950,12,2,8.29,4.03,0.25,0.12,2018,1
+20,20,Ashley Barnes,Burnley,37,2379,12,2,13.26,3.64,0.5,0.14,2018,1
+21,21,Luka Milivojevic,Crystal Palace,38,3420,12,2,10.49,3.39,0.28,0.09,2018,1
+22,22,Aleksandar Mitrovic,Fulham,37,3285,11,3,15.45,2.97,0.42,0.08,2018,1
+23,23,Salomón Rondón,Newcastle United,32,2616,11,7,10.64,3.41,0.37,0.12,2018,1
+24,24,Leroy Sané,Manchester City,31,1866,10,10,6.98,8.1,0.34,0.39,2018,1
+25,25,Wilfried Zaha,Crystal Palace,34,3046,10,5,6.49,5.4,0.19,0.16,2018,1
+26,26,Anthony Martial,Manchester United,27,1632,10,2,7.95,3.25,0.44,0.18,2018,1
+27,27,Marcus Rashford,Manchester United,33,2360,10,6,11.61,5.27,0.44,0.2,2018,1
+28,28,Gerard Deulofeu,Watford,30,2110,10,5,8.33,4.96,0.36,0.21,2018,1
+29,29,Marko Arnautovic,West Ham,28,2006,10,4,8.94,4.0,0.4,0.18,2018,1
+30,30,Lucas Moura,Tottenham,32,2133,10,0,7.59,1.66,0.32,0.07,2018,1
+31,31,Chris Wood,Burnley,38,2603,10,2,9.13,3.65,0.32,0.13,2018,1
+32,32,Troy Deeney,Watford,32,2552,9,5,10.23,4.69,0.36,0.17,2018,1
+33,33,Felipe Anderson,West Ham,36,3073,9,4,5.53,6.78,0.16,0.2,2018,1
+34,34,Diogo Jota,Wolverhampton Wanderers,33,2402,9,5,8.91,5.54,0.33,0.21,2018,1
+35,35,Christian Eriksen,Tottenham,35,2772,8,12,5.66,7.88,0.18,0.26,2018,1
+36,36,Pedro,Chelsea,31,1777,8,2,5.98,3.88,0.3,0.2,2018,1
+37,37,Chicharito,West Ham,25,1336,7,1,7.89,1.26,0.53,0.08,2018,1
+38,38,Riyad Mahrez,Manchester City,27,1333,7,4,6.62,5.01,0.45,0.34,2018,1
+39,39,James Ward-Prowse,Southampton,26,1940,7,0,3.4,3.28,0.16,0.15,2018,1
+40,40,Danny Ings,Southampton,24,1694,7,3,9.92,3.35,0.53,0.18,2018,1
+41,41,Andre Gray,Watford,29,1343,7,2,5.85,2.1,0.39,0.14,2018,1
+42,42,Ryan Fraser,Bournemouth,38,3185,7,14,4.76,16.18,0.13,0.46,2018,1
+43,43,Bernardo Silva,Manchester City,36,2851,7,7,8.2,8.63,0.26,0.27,2018,1
+44,44,Gabriel Jesus,Manchester City,29,993,7,3,12.62,2.65,1.14,0.24,2018,1
+45,45,James Maddison,Leicester,36,2877,7,7,7.37,7.94,0.23,0.25,2018,1
+46,46,David Brooks,Bournemouth,30,2317,7,5,6.47,5.88,0.25,0.23,2018,1
+47,47,André Schürrle,Fulham,24,1670,6,0,3.32,1.93,0.18,0.1,2018,1
+48,48,Ilkay Gündogan,Manchester City,31,2133,6,3,4.21,4.97,0.18,0.21,2018,1
+49,49,Henrikh Mkhitaryan,Arsenal,25,1647,6,4,5.34,6.49,0.29,0.35,2018,1
+50,50,Michail Antonio,West Ham,33,2084,6,4,6.07,4.03,0.26,0.17,2018,1
+51,51,David Silva,Manchester City,33,2426,6,8,8.13,10.11,0.3,0.38,2018,1
+52,52,Ruben Loftus-Cheek,Chelsea,24,969,6,2,3.24,1.01,0.3,0.09,2018,1
+53,53,Andros Townsend,Crystal Palace,38,3030,6,4,4.88,3.7,0.14,0.11,2018,1
+54,54,Nathan Redmond,Southampton,38,3283,6,4,7.91,5.31,0.22,0.15,2018,1
+55,55,Xherdan Shaqiri,Liverpool,24,1048,6,3,4.06,1.89,0.35,0.16,2018,1
+56,56,Roberto Pereyra,Watford,33,2837,6,1,5.38,3.54,0.17,0.11,2018,1
+57,57,Dominic Calvert-Lewin,Everton,35,1763,6,2,6.17,1.64,0.32,0.08,2018,1
+58,58,James Milner,Liverpool,31,1775,5,4,3.36,5.64,0.17,0.29,2018,1
+59,59,Mesut Özil,Arsenal,24,1751,5,2,2.23,4.29,0.11,0.22,2018,1
+60,60,Theo Walcott,Everton,37,2127,5,2,6.51,2.88,0.28,0.12,2018,1
+61,61,Mark Noble,West Ham,31,2339,5,5,3.59,1.72,0.14,0.07,2018,1
+62,62,Dele Alli,Tottenham,25,1847,5,3,5.95,3.29,0.29,0.16,2018,1
+63,63,Shane Long,Southampton,26,1262,5,1,5.44,1.6,0.39,0.11,2018,1
+64,64,Gonzalo Higuaín,Chelsea,14,1100,5,0,5.38,1.43,0.44,0.12,2018,1
+65,65,Michy Batshuayi,Crystal Palace,11,766,5,0,3.7,0.1,0.43,0.01,2018,1
+66,66,Abdoulaye Doucouré,Watford,35,3062,5,6,6.85,5.39,0.2,0.16,2018,1
+67,67,Álvaro Morata,Chelsea,16,951,5,0,6.41,0.21,0.61,0.02,2018,1
+68,68,Víctor Camarasa,Cardiff,32,2606,5,4,3.91,3.63,0.13,0.13,2018,1
+69,69,Ryan Babel,Fulham,16,1276,5,3,5.75,2.55,0.41,0.18,2018,1
+70,70,Shane Duffy,Brighton,35,3087,5,1,3.38,0.27,0.1,0.01,2018,1
+71,71,Bobby Reid,Cardiff,27,1414,5,2,3.8,1.06,0.24,0.07,2018,1
+72,72,Fabian Schär,Newcastle United,24,2007,4,1,2.17,0.74,0.1,0.03,2018,1
+73,73,Granit Xhaka,Arsenal,29,2511,4,2,1.88,3.52,0.07,0.13,2018,1
+74,74,Pierre-Emile Højbjerg,Southampton,31,2770,4,3,2.26,2.35,0.07,0.08,2018,1
+75,75,Aaron Ramsey,Arsenal,28,1326,4,6,3.71,2.3,0.25,0.16,2018,1
+76,76,Jesse Lingard,Manchester United,27,1677,4,2,4.84,3.16,0.26,0.17,2018,1
+77,77,Nathan Aké,Bournemouth,38,3414,4,0,4.55,1.32,0.12,0.03,2018,1
+78,78,Erik Lamela,Tottenham,19,969,4,2,3.76,2.17,0.35,0.2,2018,1
+79,79,N'Golo Kanté,Chelsea,36,3103,4,4,3.03,3.73,0.09,0.11,2018,1
+80,80,Jeffrey Schlupp,Crystal Palace,30,1650,4,1,3.3,1.41,0.18,0.08,2018,1
+81,81,Demarai Gray,Leicester,34,2009,4,1,4.56,0.98,0.2,0.04,2018,1
+82,82,Virgil van Dijk,Liverpool,38,3388,4,2,3.51,1.27,0.09,0.03,2018,1
+83,83,Lucas Digne,Everton,35,2968,4,4,1.2,7.71,0.04,0.23,2018,1
+84,84,Sol Bamba,Cardiff,28,2476,4,1,4.12,0.14,0.15,0.01,2018,1
+85,85,Nathaniel Mendez-Laing,Cardiff,20,980,4,1,2.16,1.3,0.2,0.12,2018,1
+86,86,Callum Paterson,Cardiff,27,1987,4,1,4.95,2.87,0.22,0.13,2018,1
+87,87,Willy Boly,Wolverhampton Wanderers,36,3168,4,0,3.63,1.57,0.1,0.04,2018,1
+88,88,Matt Doherty,Wolverhampton Wanderers,38,3145,4,5,5.28,5.04,0.15,0.14,2018,1
+89,89,Rúben Neves,Wolverhampton Wanderers,35,3014,4,3,3.39,1.88,0.1,0.06,2018,1
+90,90,Karlan Grant,Huddersfield,13,868,4,0,3.28,0.27,0.34,0.03,2018,1
+91,91,Pascal Groß,Brighton,25,1896,3,3,4.14,5.61,0.2,0.27,2018,1
+92,92,Divock Origi,Liverpool,12,357,3,1,2.24,0.19,0.57,0.05,2018,1
+93,93,Laurent Koscielny,Arsenal,17,1326,3,0,2.11,0.12,0.14,0.01,2018,1
+94,94,Alex Iwobi,Arsenal,35,1974,3,6,3.72,7.64,0.17,0.35,2018,1
+95,95,Juan Mata,Manchester United,22,1306,3,2,1.58,3.7,0.11,0.26,2018,1
+96,96,José Holebas,Watford,28,2395,3,6,0.94,4.58,0.04,0.17,2018,1
+97,97,Craig Cathcart,Watford,36,3104,3,0,1.85,0.11,0.05,0.0,2018,1
+98,98,Ross Barkley,Chelsea,27,1228,3,5,3.65,2.52,0.27,0.18,2018,1
+99,99,James McArthur,Crystal Palace,38,3095,3,6,4.51,3.72,0.13,0.11,2018,1
+100,100,Eric Dier,Tottenham,20,1519,3,0,1.42,1.1,0.08,0.07,2018,1
+101,101,Willian,Chelsea,32,2123,3,6,4.35,6.52,0.18,0.28,2018,1
+102,102,Patrick van Aanholt,Crystal Palace,36,3202,3,2,2.81,4.72,0.08,0.13,2018,1
+103,103,Wes Morgan,Leicester,22,1932,3,0,1.54,0.14,0.07,0.01,2018,1
+104,104,Georginio Wijnaldum,Liverpool,35,2749,3,0,3.18,1.94,0.1,0.06,2018,1
+105,105,Ciaran Clark,Newcastle United,11,850,3,0,0.47,0.05,0.05,0.01,2018,1
+106,106,Sam Vokes,Burnley,20,918,3,0,2.73,0.9,0.27,0.09,2018,1
+107,107,Johann Berg Gudmundsson,Burnley,29,1732,3,6,2.61,3.59,0.14,0.19,2018,1
+108,108,James Tarkowski,Burnley,35,3086,3,1,3.64,0.2,0.11,0.01,2018,1
+109,109,David Luiz,Chelsea,36,3240,3,2,2.9,2.86,0.08,0.08,2018,1
+110,110,Harry Maguire,Leicester,31,2599,3,0,1.86,0.67,0.06,0.02,2018,1
+111,111,Lucas Pérez,West Ham,15,462,3,0,1.39,0.88,0.27,0.17,2018,1
+112,112,Jeff Hendrick,Burnley,32,2089,3,0,1.79,1.07,0.08,0.05,2018,1
+113,113,Aymeric Laporte,Manchester City,35,3059,3,3,3.75,0.84,0.11,0.02,2018,1
+114,114,Ivan Cavaleiro,Wolverhampton Wanderers,23,670,3,1,2.37,1.58,0.32,0.21,2018,1
+115,115,Florin Andone,Brighton,23,861,3,0,3.49,0.1,0.36,0.01,2018,1
+116,116,Junior Hoilett,Cardiff,32,2144,3,1,3.17,1.34,0.13,0.06,2018,1
+117,117,Aboubakar Kamara,Fulham,13,678,3,0,3.53,0.77,0.47,0.1,2018,1
+118,118,Youri Tielemans,Leicester,13,1098,3,4,2.06,2.5,0.17,0.21,2018,1
+119,119,Zanka,Huddersfield,24,2151,3,1,1.48,0.39,0.06,0.02,2018,1
+120,120,Aaron Mooy,Huddersfield,29,2326,3,1,2.42,2.75,0.09,0.11,2018,1
+121,121,Cenk Tosun,Everton,25,1036,3,3,4.99,0.96,0.43,0.08,2018,1
+122,122,Dwight McNeil,Burnley,21,1610,3,5,1.83,3.46,0.1,0.19,2018,1
+123,123,Josh Murphy,Cardiff,29,1844,3,2,3.74,3.52,0.18,0.17,2018,1
+124,124,Stuart Armstrong,Southampton,29,1424,3,2,2.12,1.65,0.13,0.1,2018,1
+125,125,Kevin De Bruyne,Manchester City,19,965,2,2,1.47,6.65,0.14,0.62,2018,1
+126,126,Matt Ritchie,Newcastle United,36,2965,2,8,4.44,5.11,0.13,0.16,2018,1
+127,127,Dan Gosling,Bournemouth,25,1729,2,1,2.39,0.96,0.12,0.05,2018,1
+128,128,Junior Stanislas,Bournemouth,23,1016,2,3,3.1,2.49,0.27,0.22,2018,1
+129,129,Daniel Sturridge,Liverpool,18,484,2,1,1.5,1.07,0.28,0.2,2018,1
+130,130,Olivier Giroud,Chelsea,27,808,2,4,5.06,2.29,0.56,0.26,2018,1
+131,131,Calum Chambers,Fulham,31,2588,2,0,2.44,0.96,0.08,0.03,2018,1
+132,132,Ander Herrera,Manchester United,22,1404,2,3,1.51,2.06,0.1,0.13,2018,1
+133,133,Seamus Coleman,Everton,29,2564,2,2,1.36,3.8,0.05,0.13,2018,1
+134,134,Ashley Young,Manchester United,30,2565,2,2,0.49,4.0,0.02,0.14,2018,1
+135,135,Ashley Westwood,Burnley,34,2817,2,7,1.71,5.23,0.05,0.17,2018,1
+136,136,Marc Albrighton,Leicester,27,1625,2,2,1.06,2.99,0.06,0.17,2018,1
+137,137,Alex Pritchard,Huddersfield,30,2114,2,0,2.62,2.08,0.11,0.09,2018,1
+138,138,Charlie Austin,Southampton,25,983,2,2,3.8,1.01,0.35,0.09,2018,1
+139,139,Joselu,Newcastle United,16,565,2,0,1.81,0.01,0.29,0.0,2018,1
+140,140,Kurt Zouma,Everton,32,2613,2,2,1.27,0.44,0.04,0.02,2018,1
+141,141,Lucas Torreira,Arsenal,34,2366,2,2,1.8,1.71,0.07,0.07,2018,1
+142,142,Jorginho,Chelsea,37,3179,2,0,1.3,3.07,0.04,0.09,2018,1
+143,143,Marcos Alonso,Chelsea,31,2764,2,4,3.56,3.92,0.12,0.13,2018,1
+144,144,Robert Snodgrass,West Ham,33,2230,2,5,2.26,5.18,0.09,0.21,2018,1
+145,145,Shkodran Mustafi,Arsenal,31,2629,2,0,1.86,0.28,0.06,0.01,2018,1
+146,146,Jefferson Lerma,Bournemouth,30,2527,2,0,1.09,1.01,0.04,0.04,2018,1
+147,147,Ricardo Pereira,Leicester,35,3129,2,6,1.18,5.13,0.03,0.15,2018,1
+148,148,Romain Saiss,Wolverhampton Wanderers,19,1133,2,0,1.29,0.73,0.1,0.06,2018,1
+149,149,Steve Mounie,Huddersfield,31,1775,2,3,5.63,1.87,0.29,0.09,2018,1
+150,150,Anthony Knockaert,Brighton,30,1823,2,6,2.11,4.21,0.1,0.21,2018,1
+151,151,Naby Keita,Liverpool,25,1407,2,1,2.55,1.07,0.16,0.07,2018,1
+152,152,Wilfred Ndidi,Leicester,38,3305,2,0,3.12,1.69,0.08,0.05,2018,1
+153,153,Declan Rice,West Ham,34,3009,2,0,1.23,0.64,0.04,0.02,2018,1
+154,154,Scott McTominay,Manchester United,16,852,2,0,1.59,0.02,0.17,0.0,2018,1
+155,155,Philip Billing,Huddersfield,27,2199,2,0,1.66,1.82,0.07,0.07,2018,1
+156,156,Lewis Dunk,Brighton,36,3154,2,1,1.76,0.75,0.05,0.02,2018,1
+157,157,Will Hughes,Watford,32,2454,2,4,2.97,3.66,0.11,0.13,2018,1
+158,158,Andriy Yarmolenko,West Ham,9,454,2,0,1.25,0.7,0.25,0.14,2018,1
+159,159,Jürgen Locadia,Brighton,26,1229,2,0,3.39,0.96,0.25,0.07,2018,1
+160,160,Ryan Sessegnon,Fulham,35,2300,2,6,4.27,3.99,0.17,0.16,2018,1
+161,161,Leander Dendoncker,Wolverhampton Wanderers,19,1474,2,0,4.17,1.29,0.25,0.08,2018,1
+162,162,Yan Valery,Southampton,23,1714,2,1,0.72,0.25,0.04,0.01,2018,1
+163,163,Yoshinori Muto,Newcastle United,17,512,1,0,1.02,0.31,0.18,0.06,2018,1
+164,164,Joel Matip,Liverpool,22,1535,1,0,0.9,0.18,0.05,0.01,2018,1
+165,165,Max Meyer,Crystal Palace,29,1403,1,2,1.98,1.07,0.13,0.07,2018,1
+166,166,Sokratis,Arsenal,25,2198,1,2,0.83,0.63,0.03,0.03,2018,1
+167,167,Leon Balogun,Brighton,8,589,1,0,0.08,0.0,0.01,0.0,2018,1
+168,168,Steve Cook,Bournemouth,31,2788,1,1,1.46,1.15,0.05,0.04,2018,1
+169,169,Charlie Daniels,Bournemouth,21,1587,1,0,0.62,0.46,0.04,0.03,2018,1
+170,170,Jordon Ibe,Bournemouth,19,799,1,1,0.78,0.42,0.09,0.05,2018,1
+171,171,Nacho Monreal,Arsenal,22,1857,1,3,1.23,2.01,0.06,0.1,2018,1
+172,172,Alexis Sánchez,Manchester United,20,875,1,3,1.71,3.55,0.18,0.36,2018,1
+173,173,Danny Welbeck,Arsenal,8,137,1,1,0.79,0.28,0.52,0.19,2018,1
+174,174,Joel Ward,Crystal Palace,7,550,1,0,0.92,0.12,0.15,0.02,2018,1
+175,175,Angelo Ogbonna,West Ham,24,1870,1,1,1.02,1.16,0.05,0.06,2018,1
+176,176,James Tomkins,Crystal Palace,29,2566,1,1,0.9,1.37,0.03,0.05,2018,1
+177,177,Manuel Lanzini,West Ham,10,693,1,1,1.18,0.96,0.15,0.12,2018,1
+178,178,Etienne Capoue,Watford,33,2951,1,3,1.3,1.37,0.04,0.04,2018,1
+179,179,Phil Jagielka,Everton,7,323,1,0,0.63,0.1,0.17,0.03,2018,1
+180,180,Aaron Lennon,Burnley,16,1223,1,1,0.92,0.66,0.07,0.05,2018,1
+181,181,Tom Cleverley,Watford,13,453,1,0,0.17,0.11,0.03,0.02,2018,1
+182,182,Dejan Lovren,Liverpool,13,988,1,0,0.91,0.11,0.08,0.01,2018,1
+183,183,Jordan Henderson,Liverpool,32,1979,1,3,1.51,1.69,0.07,0.08,2018,1
+184,184,Christian Benteke,Crystal Palace,16,808,1,1,3.73,1.19,0.42,0.13,2018,1
+185,185,Vincent Kompany,Manchester City,17,1221,1,0,0.24,0.07,0.02,0.01,2018,1
+186,186,Fernandinho,Manchester City,29,2397,1,3,1.72,3.13,0.06,0.12,2018,1
+187,187,Kelechi Iheanacho,Leicester,30,911,1,3,2.58,1.34,0.25,0.13,2018,1
+188,188,Chris Smalling,Manchester United,24,2130,1,0,1.11,0.12,0.05,0.01,2018,1
+189,189,Kyle Walker,Manchester City,33,2774,1,1,0.73,1.94,0.02,0.06,2018,1
+190,190,Jan Vertonghen,Tottenham,22,1925,1,0,1.01,0.24,0.05,0.01,2018,1
+191,191,Kieran Trippier,Tottenham,27,2278,1,3,0.46,4.85,0.02,0.19,2018,1
+192,192,Jordan Ayew,Crystal Palace,20,1200,1,2,2.65,1.2,0.2,0.09,2018,1
+193,193,César Azpilicueta,Chelsea,38,3405,1,5,1.26,2.42,0.03,0.06,2018,1
+194,194,Kenedy,Newcastle United,25,1347,1,1,2.41,0.82,0.16,0.05,2018,1
+195,195,Nemanja Matic,Manchester United,28,2450,1,0,1.71,0.56,0.06,0.02,2018,1
+196,196,Jack Cork,Burnley,37,3315,1,2,1.52,2.26,0.04,0.06,2018,1
+197,197,DeAndre Yedlin,Newcastle United,29,2476,1,2,1.19,2.15,0.04,0.08,2018,1
+198,198,Jonjo Shelvey,Newcastle United,16,932,1,1,0.72,1.86,0.07,0.18,2018,1
+199,199,Ryan Bennett,Wolverhampton Wanderers,34,3060,1,0,1.0,0.79,0.03,0.02,2018,1
+200,200,Jonny Evans,Leicester,24,1993,1,0,0.53,0.28,0.02,0.01,2018,1
+201,201,Adam Smith,Bournemouth,25,2080,1,1,0.6,0.58,0.03,0.02,2018,1
+202,202,Ryan Bertrand,Southampton,24,2160,1,0,1.26,1.72,0.05,0.07,2018,1
+203,203,Victor Wanyama,Tottenham,13,499,1,0,1.08,0.06,0.19,0.01,2018,1
+204,204,Oriol Romeu,Southampton,31,2155,1,0,0.96,1.71,0.04,0.07,2018,1
+205,205,Cédric Soares,Southampton,18,1494,1,2,0.27,1.14,0.02,0.07,2018,1
+206,206,Matt Targett,Southampton,16,1180,1,3,0.6,2.12,0.05,0.16,2018,1
+207,207,Adama Traoré,Wolverhampton Wanderers,29,879,1,1,1.26,2.2,0.13,0.23,2018,1
+208,208,Andreas Pereira,Manchester United,15,593,1,1,0.27,0.88,0.04,0.13,2018,1
+209,209,Harry Winks,Tottenham,26,1578,1,0,1.09,0.24,0.06,0.01,2018,1
+210,210,Luke Shaw,Manchester United,29,2594,1,4,1.53,4.32,0.05,0.15,2018,1
+211,211,Matej Vydra,Burnley,13,308,1,1,1.92,0.5,0.56,0.15,2018,1
+212,212,Mario Lemina,Southampton,21,1617,1,1,0.9,1.32,0.05,0.07,2018,1
+213,213,Manolo Gabbiadini,Southampton,12,459,1,0,1.76,0.24,0.34,0.05,2018,1
+214,214,Michael Keane,Everton,33,2970,1,2,2.0,1.24,0.06,0.04,2018,1
+215,215,Ben Gibson,Burnley,1,67,1,0,0.91,0.0,1.22,0.0,2018,1
+216,216,Isaac Success,Watford,30,1015,1,1,3.29,3.01,0.29,0.27,2018,1
+217,217,Fernando Llorente,Tottenham,20,674,1,4,3.5,2.01,0.47,0.27,2018,1
+218,218,Jack Stephens,Southampton,24,1695,1,0,1.46,0.23,0.08,0.01,2018,1
+219,219,Lys Mousset,Bournemouth,24,308,1,0,1.53,0.29,0.45,0.09,2018,1
+220,220,Ainsley Maitland-Niles,Arsenal,16,976,1,1,1.02,1.06,0.09,0.1,2018,1
+221,221,Trent Alexander-Arnold,Liverpool,29,2475,1,12,1.49,7.22,0.05,0.26,2018,1
+222,222,Antonio Rüdiger,Chelsea,33,2875,1,0,2.66,0.9,0.08,0.03,2018,1
+223,223,Danilo,Manchester City,11,806,1,0,0.42,0.13,0.05,0.01,2018,1
+224,224,Luciano Vietto,Fulham,20,975,1,4,2.84,2.44,0.26,0.22,2018,1
+225,225,Jonny,Wolverhampton Wanderers,33,2792,1,1,1.85,1.76,0.06,0.06,2018,1
+226,226,Christian Atsu,Newcastle United,28,1464,1,0,2.15,1.76,0.13,0.11,2018,1
+227,227,André Gomes,Everton,27,2001,1,1,1.39,0.66,0.06,0.03,2018,1
+228,228,Jon Gorenc Stankovic,Huddersfield,11,728,1,0,1.46,0.12,0.18,0.01,2018,1
+229,229,Issa Diop,West Ham,33,2970,1,0,1.26,0.18,0.04,0.01,2018,1
+230,230,Rachid Ghezzal,Leicester,19,731,1,0,1.37,1.73,0.17,0.21,2018,1
+231,231,Jean Michael Seri,Fulham,32,2274,1,2,0.82,4.04,0.03,0.16,2018,1
+232,232,Floyd Ayité,Fulham,16,441,1,0,0.35,0.5,0.07,0.1,2018,1
+233,233,Fabinho,Liverpool,28,2006,1,2,1.14,1.31,0.05,0.06,2018,1
+234,234,João Moutinho,Wolverhampton Wanderers,38,3053,1,8,0.51,6.53,0.01,0.19,2018,1
+235,235,Hélder Costa,Wolverhampton Wanderers,25,1345,1,2,2.66,2.01,0.18,0.13,2018,1
+236,236,Kiko Femenía,Watford,29,2034,1,1,0.5,1.64,0.02,0.07,2018,1
+237,237,Domingos Quina,Watford,8,328,1,0,0.2,0.09,0.05,0.03,2018,1
+238,238,Isaac Mbenza,Huddersfield,22,956,1,1,0.9,0.98,0.08,0.09,2018,1
+239,239,Christopher Schindler,Huddersfield,37,3266,1,0,1.04,0.4,0.03,0.01,2018,1
+240,240,Solly March,Brighton,35,2480,1,5,2.2,5.21,0.08,0.19,2018,1
+241,241,Davy Pröpper,Brighton,30,2554,1,1,0.95,1.22,0.03,0.04,2018,1
+242,242,Dale Stephens,Brighton,30,2485,1,1,0.25,0.59,0.01,0.02,2018,1
+243,243,Phil Foden,Manchester City,13,316,1,0,2.25,1.07,0.64,0.31,2018,1
+244,244,Isaac Hayden,Newcastle United,25,1865,1,4,0.86,2.45,0.04,0.12,2018,1
+245,245,Terence Kongolo,Huddersfield,32,2728,1,1,1.42,0.84,0.05,0.03,2018,1
+246,246,Victor Lindelöf,Manchester United,30,2604,1,1,0.84,1.58,0.03,0.05,2018,1
+247,247,Davinson Sánchez,Tottenham,23,1943,1,1,1.62,0.62,0.08,0.03,2018,1
+248,248,Juan Foyth,Tottenham,12,889,1,0,0.7,0.79,0.07,0.08,2018,1
+249,249,Beram Kayal,Brighton,18,937,1,1,0.29,1.18,0.03,0.11,2018,1
+250,250,Eddie Nketiah,Arsenal,5,54,1,0,0.27,0.13,0.45,0.22,2018,1
+251,251,Michael Obafemi,Southampton,6,131,1,1,1.89,0.34,1.3,0.23,2018,1
+252,252,Yerry Mina,Everton,13,891,1,0,0.75,0.14,0.08,0.01,2018,1
+253,253,Harvey Barnes,Leicester,16,1014,1,2,3.62,1.93,0.32,0.17,2018,1
+254,254,Fred,Manchester United,17,1045,1,1,0.9,0.95,0.08,0.08,2018,1
+255,255,Sean Morrison,Cardiff,34,3043,1,3,5.05,3.46,0.15,0.1,2018,1
+256,256,Danny Ward,Cardiff,14,426,1,0,0.61,0.29,0.13,0.06,2018,1
+257,257,Tom Cairney,Fulham,31,2207,1,1,1.15,3.0,0.05,0.12,2018,1
+258,258,Ken Sema,Watford,17,772,1,2,0.87,0.77,0.1,0.09,2018,1
+259,259,Ryan Fredericks,West Ham,15,1077,1,0,0.53,0.51,0.04,0.04,2018,1
+260,260,Fabián Balbuena,West Ham,23,2013,1,0,2.52,0.15,0.11,0.01,2018,1
+261,261,Kenneth Zohore,Cardiff,19,735,1,1,1.62,0.91,0.2,0.11,2018,1
+262,262,Bernard,Everton,34,2146,1,3,2.69,3.24,0.11,0.14,2018,1
+263,263,Sean Longstaff,Newcastle United,9,694,1,0,0.75,0.6,0.1,0.08,2018,1
+264,264,Kadeem Harris,Cardiff,13,346,1,0,0.89,0.51,0.23,0.13,2018,1
+265,265,Aron Gunnarsson,Cardiff,28,2296,1,1,2.36,1.74,0.09,0.07,2018,1
+266,266,Juninho Bacuna,Huddersfield,21,1418,1,0,0.8,1.4,0.05,0.09,2018,1
+267,267,Jannik Vestergaard,Southampton,23,2033,0,0,0.68,0.53,0.03,0.02,2018,1
+268,268,Bernd Leno,Arsenal,32,2833,0,0,0.0,0.0,0.0,0.0,2018,1
+269,269,Andreas Christensen,Chelsea,8,614,0,0,0.0,0.0,0.0,0.0,2018,1
+270,270,Håvard Nordtveit,Fulham,5,361,0,1,0.0,0.12,0.0,0.03,2018,1
+271,271,Elias Kachunga,Huddersfield,20,1181,0,0,0.98,0.24,0.07,0.02,2018,1
+272,272,Sead Kolasinac,Arsenal,24,1897,0,5,0.41,6.74,0.02,0.32,2018,1
+273,273,Artur Boruc,Bournemouth,12,1080,0,0,0.0,0.0,0.0,0.0,2018,1
+274,274,Simon Francis,Bournemouth,17,1220,0,2,0.12,0.6,0.01,0.04,2018,1
+275,275,Andrew Surman,Bournemouth,18,1440,0,0,0.27,0.48,0.02,0.03,2018,1
+276,276,Mamadou Sakho,Crystal Palace,27,2418,0,0,0.83,0.19,0.03,0.01,2018,1
+277,277,Adam Lallana,Liverpool,13,459,0,0,0.3,0.54,0.06,0.11,2018,1
+278,278,Petr Cech,Arsenal,7,587,0,0,0.0,0.0,0.0,0.0,2018,1
+279,279,Héctor Bellerín,Arsenal,19,1539,0,5,0.96,2.46,0.06,0.14,2018,1
+280,280,Mohamed Elneny,Arsenal,8,383,0,0,0.45,0.22,0.11,0.05,2018,1
+281,281,Wayne Hennessey,Crystal Palace,18,1576,0,0,0.0,0.0,0.0,0.0,2018,1
+282,282,Scott Dann,Crystal Palace,10,658,0,1,0.2,1.16,0.03,0.16,2018,1
+283,283,Pape Souaré,Crystal Palace,1,1,0,0,0.0,0.0,0.0,0.0,2018,1
+284,284,Jason Puncheon,Crystal Palace,11,389,0,0,0.61,0.84,0.14,0.2,2018,1
+285,285,Connor Wickham,Huddersfield,6,56,0,1,0.34,0.39,0.55,0.63,2018,1
+286,286,Bakary Sako,Crystal Palace,4,19,0,0,0.0,0.0,0.0,0.0,2018,1
+287,287,Julian Speroni,Crystal Palace,1,90,0,0,0.0,0.0,0.0,0.0,2018,1
+288,288,Adrian Mariappa,Crystal Palace,26,1921,0,0,1.39,0.7,0.06,0.03,2018,1
+289,289,Martin Kelly,Watford,13,1109,0,0,0.77,0.02,0.06,0.0,2018,1
+290,290,Cheikhou Kouyaté,Crystal Palace,31,1900,0,2,1.63,0.89,0.08,0.04,2018,1
+291,291,Aaron Cresswell,West Ham,20,1586,0,1,0.42,0.94,0.02,0.05,2018,1
+292,292,Andy Carroll,West Ham,12,438,0,0,1.98,0.28,0.41,0.06,2018,1
+293,293,Victor Moses,Chelsea,2,24,0,0,0.0,0.11,0.0,0.4,2018,1
+294,294,Pedro Obiang,West Ham,24,1112,0,1,0.56,1.14,0.05,0.09,2018,1
+295,295,David de Gea,Manchester United,38,3420,0,0,0.0,0.0,0.0,0.0,2018,1
+296,296,Timothy Fosu-Mensah,Fulham,12,797,0,0,0.08,0.37,0.01,0.04,2018,1
+297,297,Marcos Rojo,Manchester United,5,208,0,0,0.24,0.0,0.1,0.0,2018,1
+298,298,Morgan Schneiderlin,Everton,14,831,0,1,0.1,0.8,0.01,0.09,2018,1
+299,299,Matteo Darmian,Manchester United,6,447,0,0,0.03,0.05,0.01,0.01,2018,1
+300,300,Sebastian Prödl,Watford,1,13,0,0,0.0,0.0,0.0,0.0,2018,1
+301,301,Miguel Britos,Watford,3,185,0,0,0.0,0.0,0.0,0.0,2018,1
+302,302,John Stones,Manchester City,24,1763,0,0,0.16,0.22,0.01,0.01,2018,1
+303,303,Leighton Baines,Everton,6,375,0,0,0.08,0.08,0.02,0.02,2018,1
+304,304,James McCarthy,Everton,1,11,0,0,0.0,0.0,0.0,0.0,2018,1
+305,305,Oumar Niasse,Cardiff,18,1014,0,0,3.39,0.77,0.3,0.07,2018,1
+306,306,Nathaniel Clyne,Everton,18,1259,0,1,0.26,0.1,0.02,0.01,2018,1
+307,307,Alberto Moreno,Bournemouth,2,156,0,0,0.02,0.14,0.01,0.08,2018,1
+308,308,Joe Hart,Liverpool,19,1710,0,0,0.0,0.02,0.0,0.0,2018,1
+309,309,Pablo Zabaleta,Liverpool,26,2099,0,1,0.16,1.03,0.01,0.04,2018,1
+310,310,Nicolás Otamendi,Manchester City,18,1233,0,0,1.18,0.29,0.09,0.02,2018,1
+311,311,Willy Caballero,Chelsea,2,180,0,0,0.0,0.0,0.0,0.0,2018,1
+312,312,Antonio Valencia,Manchester United,6,465,0,0,0.04,0.53,0.01,0.1,2018,1
+313,313,Marouane Fellaini,Manchester United,14,728,0,1,0.73,0.2,0.09,0.03,2018,1
+314,314,Alex McCarthy,Southampton,25,2250,0,0,0.0,0.0,0.0,0.0,2018,1
+315,315,Luke Dreher,Crystal Palace,1,1,0,0,0.0,0.0,0.0,0.0,2018,1
+316,316,Hugo Lloris,Tottenham,33,2970,0,0,0.0,0.0,0.0,0.0,2018,1
+317,317,Toby Alderweireld,Tottenham,34,2926,0,0,0.99,0.49,0.03,0.02,2018,1
+318,318,Danny Rose,Tottenham,26,1798,0,3,0.8,2.59,0.04,0.13,2018,1
+319,319,Mousa Dembélé,Tottenham,10,518,0,0,0.03,0.0,0.01,0.0,2018,1
+320,320,Michel Vorm,Tottenham,2,180,0,0,0.0,0.0,0.0,0.0,2018,1
+321,321,Ben Davies,Tottenham,27,1831,0,0,0.57,2.25,0.03,0.11,2018,1
+322,322,Carlos Sánchez,West Ham,7,233,0,0,0.06,0.05,0.02,0.02,2018,1
+323,323,Idrissa Gueye,Everton,33,2828,0,2,0.59,0.93,0.02,0.03,2018,1
+324,324,Leandro Bacuna,Cardiff,11,543,0,0,0.08,0.03,0.01,0.0,2018,1
+325,325,Cesc Fàbregas,Chelsea,6,167,0,0,0.06,0.22,0.03,0.12,2018,1
+326,326,Asmir Begovic,Bournemouth,24,2160,0,0,0.0,0.0,0.0,0.0,2018,1
+327,327,Gary Cahill,Chelsea,2,22,0,0,0.0,0.0,0.0,0.0,2018,1
+328,328,Lukasz Fabianski,West Ham,38,3420,0,0,0.0,0.08,0.0,0.0,2018,1
+329,329,Federico Fernández,Newcastle United,19,1486,0,1,0.08,0.43,0.01,0.03,2018,1
+330,330,Ki Sung-yueng,Newcastle United,18,1302,0,1,0.15,1.08,0.01,0.07,2018,1
+331,331,Jermain Defoe,Bournemouth,4,13,0,0,0.13,0.0,0.91,0.0,2018,1
+332,332,Jordan Pickford,Everton,38,3420,0,0,0.0,0.04,0.0,0.0,2018,1
+333,333,Kasper Schmeichel,Leicester,38,3420,0,0,0.08,0.29,0.0,0.01,2018,1
+334,334,Danny Simpson,Leicester,6,288,0,0,0.0,0.03,0.0,0.01,2018,1
+335,335,Christian Fuchs,Leicester,3,204,0,0,0.06,0.2,0.03,0.09,2018,1
+336,336,Shinji Okazaki,Leicester,21,249,0,1,0.28,0.11,0.1,0.04,2018,1
+337,337,Daniel Amartey,Leicester,9,637,0,0,0.47,0.11,0.07,0.02,2018,1
+338,338,Daryl Janmaat,Watford,18,1524,0,2,0.47,0.58,0.03,0.03,2018,1
+339,339,Jamaal Lascelles,Newcastle United,32,2751,0,1,0.4,1.2,0.01,0.04,2018,1
+340,340,Moussa Sissoko,Tottenham,29,2344,0,3,0.96,2.79,0.04,0.11,2018,1
+341,341,Ben Chilwell,Leicester,36,3240,0,4,0.97,3.07,0.03,0.09,2018,1
+342,342,John Ruddy,Wolverhampton Wanderers,1,90,0,0,0.0,0.0,0.0,0.0,2018,1
+343,343,Robbie Brady,Burnley,16,701,0,1,0.68,1.03,0.09,0.13,2018,1
+344,344,Ben Foster,Watford,38,3420,0,0,0.02,0.21,0.0,0.01,2018,1
+345,345,Fraser Forster,Southampton,1,90,0,0,0.0,0.0,0.0,0.0,2018,1
+346,346,Maya Yoshida,Southampton,17,1520,0,1,1.83,1.07,0.11,0.06,2018,1
+347,347,Paul Dummett,Newcastle United,26,1976,0,0,0.28,0.35,0.01,0.02,2018,1
+348,348,Phil Bardsley,Burnley,19,1677,0,0,0.25,1.29,0.01,0.07,2018,1
+349,349,Peter Crouch,Burnley,6,73,0,0,0.61,0.0,0.75,0.0,2018,1
+350,350,Fabian Delph,Manchester City,11,723,0,1,0.07,0.39,0.01,0.05,2018,1
+351,351,Samir Nasri,West Ham,5,244,0,2,0.13,0.55,0.05,0.2,2018,1
+352,352,Harry Arter,Cardiff,25,2033,0,1,0.8,0.72,0.04,0.03,2018,1
+353,353,Steven Davis,Southampton,3,96,0,1,0.0,0.45,0.0,0.42,2018,1
+354,354,Kyle Walker-Peters,Tottenham,6,372,0,3,0.35,0.48,0.08,0.12,2018,1
+355,355,Carl Jenkinson,Arsenal,3,166,0,0,0.0,0.06,0.0,0.03,2018,1
+356,356,Phil Jones,Manchester United,18,1266,0,1,0.55,0.82,0.04,0.06,2018,1
+357,357,Joe Bennett,Cardiff,30,2648,0,1,0.52,0.8,0.02,0.03,2018,1
+358,358,Alex Oxlade-Chamberlain,Liverpool,2,17,0,0,0.47,0.12,2.47,0.61,2018,1
+359,359,Paulo Gazzaniga,Tottenham,3,270,0,0,0.0,0.0,0.0,0.0,2018,1
+360,360,Mason Holgate,Everton,5,407,0,0,0.0,0.0,0.0,0.0,2018,1
+361,361,Joseph Gomez,Liverpool,16,1052,0,0,0.23,0.42,0.02,0.04,2018,1
+362,362,Tyrone Mings,Bournemouth,5,137,0,0,0.0,0.06,0.0,0.04,2018,1
+363,363,Jack Wilshere,West Ham,8,384,0,1,0.18,0.53,0.04,0.13,2018,1
+364,364,Tom Davies,Everton,16,973,0,0,0.31,0.59,0.03,0.05,2018,1
+365,365,Jonjoe Kenny,Everton,10,791,0,1,0.09,0.84,0.01,0.1,2018,1
+366,366,Davide Zappacosta,Chelsea,4,119,0,0,0.15,0.13,0.12,0.1,2018,1
+367,367,Antonio Barreca,Newcastle United,1,3,0,0,0.0,0.0,0.0,0.0,2018,1
+368,368,Wesley Hoedt,Southampton,13,1170,0,0,0.59,0.02,0.05,0.0,2018,1
+369,369,Emerson,Chelsea,10,653,0,0,0.27,0.6,0.04,0.08,2018,1
+370,370,Alisson,Liverpool,38,3420,0,0,0.0,0.0,0.0,0.0,2018,1
+371,371,Stephan Lichtsteiner,Arsenal,14,953,0,0,0.02,0.09,0.0,0.01,2018,1
+372,372,Adam Masina,Watford,14,1004,0,1,0.05,0.69,0.0,0.06,2018,1
+373,373,Tom Heaton,Burnley,19,1710,0,0,0.06,0.04,0.0,0.0,2018,1
+374,374,Matthew Lowton,Burnley,21,1743,0,0,0.83,0.5,0.04,0.03,2018,1
+375,375,Ben Mee,Burnley,38,3420,0,2,1.15,1.52,0.03,0.04,2018,1
+376,376,Stephen Ward,Burnley,3,235,0,0,0.08,0.05,0.03,0.02,2018,1
+377,377,Steven Defour,Burnley,6,459,0,0,0.0,0.05,0.0,0.01,2018,1
+378,378,Nathaniel Chalobah,Watford,9,264,0,0,0.08,0.22,0.03,0.08,2018,1
+379,379,Dominic Solanke,Bournemouth,10,322,0,1,0.8,0.36,0.22,0.1,2018,1
+380,380,Andrew Robertson,Liverpool,36,3223,0,11,0.86,8.06,0.02,0.22,2018,1
+381,381,Javier Manquillo,Newcastle United,18,1098,0,3,0.08,0.68,0.01,0.06,2018,1
+382,382,Christian Kabasele,Watford,21,1585,0,0,1.54,0.18,0.09,0.01,2018,1
+383,383,Alfie Mawson,Fulham,15,1124,0,0,0.32,0.05,0.03,0.0,2018,1
+384,384,Georges-Kévin Nkoudou,Tottenham,1,3,0,1,0.0,0.61,0.0,18.23,2018,1
+385,385,Vincent Janssen,Tottenham,3,34,0,0,0.31,0.0,0.81,0.0,2018,1
+386,386,Eric Bailly,Manchester United,12,639,0,0,0.25,0.0,0.04,0.0,2018,1
+387,387,Kevin Long,Burnley,6,514,0,1,0.03,0.41,0.01,0.07,2018,1
+388,388,Rob Holding,Arsenal,10,807,0,0,0.12,0.17,0.01,0.02,2018,1
+389,389,Ben Hamer,Huddersfield,7,552,0,0,0.0,0.0,0.0,0.0,2018,1
+390,390,Arthur Masuaku,West Ham,23,1759,0,1,0.07,1.02,0.0,0.05,2018,1
+391,391,Stefano Okaka,Watford,2,18,0,0,0.56,0.15,2.78,0.75,2018,1
+392,392,Ramadan Sobhi,Huddersfield,4,68,0,0,0.0,0.18,0.0,0.23,2018,1
+393,393,Nampalys Mendy,Leicester,31,2085,0,0,0.07,0.22,0.0,0.01,2018,1
+394,394,Lewis Cook,Bournemouth,13,718,0,0,0.13,0.06,0.02,0.01,2018,1
+395,395,Martín Montoya,Brighton,25,2165,0,1,0.19,1.18,0.01,0.05,2018,1
+396,396,Vicente Iborra,Leicester,8,220,0,0,0.27,0.1,0.11,0.04,2018,1
+397,397,Sergio Rico,Fulham,29,2610,0,0,0.0,0.08,0.0,0.0,2018,1
+398,398,Vicente Guaita,Crystal Palace,20,1754,0,0,0.0,0.0,0.0,0.0,2018,1
+399,399,Mateo Kovacic,Chelsea,32,1756,0,2,2.02,2.01,0.1,0.1,2018,1
+400,400,Denis Suárez,Arsenal,4,59,0,0,0.0,0.0,0.0,0.0,2018,1
+401,401,Mat Ryan,Brighton,34,3060,0,0,0.0,0.0,0.0,0.0,2018,1
+402,402,Fabri,Fulham,2,180,0,0,0.0,0.0,0.0,0.0,2018,1
+403,403,Erik Durm,Huddersfield,28,2049,0,1,0.28,0.47,0.01,0.02,2018,1
+404,404,Oleksandr Zinchenko,Manchester City,14,1153,0,3,0.21,1.72,0.02,0.13,2018,1
+405,405,Maxime Le Marchand,Fulham,26,2251,0,1,0.16,0.81,0.01,0.03,2018,1
+406,406,Benjamin Mendy,Manchester City,10,900,0,5,0.23,2.05,0.02,0.2,2018,1
+407,407,Jonas Lössl,Huddersfield,31,2778,0,1,0.0,0.39,0.0,0.01,2018,1
+408,408,Serge Aurier,Tottenham,8,566,0,2,0.14,1.26,0.02,0.2,2018,1
+409,409,Lazar Markovic,Fulham,1,42,0,0,0.0,0.01,0.0,0.03,2018,1
+410,410,Jazz Richards,Cardiff,4,117,0,0,0.0,0.0,0.0,0.0,2018,1
+411,411,Mohamed Diamé,Newcastle United,29,2172,0,0,1.05,0.13,0.04,0.01,2018,1
+412,412,Sam Gallagher,Southampton,4,30,0,0,0.0,0.0,0.0,0.0,2018,1
+413,413,Bruno Ecuele Manga,Cardiff,38,3374,0,1,1.21,0.29,0.03,0.01,2018,1
+414,414,Kepa,Chelsea,36,3240,0,0,0.0,0.0,0.0,0.0,2018,1
+415,415,Diego Rico,Bournemouth,12,600,0,0,0.18,1.22,0.03,0.18,2018,1
+416,416,Florian Lejeune,Newcastle United,12,1057,0,0,0.28,0.29,0.02,0.02,2018,1
+417,417,Marc Navarro,Watford,2,87,0,0,0.0,0.0,0.0,0.0,2018,1
+418,418,Florent Hadergjonaj,Huddersfield,24,1843,0,0,0.22,1.38,0.01,0.07,2018,1
+419,419,Bernardo,Brighton,22,1740,0,1,0.35,0.58,0.02,0.03,2018,1
+420,420,Caglar Söyüncü,Leicester,6,373,0,0,0.06,0.0,0.01,0.0,2018,1
+421,421,Angus Gunn,Southampton,12,1080,0,0,0.0,0.0,0.0,0.0,2018,1
+422,422,Ademola Lookman,Everton,21,575,0,2,1.57,1.61,0.25,0.25,2018,1
+423,423,Josh Sims,Southampton,7,205,0,1,0.77,0.7,0.34,0.31,2018,1
+424,424,Aaron Wan-Bissaka,Crystal Palace,35,3136,0,3,0.37,2.29,0.01,0.07,2018,1
+425,425,Angel Gomes,Manchester United,2,23,0,0,0.11,0.0,0.42,0.0,2018,1
+426,426,Sam Surridge,Bournemouth,2,9,0,0,0.38,0.04,3.79,0.38,2018,1
+427,427,Yves Bissouma,Brighton,28,1757,0,0,1.78,0.99,0.09,0.05,2018,1
+428,428,Adama Diakhaby,Huddersfield,12,560,0,0,0.87,0.54,0.14,0.09,2018,1
+429,429,Matteo Guendouzi,Arsenal,33,2132,0,0,0.48,1.5,0.02,0.06,2018,1
+430,430,Fousseni Diabate,Leicester,1,55,0,0,0.0,0.08,0.0,0.12,2018,1
+431,431,Tommy Smith,Huddersfield,15,1138,0,0,0.08,0.39,0.01,0.03,2018,1
+432,432,Chris Löwe,Huddersfield,29,2052,0,2,0.49,1.78,0.02,0.08,2018,1
+433,433,Collin Quaner,Huddersfield,2,34,0,0,0.0,0.1,0.0,0.26,2018,1
+434,434,Rajiv van La Parra,Huddersfield,5,411,0,0,0.24,0.07,0.05,0.02,2018,1
+435,435,Danny Williams,Huddersfield,5,94,0,0,0.02,0.03,0.01,0.03,2018,1
+436,436,Laurent Depoitre,Huddersfield,23,1039,0,1,2.67,0.46,0.23,0.04,2018,1
+437,437,Joel Coleman,Huddersfield,1,90,0,0,0.0,0.0,0.0,0.0,2018,1
+438,438,Jan Bednarek,Southampton,25,2150,0,1,0.84,0.62,0.04,0.03,2018,1
+439,439,Charlie Taylor,Burnley,38,3238,0,1,0.11,1.45,0.0,0.04,2018,1
+440,440,Bruno,Brighton,14,1150,0,1,0.07,0.59,0.01,0.05,2018,1
+441,441,Ederson,Manchester City,38,3420,0,1,0.0,0.07,0.0,0.0,2018,1
+442,442,Jacob Murphy,Newcastle United,9,293,0,1,0.03,0.61,0.01,0.19,2018,1
+443,443,Gaëtan Bong,Brighton,22,1802,0,0,0.07,0.48,0.0,0.02,2018,1
+444,444,José Izquierdo,Brighton,15,803,0,1,0.62,0.47,0.07,0.05,2018,1
+445,445,Abdelhamid Sabiri,Huddersfield,2,51,0,0,0.0,0.0,0.0,0.0,2018,1
+446,446,Jonathan Hogg,Huddersfield,29,2392,0,1,0.26,0.73,0.01,0.03,2018,1
+447,447,Jack Simpson,Bournemouth,6,407,0,0,0.37,0.0,0.08,0.0,2018,1
+448,448,Hamza Choudhury,Leicester,9,597,0,0,0.47,0.51,0.07,0.08,2018,1
+449,449,Ben Johnson,West Ham,1,64,0,0,0.0,0.0,0.0,0.0,2018,1
+450,450,Franck Zambo,Fulham,22,1515,0,0,0.65,0.25,0.04,0.01,2018,1
+451,451,Callum Hudson-Odoi,Chelsea,10,390,0,1,0.99,1.57,0.23,0.36,2018,1
+452,452,Emerson Hyndman,Bournemouth,1,34,0,0,0.0,0.0,0.0,0.0,2018,1
+453,453,Adrien Silva,Leicester,2,86,0,0,0.0,0.0,0.0,0.0,2018,1
+454,454,Alexander Sørloth,Crystal Palace,12,156,0,0,0.46,0.69,0.26,0.4,2018,1
+455,455,Martin Dubravka,Newcastle United,38,3420,0,0,0.0,0.0,0.0,0.0,2018,1
+456,456,Joe Willock,Arsenal,2,66,0,0,0.13,0.0,0.18,0.0,2018,1
+457,457,Grady Diangana,West Ham,17,602,0,1,0.64,1.22,0.1,0.18,2018,1
+458,458,Rafael Camacho,Liverpool,1,1,0,0,0.0,0.0,0.0,0.0,2018,1
+459,459,Konstantinos Mavropanos,Arsenal,4,149,0,0,0.1,0.57,0.06,0.34,2018,1
+460,460,Luke Amos,Tottenham,1,1,0,0,0.0,0.0,0.0,0.0,2018,1
+461,461,Neil Etheridge,Cardiff,38,3420,0,0,0.0,0.09,0.0,0.0,2018,1
+462,462,Lee Peltier,Cardiff,20,1539,0,0,0.04,0.07,0.0,0.0,2018,1
+463,463,Joe Ralls,Cardiff,28,1961,0,0,1.37,3.6,0.06,0.17,2018,1
+464,464,Gary Madine,Cardiff,5,23,0,0,0.0,0.0,0.0,0.0,2018,1
+465,465,Greg Cunningham,Cardiff,7,630,0,0,0.07,0.22,0.01,0.03,2018,1
+466,466,Cyrus Christie,Fulham,28,1932,0,1,0.39,1.2,0.02,0.06,2018,1
+467,467,Joe Bryan,Fulham,28,2364,0,1,0.55,4.4,0.02,0.17,2018,1
+468,468,Kevin McDonald,Fulham,15,843,0,0,0.11,0.1,0.01,0.01,2018,1
+469,469,Stefan Johansen,Fulham,12,406,0,0,0.04,0.05,0.01,0.01,2018,1
+470,470,Ibrahima Cissé,Fulham,3,85,0,0,0.0,0.0,0.0,0.0,2018,1
+471,471,Neeskens Kebano,Fulham,7,93,0,0,0.05,0.0,0.05,0.0,2018,1
+472,472,Alireza Jahanbakhsh,Brighton,19,1021,0,0,0.7,0.19,0.06,0.02,2018,1
+473,473,David Button,Brighton,4,360,0,0,0.0,0.0,0.0,0.0,2018,1
+474,474,Rui Patrício,Wolverhampton Wanderers,37,3330,0,0,0.0,0.0,0.0,0.0,2018,1
+475,475,Conor Coady,Wolverhampton Wanderers,38,3420,0,0,0.0,0.01,0.0,0.0,2018,1
+476,476,Léo Bonatini,Wolverhampton Wanderers,7,117,0,1,1.55,0.16,1.19,0.12,2018,1
+477,477,Rúben Vinagre,Wolverhampton Wanderers,17,697,0,0,0.45,0.87,0.06,0.11,2018,1
+478,478,Morgan Gibbs-White,Wolverhampton Wanderers,26,628,0,1,0.99,1.3,0.14,0.19,2018,1
+479,479,Mohamed Elyounoussi,Southampton,16,786,0,0,2.21,1.14,0.25,0.13,2018,1
+480,480,Marcus Bettinelli,Fulham,7,630,0,0,0.0,0.0,0.0,0.0,2018,1
+481,481,Denis Odoi,Fulham,31,2591,0,1,0.72,0.57,0.03,0.02,2018,1
+482,482,Tim Ream,Fulham,26,2057,0,0,0.02,0.24,0.0,0.01,2018,1
+483,483,Oliver Skipp,Tottenham,8,207,0,0,0.06,0.03,0.02,0.01,2018,1
+484,484,Loïc Damour,Cardiff,2,17,0,0,0.03,0.0,0.17,0.0,2018,1
+485,485,Ben Wilmot,Watford,2,24,0,0,0.0,0.0,0.0,0.0,2018,1
+486,486,Diogo Dalot,Manchester United,16,1015,0,2,0.72,2.73,0.06,0.24,2018,1
+487,487,Xande Silva,West Ham,1,15,0,0,0.07,0.01,0.42,0.08,2018,1
+488,488,Tyreke Johnson,Southampton,1,1,0,0,0.0,0.0,0.0,0.0,2018,1
+489,489,Bukayo Saka,Arsenal,1,6,0,0,0.0,0.0,0.0,0.0,2018,1

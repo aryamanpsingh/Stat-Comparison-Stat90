@@ -154,6 +154,11 @@ export class index extends Component {
           {sideList("right")}
         </Drawer>
         <Container fixed>
+          <SwitchTab
+            year={this.state.year}
+            tabChange={this.tabChange}
+            toggleDrawer={toggleDrawer}
+          />
           <Grid container>
             <Grid item xs={4}>
               <Graph
@@ -197,12 +202,6 @@ export class index extends Component {
               />
             </Grid>
           </Grid>
-
-          <SwitchTab
-            year={this.state.year}
-            tabChange={this.tabChange}
-            toggleDrawer={toggleDrawer}
-          />
         </Container>
       </Fragment>
     );

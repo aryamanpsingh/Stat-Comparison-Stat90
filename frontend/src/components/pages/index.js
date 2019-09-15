@@ -160,7 +160,7 @@ export class index extends Component {
             toggleDrawer={toggleDrawer}
           />
           <Grid container>
-            <Grid item xs={4}>
+            <Grid item xs={4} style={{ marginTop: "20px" }}>
               <Graph
                 length={10}
                 attribute="goals"

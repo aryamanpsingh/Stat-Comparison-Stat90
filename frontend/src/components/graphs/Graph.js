@@ -34,7 +34,7 @@ export class Graph extends Component {
     return (
       <HorizontalBar
         data={data}
-        height={400}
+        height={350}
         options={{
           scales: {
             xAxes: [

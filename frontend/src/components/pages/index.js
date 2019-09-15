@@ -30,7 +30,11 @@ const styles = theme => ({
   graph: {
     padding: theme.spacing(2),
     textAlign: "center",
-    color: theme.palette.text.secondary
+    color: theme.palette.text.secondary,
+    margin: "auto"
+  },
+  compare: {
+    margin: "auto"
   }
 });
 
@@ -189,7 +193,7 @@ export class index extends Component {
               xs={4}
               style={{ marginTop: "50px", textAlign: "center" }}
             >
-              <Compare players={currentPlayers} />
+              <Compare players={currentPlayers} className={classes.compare} />
             </Grid>
 
             <Grid item xs={4} style={{ textAlign: "center" }}>

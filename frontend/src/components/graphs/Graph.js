@@ -60,7 +60,7 @@ export class Graph extends Component {
             display: false,
             position: "bottom"
           },
-          responsive: true,
+          responsive: false,
           maintainAspectRatio: false
         }}
       />

@@ -1,0 +1,361 @@
+,name,team,apps,mins,goals,assists,xG,xA,xG90,xA90,Year,league
+0,Sergio Agüero,Manchester City,5,358,7,1,4.07,0.73,1.02,0.18,2019,2
+1,Tammy Abraham,Chelsea,5,336,7,0,2.77,0.87,0.74,0.23,2019,2
+2,Teemu Pukki,Norwich,5,446,6,2,2.69,2.13,0.54,0.43,2019,2
+3,Raheem Sterling,Manchester City,5,450,5,0,3.91,1.45,0.78,0.29,2019,2
+4,Sadio Mané,Liverpool,5,358,4,1,1.77,1.35,0.44,0.34,2019,2
+5,Mohamed Salah,Liverpool,5,441,4,2,3.27,1.16,0.67,0.24,2019,2
+6,Ashley Barnes,Burnley,5,421,4,0,2.23,0.00,0.48,0.0,2019,2
+7,Pierre-Emerick Aubameyang,Arsenal,4,360,3,0,1.78,0.28,0.44,0.07,2019,2
+8,Marcus Rashford,Manchester United,5,448,3,1,4.12,0.29,0.83,0.06,2019,2
+9,Harry Kane,Tottenham,5,447,3,1,2.18,0.65,0.44,0.13,2019,2
+10,Jamie Vardy,Leicester,5,450,3,1,1.11,0.66,0.22,0.13,2019,2
+11,Daniel James,Manchester United,5,374,3,0,1.12,0.40,0.27,0.1,2019,2
+12,Sébastien Haller,West Ham,3,270,3,0,3.03,0.00,1.01,0.0,2019,2
+13,Mason Mount,Chelsea,5,450,3,0,1.54,0.75,0.31,0.15,2019,2
+14,Son Heung-Min,Tottenham,3,261,2,0,0.64,0.21,0.22,0.07,2019,2
+15,Roberto Firmino,Liverpool,5,407,2,3,2.28,1.82,0.5,0.4,2019,2
+16,Anthony Martial,Manchester United,3,270,2,1,1.17,0.14,0.39,0.05,2019,2
+17,Erik Lamela,Tottenham,5,393,2,1,0.80,0.25,0.18,0.06,2019,2
+18,Jordan Ayew,Crystal Palace,4,308,2,0,1.11,0.19,0.32,0.05,2019,2
+19,Alexandre Lacazette,Arsenal,3,148,2,0,0.94,0.17,0.57,0.1,2019,2
+20,Neal Maupay,Brighton,5,279,2,0,1.63,0.36,0.53,0.12,2019,2
+21,Raúl Jiménez,Wolverhampton Wanderers,5,432,2,0,1.84,0.37,0.38,0.08,2019,2
+22,Harry Wilson,Bournemouth,3,200,2,0,0.47,0.42,0.21,0.19,2019,2
+23,Richarlison,Everton,4,326,2,0,0.96,0.06,0.27,0.02,2019,2
+24,Todd Cantwell,Norwich,5,441,2,2,2.53,0.86,0.52,0.18,2019,2
+25,Moussa Djenepo,Southampton,3,120,2,0,0.50,0.34,0.37,0.26,2019,2
+26,Fabian Schär,Newcastle United,5,441,1,0,0.64,0.00,0.13,0.0,2019,2
+27,Joelinton,Newcastle United,5,429,1,0,0.91,0.33,0.19,0.07,2019,2
+28,Jannik Vestergaard,Southampton,5,450,1,0,0.29,0.69,0.06,0.14,2019,2
+29,Chicharito,West Ham,2,107,1,0,0.88,0.00,0.74,0.0,2019,2
+30,Joel Matip,Liverpool,4,360,1,0,0.17,0.02,0.04,0.0,2019,2
+31,Kevin De Bruyne,Manchester City,5,365,1,5,1.26,3.07,0.31,0.76,2019,2
+32,Joshua King,Bournemouth,4,352,1,0,0.90,0.15,0.23,0.04,2019,2
+33,Callum Wilson,Bournemouth,4,345,1,0,1.53,0.58,0.4,0.15,2019,2
+34,Divock Origi,Liverpool,4,126,1,0,0.30,0.18,0.22,0.13,2019,2
+35,Alex Iwobi,Everton,2,103,1,0,0.59,0.04,0.51,0.03,2019,2
+36,Mark Noble,West Ham,2,178,1,0,0.76,0.06,0.38,0.03,2019,2
+37,Christian Eriksen,Tottenham,5,320,1,0,0.99,0.80,0.28,0.23,2019,2
+38,Fikayo Tomori,Chelsea,2,180,1,0,0.02,0.05,0.01,0.02,2019,2
+39,Patrick van Aanholt,Crystal Palace,5,450,1,0,0.21,0.09,0.04,0.02,2019,2
+40,Jonjo Shelvey,Newcastle United,3,236,1,0,0.19,0.15,0.07,0.06,2019,2
+41,Nathan Redmond,Southampton,3,270,1,0,1.08,0.47,0.36,0.16,2019,2
+42,Virgil van Dijk,Liverpool,5,450,1,0,0.20,0.00,0.04,0.0,2019,2
+43,Danny Ings,Southampton,5,274,1,1,0.83,0.29,0.27,0.1,2019,2
+44,Lucas Torreira,Arsenal,3,98,1,0,0.19,0.17,0.18,0.16,2019,2
+45,Andre Gray,Watford,4,256,1,0,0.53,1.17,0.19,0.41,2019,2
+46,Johann Berg Gudmundsson,Burnley,3,231,1,0,0.19,0.53,0.08,0.21,2019,2
+47,Oliver McBurnie,Sheffield United,5,222,1,0,0.75,0.32,0.31,0.13,2019,2
+48,Jeff Hendrick,Burnley,2,32,1,0,0.02,0.00,0.06,0.0,2019,2
+49,Rodri,Manchester City,5,376,1,0,0.19,0.41,0.05,0.1,2019,2
+50,Lucas Moura,Tottenham,4,215,1,1,0.84,0.34,0.35,0.14,2019,2
+51,Romain Saiss,Wolverhampton Wanderers,3,159,1,0,1.07,0.00,0.61,0.0,2019,2
+52,Bernardo Silva,Manchester City,4,249,1,1,1.20,1.51,0.44,0.55,2019,2
+53,Florin Andone,Brighton,3,69,1,0,0.36,0.06,0.48,0.08,2019,2
+54,Callum Robinson,Sheffield United,5,299,1,0,1.25,0.00,0.38,0.0,2019,2
+55,Patrick Cutrone,Wolverhampton Wanderers,4,126,1,0,1.71,0.46,1.22,0.33,2019,2
+56,Gabriel Jesus,Manchester City,3,124,1,1,0.90,0.03,0.65,0.02,2019,2
+57,Wilfred Ndidi,Leicester,4,360,1,0,0.35,0.07,0.09,0.02,2019,2
+58,Anwar El Ghazi,Aston Villa,3,178,1,0,0.60,0.00,0.3,0.0,2019,2
+59,Youri Tielemans,Leicester,5,450,1,1,0.92,0.69,0.18,0.14,2019,2
+60,Tanguy NDombele Alvaro,Tottenham,3,201,1,1,0.04,0.15,0.02,0.07,2019,2
+61,Will Hughes,Watford,4,311,1,1,1.32,0.30,0.38,0.09,2019,2
+62,Douglas Luiz,Aston Villa,4,259,1,0,0.11,0.06,0.04,0.02,2019,2
+63,Jetro Willems,Newcastle United,3,214,1,0,0.05,0.03,0.02,0.01,2019,2
+64,Andriy Yarmolenko,West Ham,3,145,1,0,0.23,0.39,0.14,0.24,2019,2
+65,Harvey Barnes,Leicester,4,147,1,0,0.09,0.03,0.05,0.02,2019,2
+66,Rúben Neves,Wolverhampton Wanderers,5,438,1,0,0.15,0.31,0.03,0.06,2019,2
+67,Bernard,Everton,4,257,1,0,0.18,0.24,0.06,0.08,2019,2
+68,Chris Mepham,Bournemouth,3,270,1,0,0.70,0.00,0.23,0.0,2019,2
+69,Kenny McLean,Norwich,4,196,1,0,0.07,0.50,0.03,0.23,2019,2
+70,Leandro Trossard,Brighton,3,254,1,0,1.27,0.54,0.45,0.19,2019,2
+71,John Lundstram,Sheffield United,5,422,1,0,0.96,1.22,0.2,0.26,2019,2
+72,Billy Sharp,Sheffield United,3,62,1,0,0.77,1.07,1.11,1.55,2019,2
+73,John McGinn,Aston Villa,4,360,1,1,0.43,0.49,0.11,0.12,2019,2
+74,Wesley,Aston Villa,4,341,1,0,0.70,0.47,0.19,0.12,2019,2
+75,Mario Vrancic,Norwich,2,11,0,0,0.11,0.10,0.9,0.8,2019,2
+76,Yoshinori Muto,Newcastle United,4,47,0,0,0.08,0.00,0.16,0.0,2019,2
+77,Allan Saint-Maximin,Newcastle United,2,37,0,0,0.03,0.00,0.06,0.0,2019,2
+78,Bernd Leno,Arsenal,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
+79,Andreas Christensen,Chelsea,4,360,0,0,0.28,0.00,0.07,0.0,2019,2
+80,Granit Xhaka,Arsenal,3,270,0,0,0.06,0.19,0.02,0.06,2019,2
+81,Josip Drmic,Norwich,3,20,0,0,0.48,0.00,2.18,0.0,2019,2
+82,Pascal Groß,Brighton,5,269,0,0,0.20,1.23,0.07,0.41,2019,2
+83,Ilkay Gündogan,Manchester City,5,239,0,0,0.19,0.16,0.07,0.06,2019,2
+84,Henrikh Mkhitaryan,Arsenal,3,109,0,0,0.43,0.27,0.35,0.23,2019,2
+85,Max Meyer,Crystal Palace,2,158,0,0,0.23,0.00,0.13,0.0,2019,2
+86,Sead Kolasinac,Arsenal,2,108,0,0,0.14,0.10,0.12,0.09,2019,2
+87,Pierre-Emile Højbjerg,Southampton,5,374,0,0,0.11,0.13,0.03,0.03,2019,2
+88,Sokratis,Arsenal,4,360,0,0,0.00,0.36,0.0,0.09,2019,2
+89,Steve Cook,Bournemouth,4,360,0,0,0.06,0.11,0.01,0.03,2019,2
+90,Charlie Daniels,Bournemouth,2,126,0,0,0.00,0.14,0.0,0.1,2019,2
+91,Andrew Surman,Bournemouth,2,49,0,0,0.00,0.00,0.0,0.0,2019,2
+92,Matt Ritchie,Newcastle United,3,270,0,0,0.07,0.38,0.02,0.13,2019,2
+93,Jordon Ibe,Bournemouth,2,39,0,0,0.00,0.00,0.0,0.0,2019,2
+94,Mamadou Sakho,Crystal Palace,2,100,0,0,0.00,0.03,0.0,0.03,2019,2
+95,Adam Lallana,Liverpool,1,2,0,0,0.00,0.00,0.0,0.0,2019,2
+96,James Milner,Liverpool,4,108,0,1,0.12,0.15,0.1,0.13,2019,2
+97,Nacho Monreal,Arsenal,3,270,0,0,0.04,0.46,0.01,0.15,2019,2
+98,Danny Welbeck,Watford,2,33,0,0,0.00,0.01,0.0,0.04,2019,2
+99,Olivier Giroud,Chelsea,3,98,0,0,0.04,0.75,0.04,0.69,2019,2
+100,Theo Walcott,Everton,2,34,0,0,0.49,0.00,1.29,0.0,2019,2
+101,Calum Chambers,Arsenal,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
+102,Joel Ward,Crystal Palace,5,450,0,0,0.06,0.08,0.01,0.02,2019,2
+103,Scott Dann,Crystal Palace,2,180,0,0,0.07,0.00,0.03,0.0,2019,2
+104,Connor Wickham,Crystal Palace,2,9,0,0,0.00,0.00,0.0,0.0,2019,2
+105,Wilfried Zaha,Crystal Palace,5,382,0,0,0.56,0.11,0.13,0.03,2019,2
+106,Martin Kelly,Crystal Palace,4,350,0,0,0.00,0.00,0.0,0.0,2019,2
+107,Adrián,Liverpool,5,412,0,0,0.00,0.00,0.0,0.0,2019,2
+108,Angelo Ogbonna,West Ham,3,270,0,0,0.01,0.00,0.0,0.0,2019,2
+109,Michail Antonio,West Ham,3,121,0,0,0.94,0.11,0.7,0.08,2019,2
+110,Cheikhou Kouyaté,Crystal Palace,3,256,0,0,0.37,0.07,0.13,0.02,2019,2
+111,Aaron Cresswell,West Ham,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
+112,Manuel Lanzini,West Ham,4,360,0,1,0.75,0.99,0.19,0.25,2019,2
+113,David de Gea,Manchester United,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+114,Morgan Schneiderlin,Everton,2,169,0,0,0.03,0.04,0.02,0.02,2019,2
+115,Juan Mata,Manchester United,5,153,0,0,0.15,0.17,0.09,0.1,2019,2
+116,Jesse Lingard,Manchester United,4,251,0,0,0.04,0.06,0.01,0.02,2019,2
+117,José Holebas,Watford,3,270,0,0,0.00,0.24,0.0,0.08,2019,2
+118,Etienne Capoue,Watford,3,265,0,0,0.06,0.00,0.02,0.0,2019,2
+119,Troy Deeney,Watford,2,180,0,0,0.51,0.12,0.25,0.06,2019,2
+120,Nathan Aké,Bournemouth,4,360,0,0,0.43,0.81,0.11,0.2,2019,2
+121,Craig Cathcart,Watford,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
+122,Seamus Coleman,Everton,4,360,0,0,0.62,0.46,0.15,0.11,2019,2
+123,John Stones,Manchester City,2,180,0,0,0.00,0.04,0.0,0.02,2019,2
+124,Phil Jagielka,Sheffield United,1,1,0,0,0.00,0.00,0.0,0.0,2019,2
+125,James McCarthy,Crystal Palace,3,31,0,0,0.00,0.08,0.0,0.24,2019,2
+126,Gerard Deulofeu,Watford,4,211,0,0,0.53,0.52,0.23,0.22,2019,2
+127,Ross Barkley,Chelsea,4,229,0,0,0.54,1.32,0.21,0.52,2019,2
+128,Aaron Lennon,Burnley,5,192,0,0,0.02,0.00,0.01,0.0,2019,2
+129,Tom Cleverley,Watford,3,189,0,0,0.43,0.28,0.21,0.13,2019,2
+130,Jordan Henderson,Liverpool,4,253,0,0,0.27,0.12,0.1,0.04,2019,2
+131,Christian Benteke,Crystal Palace,5,206,0,0,0.26,0.69,0.12,0.3,2019,2
+132,Nicolás Otamendi,Manchester City,4,360,0,0,0.65,0.04,0.16,0.01,2019,2
+133,Fernandinho,Manchester City,1,54,0,0,0.00,0.00,0.0,0.0,2019,2
+134,David Silva,Manchester City,5,321,0,4,0.82,1.75,0.23,0.49,2019,2
+135,Ashley Young,Manchester United,3,237,0,0,0.08,0.29,0.03,0.11,2019,2
+136,James McArthur,Crystal Palace,4,355,0,0,0.41,0.21,0.11,0.05,2019,2
+137,Hugo Lloris,Tottenham,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+138,Kyle Walker,Manchester City,5,450,0,1,0.07,0.37,0.01,0.07,2019,2
+139,Toby Alderweireld,Tottenham,5,450,0,1,0.06,0.13,0.01,0.03,2019,2
+140,Jan Vertonghen,Tottenham,2,180,0,0,0.00,0.00,0.0,0.0,2019,2
+141,Danny Rose,Tottenham,5,438,0,0,0.02,0.60,0.0,0.12,2019,2
+142,Dele Alli,Tottenham,1,28,0,0,0.00,0.00,0.0,0.0,2019,2
+143,Ben Davies,Tottenham,2,13,0,0,0.03,0.00,0.18,0.0,2019,2
+144,Carlos Sánchez,West Ham,3,9,0,0,0.00,0.00,0.0,0.0,2019,2
+145,Ashley Westwood,Burnley,5,450,0,0,0.25,0.91,0.05,0.18,2019,2
+146,Jack Grealish,Aston Villa,4,360,0,1,0.45,0.48,0.11,0.12,2019,2
+147,César Azpilicueta,Chelsea,5,450,0,1,0.08,0.71,0.02,0.14,2019,2
+148,Pedro,Chelsea,2,180,0,0,0.44,0.29,0.22,0.14,2019,2
+149,Nemanja Matic,Manchester United,2,89,0,0,0.11,0.00,0.11,0.0,2019,2
+150,Gary Cahill,Crystal Palace,3,270,0,0,0.14,0.00,0.05,0.0,2019,2
+151,Willian,Chelsea,4,141,0,0,0.18,0.00,0.12,0.0,2019,2
+152,Lukasz Fabianski,West Ham,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
+153,Federico Fernández,Newcastle United,3,14,0,0,0.00,0.00,0.0,0.0,2019,2
+154,Neil Taylor,Aston Villa,4,360,0,0,0.10,0.06,0.02,0.02,2019,2
+155,Jack Cork,Burnley,5,439,0,0,0.19,0.04,0.04,0.01,2019,2
+156,Gylfi Sigurdsson,Everton,4,327,0,1,0.72,1.07,0.2,0.29,2019,2
+157,Ki Sung-yueng,Newcastle United,1,76,0,0,0.00,0.01,0.0,0.01,2019,2
+158,Jordan Pickford,Everton,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
+159,Kasper Schmeichel,Leicester,5,450,0,0,0.00,0.19,0.0,0.04,2019,2
+160,Wes Morgan,Leicester,1,11,0,0,0.00,0.00,0.0,0.0,2019,2
+161,Christian Fuchs,Leicester,3,181,0,0,0.07,0.10,0.03,0.05,2019,2
+162,Riyad Mahrez,Manchester City,5,209,0,2,0.60,1.78,0.26,0.76,2019,2
+163,N'Golo Kanté,Chelsea,2,105,0,0,0.52,0.04,0.45,0.04,2019,2
+164,Marc Albrighton,Leicester,3,89,0,0,0.11,0.19,0.11,0.19,2019,2
+165,Jeffrey Schlupp,Crystal Palace,4,282,0,1,0.21,0.65,0.07,0.21,2019,2
+166,Demarai Gray,Leicester,2,93,0,0,0.28,0.48,0.27,0.47,2019,2
+167,Daryl Janmaat,Watford,1,90,0,0,0.02,0.00,0.02,0.0,2019,2
+168,Jamaal Lascelles,Newcastle United,5,445,0,0,0.11,0.03,0.02,0.01,2019,2
+169,Ayoze Pérez,Leicester,4,268,0,0,0.12,0.06,0.04,0.02,2019,2
+170,Georginio Wijnaldum,Liverpool,5,428,0,0,0.30,0.02,0.06,0.0,2019,2
+171,Moussa Sissoko,Tottenham,5,450,0,1,0.53,0.85,0.11,0.17,2019,2
+172,Andros Townsend,Crystal Palace,5,260,0,0,0.05,0.14,0.02,0.05,2019,2
+173,Ben Chilwell,Leicester,3,270,0,1,0.04,0.37,0.01,0.12,2019,2
+174,Ryan Bennett,Wolverhampton Wanderers,4,360,0,0,0.02,0.09,0.01,0.02,2019,2
+175,Alexander Tettey,Norwich,2,91,0,0,0.00,0.00,0.0,0.0,2019,2
+176,Ben Foster,Watford,4,360,0,0,0.00,0.04,0.0,0.01,2019,2
+177,Craig Dawson,Watford,4,360,0,0,0.43,0.00,0.11,0.0,2019,2
+178,Jonny Evans,Leicester,5,450,0,0,0.11,0.00,0.02,0.0,2019,2
+179,Adam Smith,Bournemouth,4,321,0,0,0.65,0.00,0.18,0.0,2019,2
+180,Ryan Bertrand,Southampton,2,169,0,0,0.10,0.00,0.05,0.0,2019,2
+181,Shane Long,Southampton,2,27,0,0,0.00,0.00,0.0,0.0,2019,2
+182,Oriol Romeu,Southampton,5,426,0,0,0.07,0.35,0.01,0.07,2019,2
+183,James Ward-Prowse,Southampton,5,450,0,0,0.18,0.88,0.04,0.18,2019,2
+184,Jay Rodriguez,Burnley,5,80,0,0,0.39,0.00,0.44,0.0,2019,2
+185,Maya Yoshida,Southampton,3,191,0,0,0.74,0.00,0.35,0.0,2019,2
+186,Cédric Soares,Southampton,2,180,0,0,0.31,0.00,0.16,0.0,2019,2
+187,Paul Dummett,Newcastle United,5,450,0,0,0.02,0.00,0.0,0.0,2019,2
+188,Fabian Delph,Everton,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
+189,Glenn Murray,Brighton,5,253,0,0,1.09,0.80,0.39,0.29,2019,2
+190,Kyle Walker-Peters,Tottenham,3,245,0,0,0.02,0.07,0.01,0.03,2019,2
+191,Erik Pieters,Burnley,5,450,0,2,0.05,0.63,0.01,0.13,2019,2
+192,Xherdan Shaqiri,Liverpool,2,7,0,0,0.02,0.00,0.23,0.0,2019,2
+193,Adama Traoré,Wolverhampton Wanderers,4,203,0,0,0.07,0.07,0.03,0.03,2019,2
+194,Sam Byram,Norwich,2,91,0,0,0.04,0.00,0.04,0.0,2019,2
+195,Andreas Pereira,Manchester United,4,237,0,1,0.19,0.65,0.07,0.25,2019,2
+196,Axel Tuanzebe,Manchester United,1,1,0,0,0.00,0.00,0.0,0.0,2019,2
+197,Kurt Zouma,Chelsea,5,402,0,0,0.22,0.00,0.05,0.0,2019,2
+198,Alex Oxlade-Chamberlain,Liverpool,4,197,0,0,0.23,0.07,0.11,0.03,2019,2
+199,Harry Winks,Tottenham,5,372,0,0,0.17,0.13,0.04,0.03,2019,2
+200,Tim Krul,Norwich,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+201,Mason Holgate,Everton,1,15,0,0,0.00,0.00,0.0,0.0,2019,2
+202,Joseph Gomez,Liverpool,1,90,0,0,0.00,0.02,0.0,0.02,2019,2
+203,Luke Shaw,Manchester United,3,213,0,0,0.05,0.19,0.02,0.08,2019,2
+204,Matej Vydra,Burnley,1,11,0,1,0.00,0.02,0.0,0.16,2019,2
+205,Tyrone Mings,Aston Villa,4,360,0,1,0.00,0.34,0.0,0.08,2019,2
+206,Jack Wilshere,West Ham,2,104,0,0,0.00,0.00,0.0,0.0,2019,2
+207,Tom Davies,Everton,1,8,0,0,0.00,0.00,0.0,0.0,2019,2
+208,Keinan Davis,Aston Villa,2,31,0,0,0.00,0.01,0.0,0.04,2019,2
+209,Felipe Anderson,West Ham,3,239,0,1,0.44,1.43,0.16,0.54,2019,2
+210,Moritz Leitner,Norwich,4,292,0,0,0.05,0.05,0.01,0.02,2019,2
+211,Dennis Praet,Leicester,2,81,0,0,0.02,0.06,0.02,0.07,2019,2
+212,Emerson,Chelsea,4,360,0,0,0.46,0.70,0.12,0.18,2019,2
+213,Alisson,Liverpool,1,38,0,0,0.00,0.00,0.0,0.0,2019,2
+214,Moise Kean,Everton,4,137,0,1,0.30,0.83,0.2,0.55,2019,2
+215,Jorginho,Chelsea,5,417,0,1,0.08,0.95,0.02,0.2,2019,2
+216,Emil Krafth,Newcastle United,4,331,0,0,0.34,0.00,0.09,0.0,2019,2
+217,Marcos Alonso,Chelsea,2,91,0,1,0.04,0.05,0.04,0.05,2019,2
+218,Tom Heaton,Aston Villa,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
+219,Matthew Lowton,Burnley,5,450,0,0,0.01,0.22,0.0,0.04,2019,2
+220,Michael Keane,Everton,4,360,0,0,0.03,0.06,0.01,0.02,2019,2
+221,Ben Mee,Burnley,5,450,0,0,0.06,0.14,0.01,0.03,2019,2
+222,James Tarkowski,Burnley,5,450,0,0,0.12,0.07,0.02,0.01,2019,2
+223,David Luiz,Arsenal,3,270,0,0,0.05,0.00,0.02,0.0,2019,2
+224,Nathaniel Chalobah,Watford,1,16,0,0,0.08,0.00,0.46,0.0,2019,2
+225,Michy Batshuayi,Chelsea,2,17,0,1,1.28,0.11,6.79,0.59,2019,2
+226,Dominic Solanke,Bournemouth,4,50,0,0,0.53,0.33,0.95,0.6,2019,2
+227,Ryan Fraser,Bournemouth,4,360,0,1,0.59,0.52,0.15,0.13,2019,2
+228,Ahmed Elmohamady,Aston Villa,3,181,0,0,0.00,0.52,0.0,0.26,2019,2
+229,Harry Maguire,Manchester United,5,450,0,0,0.04,0.12,0.01,0.02,2019,2
+230,Andrew Robertson,Liverpool,5,450,0,1,0.60,0.81,0.12,0.16,2019,2
+231,Robert Snodgrass,West Ham,3,139,0,0,0.27,0.49,0.17,0.32,2019,2
+232,Javier Manquillo,Newcastle United,3,119,0,0,0.00,0.01,0.0,0.01,2019,2
+233,Roberto Pereyra,Watford,3,223,0,0,0.51,0.14,0.21,0.06,2019,2
+234,Isaac Success,Watford,2,30,0,0,0.09,0.05,0.28,0.16,2019,2
+235,Christian Kabasele,Watford,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
+236,Abdoulaye Doucouré,Watford,4,344,0,0,0.66,0.63,0.17,0.16,2019,2
+237,Georges-Kévin Nkoudou,Tottenham,1,1,0,0,0.06,0.00,5.07,0.0,2019,2
+238,Sofiane Boufal,Southampton,4,180,0,2,0.50,1.60,0.25,0.8,2019,2
+239,Jack Stephens,Southampton,1,76,0,0,0.00,0.00,0.0,0.0,2019,2
+240,Paul Pogba,Manchester United,4,360,0,2,1.07,1.06,0.27,0.27,2019,2
+241,Lys Mousset,Sheffield United,2,27,0,0,0.16,0.03,0.52,0.08,2019,2
+242,Ainsley Maitland-Niles,Arsenal,4,360,0,1,0.06,0.64,0.01,0.16,2019,2
+243,Arthur Masuaku,West Ham,3,270,0,1,0.02,1.05,0.01,0.35,2019,2
+244,Nampalys Mendy,Leicester,1,1,0,0,0.00,0.00,0.0,0.0,2019,2
+245,Trent Alexander-Arnold,Liverpool,5,450,0,2,1.12,2.12,0.22,0.42,2019,2
+246,Antonio Rüdiger,Chelsea,1,48,0,0,0.07,0.00,0.14,0.0,2019,2
+247,Lucas Digne,Everton,4,345,0,2,0.22,0.46,0.06,0.12,2019,2
+248,Ravel Morrison,Sheffield United,1,11,0,0,0.03,0.00,0.22,0.0,2019,2
+249,Martín Montoya,Brighton,4,360,0,0,0.03,0.44,0.01,0.11,2019,2
+250,Jota,Aston Villa,4,182,0,1,0.02,0.57,0.01,0.28,2019,2
+251,Jefferson Lerma,Bournemouth,4,360,0,0,0.07,0.00,0.02,0.0,2019,2
+252,Vicente Guaita,Crystal Palace,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+253,Emiliano Buendía,Norwich,5,444,0,4,0.22,1.53,0.04,0.31,2019,2
+254,Mateo Kovacic,Chelsea,5,354,0,1,0.20,0.15,0.05,0.04,2019,2
+255,Jonny,Wolverhampton Wanderers,4,360,0,0,0.08,0.04,0.02,0.01,2019,2
+256,Pablo Fornals,West Ham,4,130,0,0,0.06,0.00,0.04,0.0,2019,2
+257,Christian Atsu,Newcastle United,3,249,0,2,0.03,0.63,0.01,0.23,2019,2
+258,João Cancelo,Manchester City,1,1,0,0,0.00,0.00,0.0,0.0,2019,2
+259,André Gomes,Everton,4,315,0,0,0.01,0.27,0.0,0.08,2019,2
+260,Mat Ryan,Brighton,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+261,Víctor Camarasa,Crystal Palace,1,3,0,0,0.00,0.00,0.0,0.0,2019,2
+262,Dani Ceballos,Arsenal,4,196,0,2,0.12,0.23,0.05,0.11,2019,2
+263,Aymeric Laporte,Manchester City,4,306,0,0,0.08,0.15,0.02,0.04,2019,2
+264,Christian Pulisic,Chelsea,4,278,0,1,0.83,0.57,0.27,0.18,2019,2
+265,Oleksandr Zinchenko,Manchester City,5,450,0,0,0.23,0.44,0.05,0.09,2019,2
+266,Issa Diop,West Ham,4,360,0,0,0.56,0.41,0.14,0.1,2019,2
+267,Frederic Guilbert,Aston Villa,2,180,0,0,0.07,0.04,0.03,0.02,2019,2
+268,Ricardo Pereira,Leicester,5,450,0,0,0.02,0.06,0.0,0.01,2019,2
+269,Ibrahim Amadou,Norwich,2,145,0,0,0.00,0.00,0.0,0.0,2019,2
+270,Fabinho,Liverpool,5,374,0,1,0.03,0.52,0.01,0.12,2019,2
+271,João Moutinho,Wolverhampton Wanderers,5,360,0,1,0.00,0.41,0.0,0.1,2019,2
+272,Serge Aurier,Tottenham,1,90,0,1,0.10,0.09,0.1,0.09,2019,2
+273,Chris Wood,Burnley,5,399,0,0,0.73,0.18,0.17,0.04,2019,2
+274,Jean-Philippe Gbamin,Everton,2,135,0,0,0.00,0.00,0.0,0.0,2019,2
+275,Kiko Femenía,Watford,4,360,0,0,0.07,0.52,0.02,0.13,2019,2
+276,Kepa,Chelsea,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+277,Diego Rico,Bournemouth,1,90,0,0,0.01,0.02,0.01,0.02,2019,2
+278,Jesús Vallejo,Wolverhampton Wanderers,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
+279,Bernardo,Brighton,2,72,0,0,0.00,0.30,0.0,0.38,2019,2
+280,Kevin Danso,Southampton,2,165,0,1,0.00,0.08,0.0,0.04,2019,2
+281,Caglar Söyüncü,Leicester,5,450,0,1,0.03,0.03,0.01,0.01,2019,2
+282,Angus Gunn,Southampton,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+283,Luka Milivojevic,Crystal Palace,5,450,0,0,0.10,0.66,0.02,0.13,2019,2
+284,Nick Pope,Burnley,5,450,0,0,0.00,0.06,0.0,0.01,2019,2
+285,Declan Rice,West Ham,4,360,0,0,0.05,0.02,0.01,0.01,2019,2
+286,Dominic Calvert-Lewin,Everton,4,248,0,0,0.49,0.02,0.18,0.01,2019,2
+287,Scott McTominay,Manchester United,5,444,0,1,0.19,0.47,0.04,0.09,2019,2
+288,Domingos Quina,Watford,1,1,0,0,0.00,0.00,0.0,0.0,2019,2
+289,Aaron Wan-Bissaka,Manchester United,5,450,0,0,0.31,0.36,0.06,0.07,2019,2
+290,Aaron Ramsdale,Bournemouth,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
+291,Nicolas Pepe,Arsenal,4,240,0,1,0.95,0.85,0.36,0.32,2019,2
+292,Ismaila Sarr,Watford,1,12,0,0,0.01,0.00,0.1,0.0,2019,2
+293,Giovani Lo Celso,Tottenham,3,37,0,0,0.02,0.04,0.05,0.09,2019,2
+294,Matteo Guendouzi,Arsenal,4,358,0,1,0.20,0.46,0.05,0.12,2019,2
+295,Aaron Mooy,Brighton,2,13,0,0,0.00,0.00,0.0,0.0,2019,2
+296,Philip Billing,Bournemouth,4,319,0,0,0.08,0.19,0.02,0.05,2019,2
+297,Jan Bednarek,Southampton,5,450,0,0,0.06,0.12,0.01,0.02,2019,2
+298,Shane Duffy,Brighton,4,360,0,0,0.01,0.00,0.0,0.0,2019,2
+299,Lewis Dunk,Brighton,5,450,0,1,0.02,0.39,0.0,0.08,2019,2
+300,Solly March,Brighton,5,431,0,1,0.22,0.91,0.05,0.19,2019,2
+301,Davy Pröpper,Brighton,5,450,0,1,0.94,0.46,0.19,0.09,2019,2
+302,Dale Stephens,Brighton,5,441,0,0,0.08,0.02,0.02,0.0,2019,2
+303,Ederson,Manchester City,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+304,Phil Foden,Manchester City,1,9,0,0,0.00,0.00,0.0,0.0,2019,2
+305,Isaac Hayden,Newcastle United,5,450,0,1,0.11,0.88,0.02,0.18,2019,2
+306,Victor Lindelöf,Manchester United,5,450,0,0,0.00,0.28,0.0,0.06,2019,2
+307,Gaëtan Bong,Brighton,1,1,0,0,0.00,0.00,0.0,0.0,2019,2
+308,Davinson Sánchez,Tottenham,4,360,0,0,0.50,0.04,0.13,0.01,2019,2
+309,Pedro Neto,Wolverhampton Wanderers,3,28,0,0,0.00,0.00,0.0,0.0,2019,2
+310,Hamza Choudhury,Leicester,5,301,0,0,0.13,0.07,0.04,0.02,2019,2
+311,Reiss Nelson,Arsenal,2,120,0,0,0.19,0.05,0.14,0.04,2019,2
+312,Michael Obafemi,Southampton,1,21,0,0,0.00,0.00,0.0,0.0,2019,2
+313,Yerry Mina,Everton,4,360,0,0,0.19,0.00,0.05,0.0,2019,2
+314,Martin Dubravka,Newcastle United,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+315,Jürgen Locadia,Brighton,2,84,0,0,0.40,0.00,0.43,0.0,2019,2
+316,Joe Willock,Arsenal,3,239,0,0,0.08,0.16,0.03,0.06,2019,2
+317,Dwight McNeil,Burnley,5,445,0,1,0.23,0.26,0.05,0.05,2019,2
+318,Fred,Manchester United,1,21,0,0,0.00,0.00,0.0,0.0,2019,2
+319,James Maddison,Leicester,5,449,0,2,1.51,0.80,0.3,0.16,2019,2
+320,Rui Patrício,Wolverhampton Wanderers,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+321,Willy Boly,Wolverhampton Wanderers,4,360,0,1,0.00,0.87,0.0,0.22,2019,2
+322,Conor Coady,Wolverhampton Wanderers,5,450,0,0,0.00,0.03,0.0,0.01,2019,2
+323,Matt Doherty,Wolverhampton Wanderers,4,247,0,0,0.05,0.00,0.02,0.0,2019,2
+324,Diogo Jota,Wolverhampton Wanderers,5,364,0,0,0.66,0.18,0.16,0.05,2019,2
+325,Rúben Vinagre,Wolverhampton Wanderers,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
+326,Morgan Gibbs-White,Wolverhampton Wanderers,2,87,0,0,0.05,0.07,0.05,0.07,2019,2
+327,Ryan Fredericks,West Ham,4,360,0,0,0.00,0.08,0.0,0.02,2019,2
+328,Fabián Balbuena,West Ham,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
+329,Stuart Armstrong,Southampton,4,44,0,0,0.31,0.00,0.63,0.0,2019,2
+330,Sean Longstaff,Newcastle United,4,263,0,1,0.10,0.28,0.04,0.1,2019,2
+331,Björn Engels,Aston Villa,4,360,0,0,0.07,0.00,0.02,0.0,2019,2
+332,Oliver Skipp,Tottenham,2,2,0,0,0.00,0.00,0.0,0.0,2019,2
+333,Leander Dendoncker,Wolverhampton Wanderers,5,347,0,0,0.27,0.11,0.07,0.03,2019,2
+334,Yan Valery,Southampton,3,236,0,0,0.13,1.14,0.05,0.44,2019,2
+335,Dan Burn,Brighton,5,450,0,0,0.42,0.57,0.08,0.11,2019,2
+336,Miguel Almirón,Newcastle United,5,430,0,0,0.46,0.06,0.1,0.01,2019,2
+337,Tahith Chong,Manchester United,1,18,0,0,0.00,0.00,0.0,0.0,2019,2
+338,Mason Greenwood,Manchester United,4,38,0,0,0.14,0.00,0.33,0.0,2019,2
+339,Max Aarons,Norwich,4,360,0,0,0.10,0.74,0.02,0.18,2019,2
+340,Ben Godfrey,Norwich,5,450,0,0,0.07,0.00,0.01,0.0,2019,2
+341,Grant Hanley,Norwich,3,270,0,0,0.13,0.00,0.04,0.0,2019,2
+342,Jamal Lewis,Norwich,5,450,0,0,0.00,0.13,0.0,0.03,2019,2
+343,Tom Trybull,Norwich,4,335,0,0,0.06,0.05,0.01,0.01,2019,2
+344,Marco Stiepermann,Norwich,5,400,0,0,0.34,0.40,0.08,0.09,2019,2
+345,Onel Hernández,Norwich,1,17,0,0,0.05,0.00,0.26,0.0,2019,2
+346,Adam Webster,Brighton,2,180,0,0,0.00,0.00,0.0,0.0,2019,2
+347,Che Adams,Southampton,5,383,0,0,2.46,0.77,0.58,0.18,2019,2
+348,Dean Henderson,Sheffield United,5,450,0,0,0.03,0.00,0.01,0.0,2019,2
+349,John Egan,Sheffield United,5,450,0,0,0.00,0.00,0.0,0.0,2019,2
+350,Ben Godfrey,Norwich,5,450,0,0,0.07,0.00,0.01,0.0,2019,2
+351,Grant Hanley,Norwich,3,270,0,0,0.13,0.00,0.04,0.0,2019,2
+352,Jamal Lewis,Norwich,5,450,0,0,0.00,0.13,0.0,0.03,2019,2
+353,Tom Trybull,Norwich,4,335,0,0,0.06,0.05,0.01,0.01,2019,2
+354,Marco Stiepermann,Norwich,5,400,0,0,0.34,0.40,0.08,0.09,2019,2
+355,Onel Hernández,Norwich,1,17,0,0,0.05,0.00,0.26,0.0,2019,2
+356,Adam Webster,Brighton,2,180,0,0,0.00,0.00,0.0,0.0,2019,2
+357,Che Adams,Southampton,5,383,0,0,2.46,0.77,0.58,0.18,2019,2
+358,Dean Henderson,Sheffield United,5,450,0,0,0.03,0.00,0.01,0.0,2019,2
+359,John Egan,Sheffield United,5,450,0,0,0.00,0.00,0.0,0.0,2019,2

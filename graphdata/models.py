@@ -5,6 +5,7 @@ from django.db import models
 class Player(models.Model):
     name = models.CharField(max_length=100)
     team = models.CharField(max_length=100)
+    league = models.IntegerField()
     apps = models.IntegerField()
     mins = models.IntegerField()
     goals = models.IntegerField()
@@ -29,9 +30,9 @@ class Team(models.Model):
     values = ArrayField(models.IntegerField(), blank=True)
 
 
-with open('player2019.csv') as csvfile:
+with open('laliga2019.csv') as csvfile:
 ...     reader = csv.DictReader(csvfile)
 ...     for row in reader:
-...             p = Player(name=row['name'], team=row['team'], apps=row['apps'], mins=row['mins'], goals=row['goals'], assists=row['assists'], xG=row['xG'], xA=row['xA'], xG90=row['xG90'], xA90=row['xG90'])
+...             p = Player(name=row['name'], team=row['team'], apps=row['apps'], mins=row['mins'], goals=row['goals'], assists=row['assists'], xG=row['xG'], xA=row['xA'], xG90=row['xG90'], xA90=row['xG90'], year=row['Year'], league=row['league'])
 ...             p.save()
 '''

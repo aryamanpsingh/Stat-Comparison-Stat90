@@ -24,7 +24,7 @@ export class Graph extends Component {
       labels: names,
       datasets: [
         {
-          label: attribute,
+          label: attribute[0].toUpperCase() + attribute.slice(1),
           data: values,
           backgroundColor: color
         }
@@ -53,7 +53,7 @@ export class Graph extends Component {
           },
           title: {
             display: true,
-            text: attribute,
+            text: attribute[0].toUpperCase() + attribute.slice(1),
             fontSize: 25
           },
           legend: {

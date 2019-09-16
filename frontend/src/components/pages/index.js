@@ -22,6 +22,7 @@ import { Paper } from "@material-ui/core";
 import Header from "../layout/header";
 import SwitchTab from "../tools/SwitchTab";
 import SettingsIcon from "@material-ui/icons/Settings";
+import d from "diacritics";
 
 const styles = theme => ({
   list: {
@@ -131,15 +132,19 @@ export class index extends Component {
     console.log(currentPlayers);
     let playerArray = [];
     let leagues = this.state.league;
+    var removeDiacritics = require("diacritics").remove;
     leagues.map(function(league) {
       currentPlayers.filter(function(player, index) {
-        if (player.league == league) playerArray.push(player);
+        if (player.league == league) {
+          player.name = removeDiacritics(player.name);
+          playerArray.push(player);
+        }
       });
       console.log(playerArray);
     });
     currentPlayers = playerArray;
     console.log(currentPlayers);
-
+    console.log(removeDiacritics("üafwe"));
     /*
     if (this.state.league == 1) {
       let prem = currentPlayers.filter(function(player) {

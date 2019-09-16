@@ -99,6 +99,8 @@ export class Compare extends Component {
     });
     player1 = player1[0];
     player2 = player2[0];
+    name1 = player1.name;
+    name2 = player2.name;
     console.log(player1);
     let array1 = [];
     let array2 = [];
@@ -108,17 +110,17 @@ export class Compare extends Component {
     for (let [key, value] of Object.entries(player2)) {
       if (["goals", "assists", "xA", "xG"].includes(key)) array2.push(value);
     }
-    this.createChart(array1, array2);
+    this.createChart(array1, array2, name1, name2);
   };
 
-  createChart = (array1, array2) => {
+  createChart = (array1, array2, name1, name2) => {
     let data1 = {
-      label: this.state.player[0].name,
+      label: name1,
       data: array1,
       backgroundColor: "rgba(0, 0, 255, 0.5)"
     };
     let data2 = {
-      label: this.state.player[1].name,
+      label: name2,
       data: array2,
       backgroundColor: "rgba(255, 0, 0, 0.5)"
     };
@@ -177,7 +179,6 @@ export class Compare extends Component {
 
         {this.state.showChart == true && (
           <Card style={chart}>
-            Test
             <Radar
               height={400}
               data={this.state.data}

@@ -18,7 +18,11 @@ export class Graph extends Component {
     });
     players = players.slice(0, length);
     let values = players.map(a => a[attribute]);
-    let names = players.map(a => a.name).split(" ")[0];
+    let names = players.map(
+      a =>
+        a.name.split(" ")[1] +
+        (a.name.split(" ")[2] ? " " + a.name.split(" ")[2] : "")
+    );
     /*
     let lastNames = [];
     for (name in names) {
@@ -59,21 +63,25 @@ export class Graph extends Component {
             ],
             yAxes: [
               {
-                ticks: {}
+                ticks: {
+                  mirror: true,
+                  fontColor: "white"
+                }
               }
             ]
           },
           title: {
             display: true,
             text: attribute[0].toUpperCase() + attribute.slice(1),
-            fontSize: 25
+            fontSize: 18
           },
           legend: {
             display: false,
             position: "bottom"
           },
           responsive: false,
-          maintainAspectRatio: false
+          maintainAspectRatio: true,
+          scaleShowLabels: false
         }}
       />
     );

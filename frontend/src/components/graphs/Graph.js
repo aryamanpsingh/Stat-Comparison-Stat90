@@ -21,7 +21,7 @@ export class Graph extends Component {
     let names = players.map(a => a.name);
 
     const data = {
-      labels: names,
+      labels: names.split(" ")[0],
       datasets: [
         {
           label: attribute[0].toUpperCase() + attribute.slice(1),

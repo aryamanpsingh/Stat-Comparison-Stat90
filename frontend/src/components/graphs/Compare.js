@@ -9,6 +9,7 @@ import { FormControl, Typography } from "@material-ui/core";
 import Card from "@material-ui/core/Card";
 import CardActions from "@material-ui/core/CardActions";
 import CardContent from "@material-ui/core/CardContent";
+import ShowChartIcon from "@material-ui/icons/ShowChart";
 
 const style = {
   background: "white",
@@ -154,6 +155,7 @@ export class Compare extends Component {
                   value={name[0]}
                   onChange={this.handleChange(0)}
                   margin="normal"
+                  fullWidth={true}
                 />
                 <TextField
                   id="name"
@@ -162,6 +164,7 @@ export class Compare extends Component {
                   value={name[1]}
                   onChange={this.handleChange(1)}
                   margin="normal"
+                  fullWidth={true}
                 />
                 <br />
                 <Button
@@ -170,7 +173,7 @@ export class Compare extends Component {
                   className="submit"
                   onClick={this.handleSubmit}
                 >
-                  Go
+                  <ShowChartIcon />
                 </Button>
               </FormControl>
             </CardActions>

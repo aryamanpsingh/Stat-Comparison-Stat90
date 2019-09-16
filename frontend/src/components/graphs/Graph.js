@@ -65,7 +65,7 @@ export class Graph extends Component {
               {
                 ticks: {
                   mirror: true,
-                  fontColor: "white"
+                  fontColor: "#4632a8"
                 }
               }
             ]

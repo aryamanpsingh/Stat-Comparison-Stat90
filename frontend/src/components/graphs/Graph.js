@@ -19,9 +19,12 @@ export class Graph extends Component {
     players = players.slice(0, length);
     let values = players.map(a => a[attribute]);
     let names = players.map(a => a.name);
-
+    let lastNames = [];
+    for (name in names) {
+      lastNames.push(name.split(" ")[0]);
+    }
     const data = {
-      labels: names.split(" ")[0],
+      labels: lastNames,
       datasets: [
         {
           label: attribute[0].toUpperCase() + attribute.slice(1),

@@ -40,50 +40,55 @@ export class Graph extends Component {
     };
     console.log(data);
     return (
-      <HorizontalBar
-        data={data}
-        height={350}
-        options={{
-          layout: {
-            padding: {
-              left: 50,
-              right: 0,
-              top: 0,
-              bottom: 0
-            }
-          },
-          scales: {
-            xAxes: [
-              {
-                ticks: {
-                  beginAtZero: true,
-                  stepSize: 1
-                }
+      <div style={{ textAlign: "center" }}>
+        <HorizontalBar
+          data={data}
+          height={350}
+          width={400}
+          options={{
+            layout: {
+              padding: {
+                left: 50,
+                right: 0,
+                top: 0,
+                bottom: 0
               }
-            ],
-            yAxes: [
-              {
-                ticks: {
-                  mirror: true,
-                  fontColor: "#4632a8"
+            },
+            scales: {
+              xAxes: [
+                {
+                  ticks: {
+                    beginAtZero: true,
+                    stepSize: 1
+                  }
                 }
-              }
-            ]
-          },
-          title: {
-            display: true,
-            text: attribute[0].toUpperCase() + attribute.slice(1),
-            fontSize: 18
-          },
-          legend: {
-            display: false,
-            position: "bottom"
-          },
-          responsive: false,
-          maintainAspectRatio: true,
-          scaleShowLabels: false
-        }}
-      />
+              ],
+              yAxes: [
+                {
+                  ticks: {
+                    display: true,
+                    fontColor: "white"
+                  }
+                }
+              ]
+            },
+            title: {
+              display: true,
+              text: attribute[0].toUpperCase() + attribute.slice(1),
+              fontSize: 18,
+              fontColor: "white"
+            },
+            legend: {
+              display: false,
+              position: "bottom",
+              fontColor: "white"
+            },
+            responsive: false,
+            maintainAspectRatio: true,
+            scaleShowLabels: false
+          }}
+        />
+      </div>
     );
   }
 }

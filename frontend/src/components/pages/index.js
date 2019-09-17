@@ -5,7 +5,6 @@ import PropTypes from "prop-types";
 
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
-import ListItemIcon from "@material-ui/core/ListItemIcon";
 import ListItemSecondaryAction from "@material-ui/core/ListItemSecondaryAction";
 import ListItemText from "@material-ui/core/ListItemText";
 import ListSubheader from "@material-ui/core/ListSubheader";
@@ -22,9 +21,13 @@ import { Paper } from "@material-ui/core";
 import Header from "../layout/header";
 import SwitchTab from "../tools/SwitchTab";
 import SettingsIcon from "@material-ui/icons/Settings";
-import d from "diacritics";
+import withRoot from "../../withRoot";
 
 const styles = theme => ({
+  container: {
+    backgroundColor: "rgb(33, 27, 56)",
+    padding: "0 0 0 0"
+  },
   list: {
     width: 200
   },
@@ -35,7 +38,11 @@ const styles = theme => ({
     margin: "auto"
   },
   compare: {
-    margin: "auto"
+    margin: "auto",
+    backgroundColor: "#0000000"
+  },
+  paper: {
+    backgroundColor: "rgba(0,0,0, 0.2)"
   }
 });
 
@@ -143,6 +150,8 @@ export class index extends Component {
       console.log(playerArray);
     });
     currentPlayers = playerArray;
+    let color1 = "rgba(105,17,62,0.9)";
+    let color2 = "rgba(179, 103, 102, 0.6)";
     console.log(currentPlayers);
     console.log(removeDiacritics("üafwe"));
     /*
@@ -160,66 +169,76 @@ export class index extends Component {
     return (
       <Fragment>
         <Header />
-        <Drawer
-          anchor="right"
-          open={this.state.right}
-          onClose={toggleDrawer("right", false)}
-        >
-          {sideList("right")}
-        </Drawer>
-        <Container fixed>
-          <SwitchTab
-            year={this.state.year}
-            tabChange={this.tabChange}
-            toggleDrawer={toggleDrawer}
-          />
-          <Grid container>
-            <Grid item xs={4} style={{ textAlign: "center" }}>
-              <Graph
-                className={classes.graph}
-                length={10}
-                attribute="goals"
-                color="rgba(255, 0, 0, 0.6)"
-                year={this.state.year}
-                players={currentPlayers}
-              />
-              <Graph
-                className={classes.graph}
-                length={10}
-                attribute="assists"
-                color="rgba(0, 0, 255, 0.6)"
-                year={this.state.year}
-                players={currentPlayers}
-              />
-            </Grid>
-
-            <Grid
-              item
-              xs={4}
-              style={{ marginTop: "50px", textAlign: "center" }}
+        <Container className={classes.container}>
+          <Paper elevation={3} className={classes.container}>
+            <Drawer
+              anchor="right"
+              open={this.state.right}
+              onClose={toggleDrawer("right", false)}
             >
-              <Compare players={currentPlayers} className={classes.compare} />
-            </Grid>
+              {sideList("right")}
+            </Drawer>
+            <SwitchTab
+              year={this.state.year}
+              tabChange={this.tabChange}
+              toggleDrawer={toggleDrawer}
+            />
+            <Grid container>
+              <Grid item xs={4} style={{ textAlign: "center" }}>
+                <Paper className={classes.paper}>
+                  <Graph
+                    className={classes.graph}
+                    length={10}
+                    attribute="goals"
+                    color={color2}
+                    year={this.state.year}
+                    players={currentPlayers}
+                  />
+                  <Graph
+                    className={classes.graph}
+                    length={10}
+                    attribute="assists"
+                    color={color2}
+                    year={this.state.year}
+                    players={currentPlayers}
+                  />
+                </Paper>
+              </Grid>
 
-            <Grid item xs={4} style={{ textAlign: "center" }}>
-              <Graph
-                className={classes.graph}
-                length={10}
-                attribute="xG"
-                color="rgba(255, 0, 0, 0.6)"
-                year={this.state.year}
-                players={currentPlayers}
-              />
-              <Graph
-                className={classes.graph}
-                length={10}
-                attribute="xA"
-                color="rgba(0, 0, 255, 0.6)"
-                year={this.state.year}
-                players={currentPlayers}
-              />
+              <Grid
+                item
+                xs={4}
+                style={{
+                  marginTop: "50px",
+                  textAlign: "center",
+                  padding: "30px"
+                }}
+              >
+                <Compare players={currentPlayers} className={classes.compare} />
+              </Grid>
+
+              <Grid item xs={4} style={{ textAlign: "center" }}>
+                <Paper className={classes.paper}>
+                  <Graph
+                    className={classes.graph}
+                    length={10}
+                    attribute="xG"
+                    color={color2}
+                    year={this.state.year}
+                    players={currentPlayers}
+                  />
+                  <Graph
+                    className={classes.graph}
+                    length={10}
+                    attribute="xA"
+                    color={color2}
+                    year={this.state.year}
+                    players={currentPlayers}
+                  />
+                </Paper>
+              </Grid>
             </Grid>
-          </Grid>
+          </Paper>
         </Container>
       </Fragment>
     );
@@ -235,4 +254,4 @@ const mapStateToProps = state => ({
     return player.year == "2019";
   })
 });
-export default connect(mapStateToProps)(withStyles(styles)(index));
+export default connect(mapStateToProps)(withRoot(withStyles(styles)(index)));

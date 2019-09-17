@@ -10,6 +10,7 @@ import Card from "@material-ui/core/Card";
 import CardActions from "@material-ui/core/CardActions";
 import CardContent from "@material-ui/core/CardContent";
 import ShowChartIcon from "@material-ui/icons/ShowChart";
+import Paper from "@material-ui/core/Paper";
 
 const style = {
   background: "white",
@@ -23,10 +24,12 @@ const chart = {
 
 const options = {
   legend: {
-    position: "top"
+    position: "top",
+    fontColor: "white"
   },
   title: {
-    text: "Comparison"
+    text: "Comparison",
+    fontColor: "white"
   },
   scale: {
     reverse: false,
@@ -118,12 +121,12 @@ export class Compare extends Component {
     let data1 = {
       label: name1,
       data: array1,
-      backgroundColor: "rgba(0, 0, 255, 0.5)"
+      backgroundColor: "rgba(214,57,141,0.5)"
     };
     let data2 = {
       label: name2,
       data: array2,
-      backgroundColor: "rgba(255, 0, 0, 0.5)"
+      backgroundColor: "rgba(71,107,28,0.5)"
     };
     let dataset = [data1, data2];
     console.log(dataset);
@@ -139,56 +142,61 @@ export class Compare extends Component {
   render() {
     return (
       <Fragment>
-        <Card>
-          <CardContent>
-            <Typography variant="h5" gutterBottom>
-              Compare any two players stats to see who comes out on top!
-            </Typography>
-            <CardActions
-              style={{ textAlign: "center", justifyContent: "center" }}
-            >
-              <FormControl>
-                <TextField
-                  id="name"
-                  label="Name"
-                  className="name"
-                  value={name[0]}
-                  onChange={this.handleChange(0)}
-                  margin="normal"
-                  fullWidth={true}
-                />
-                <TextField
-                  id="name"
-                  label="Name"
-                  className="name"
-                  value={name[1]}
-                  onChange={this.handleChange(1)}
-                  margin="normal"
-                  fullWidth={true}
-                />
-                <br />
-                <Button
-                  variant="contained"
-                  color="primary"
-                  className="submit"
-                  onClick={this.handleSubmit}
-                >
-                  <ShowChartIcon />
-                </Button>
-              </FormControl>
-            </CardActions>
-          </CardContent>
-        </Card>
+        <Typography variant="h5" gutterBottom>
+          compare any 2 players.
+        </Typography>
+
+        <TextField
+          id="name"
+          label="Name"
+          className="name"
+          value={name[0]}
+          onChange={this.handleChange(0)}
+          margin="normal"
+          fullWidth={true}
+        />
+        <TextField
+          id="name"
+          label="Name"
+          className="name"
+          value={name[1]}
+          onChange={this.handleChange(1)}
+          margin="normal"
+          fullWidth={true}
+        />
+        <br />
+        <Button
+          variant="contained"
+          color="primary"
+          className="submit"
+          onClick={this.handleSubmit}
+          fullWidth={true}
+          style={{ marginTop: "20px" }}
+        >
+          <ShowChartIcon />
+        </Button>
 
         {this.state.showChart == true && (
-          <Card style={chart}>
+          <Paper
+            style={{
+              marginTop: "-50px",
+              backgroundColor: "rgba(0,0,0,0.4)",
+              position: "absolute",
+              alignItems: "center",
+              left: "33%",
+              marginLeft: "50px",
+              top: "50%"
+            }}
+            elevation={5}
+          >
             <Radar
-              height={400}
+              height={450}
+              width={500}
               data={this.state.data}
               options={options}
               style={chart}
             />
-          </Card>
+          </Paper>
         )}
       </Fragment>
     );

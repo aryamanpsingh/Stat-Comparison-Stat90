@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import store from "../store";
 import { Provider } from "react-redux";
 import { getPlayers } from "../actions/players";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Index from "./pages/index";
 
 class App extends Component {

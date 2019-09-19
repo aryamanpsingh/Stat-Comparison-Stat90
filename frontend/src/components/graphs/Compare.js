@@ -140,10 +140,11 @@ export class Compare extends Component {
   };
 
   render() {
+    console.log(this.props.players);
     return (
       <Fragment>
         <Typography variant="h5" gutterBottom>
-          compare any 2 players.
+          compare any 2 {this.props.type}s.
         </Typography>
 
         <TextField
@@ -164,7 +165,15 @@ export class Compare extends Component {
           margin="normal"
           fullWidth={true}
         />
-        <br />
+        <Button
+          variant="contained"
+          color="primary"
+          className="submit"
+          onClick={this.handleSubmit}
+          fullWidth={true}
+          style={{ marginTop: "20px" }}
+        ></Button>
+
         <Button
           variant="contained"
           color="primary"

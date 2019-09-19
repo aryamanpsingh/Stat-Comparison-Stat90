@@ -7,19 +7,24 @@ import Button from "@material-ui/core/Button";
 import IconButton from "@material-ui/core/IconButton";
 import MenuIcon from "@material-ui/icons/Menu";
 
+import { Link } from "react-router-dom";
+
 const useStyles = makeStyles(theme => ({
   root: {
     flexGrow: 1
   },
   menuButton: {
-    marginRight: theme.spacing(2)
+    marginRight: theme.spacing(10)
   },
   title: {
-    flexGrow: 1
+    flexGrow: 2
+  },
+  rightToolbar: {
+    marginLeft: "auto"
   }
 }));
 
-export default function header() {
+export default function header(props) {
   const classes = useStyles();
 
   return (
@@ -34,10 +39,21 @@ export default function header() {
           >
             <MenuIcon />
           </IconButton>
-          <Typography variant="h6" className={classes.title}>
-            Stat90 Visualizer
+
+          <Typography variant="h6">
+            <Link to="/" style={{ textDecoration: "none", color: "white" }}>
+              Stat90 Visualizer
+            </Link>
           </Typography>
-          <Button color="inherit">About</Button>
+          <section className={classes.rightToolbar}>
+            <Button color="inherit" onClick={() => props.switchView("player")}>
+              Players
+            </Button>
+            <Button color="inherit" onClick={() => props.switchView("club")}>
+              Teams
+            </Button>
+            <Button color="inherit">About</Button>
+          </section>
         </Toolbar>
       </AppBar>
     </div>

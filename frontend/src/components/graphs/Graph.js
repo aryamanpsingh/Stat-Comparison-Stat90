@@ -6,6 +6,12 @@ import { Chart } from "frappe-charts/dist/frappe-charts.esm.js";
 import { HorizontalBar, Bar, Line, Pie } from "react-chartjs-2";
 
 export class Graph extends Component {
+  static propTypes = {
+    length: PropTypes.number.isRequired,
+    players: PropTypes.array.isRequired,
+    attribute: PropTypes.string.isRequired,
+    color: PropTypes.string.isRequired
+  };
   state = {};
   render() {
     let length = this.props.length;
@@ -13,16 +19,20 @@ export class Graph extends Component {
     let players = this.props.players;
 
     let color = this.props.color;
+    console.log(color);
     players.sort(function(a, b) {
       return b[attribute] - a[attribute];
     });
     players = players.slice(0, length);
     let values = players.map(a => a[attribute]);
-    let names = players.map(
-      a =>
-        a.name.split(" ")[1] +
-        (a.name.split(" ")[2] ? " " + a.name.split(" ")[2] : "")
-    );
+    let names;
+    if (this.props.type == "player") {
+      names = players.map(
+        a =>
+          a.name.split(" ")[1] +
+          (a.name.split(" ")[2] ? " " + a.name.split(" ")[2] : "")
+      );
+    } else names = players.map(a => a.name);
     /*
     let lastNames = [];
     for (name in names) {

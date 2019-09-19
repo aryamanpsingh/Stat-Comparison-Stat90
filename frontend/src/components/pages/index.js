@@ -15,13 +15,14 @@ import Button from "@material-ui/core/Button";
 
 import Grid from "@material-ui/core/Grid";
 import Container from "@material-ui/core/Container";
-import Compare from "../graphs/compare";
+import Compare from "../graphs/Compare";
 import Typography from "@material-ui/core/Typography";
 import { Paper } from "@material-ui/core";
 import Header from "../layout/header";
 import SwitchTab from "../tools/SwitchTab";
 import SettingsIcon from "@material-ui/icons/Settings";
 import withRoot from "../../withRoot";
+import InputColor from "react-input-color";
 
 const styles = theme => ({
   container: {
@@ -61,7 +62,9 @@ export class index extends Component {
   state = {
     year: 2019,
     league: [1, 2],
-    right: false
+    right: false,
+    view: "player",
+    color: "#ffab9199"
   };
   tabChange = (event, newValue) => {
     if (newValue != "settings")
@@ -82,7 +85,27 @@ export class index extends Component {
       });
     }
   };
-
+  sumTeam(team) {
+    console.log(team);
+    let attributes = ["goals", "assists", "xA", "xG"];
+    let sum = { name: team[1].team, goals: 0, assists: 0, xA: 0, xG: 0 };
+    team.forEach(function(player, i) {
+      attributes.forEach(function(attribute, j) {
+        sum[attribute] += player[attribute];
+      });
+    });
+    return sum;
+  }
+  switchView = value => {
+    this.setState({
+      view: value
+    });
+  };
+  setColor = event => {
+    this.setState({
+      color: event.hex
+    });
+  };
   render() {
     const { classes } = this.props;
     const toggleDrawer = (side, open) => event => {
@@ -95,6 +118,7 @@ export class index extends Component {
 
       this.setState({ [side]: open });
     };
+    let color = this.state.color;
     const sideList = side => (
       <div
         className={classes.list}
@@ -127,6 +151,9 @@ export class index extends Component {
               />
             </ListItemSecondaryAction>
           </ListItem>
+          <ListItem>
+            <InputColor initialHexColor={color} onChange={this.setColor} />
+          </ListItem>
         </List>
       </div>
     );
@@ -151,9 +178,30 @@ export class index extends Component {
     });
     currentPlayers = playerArray;
     let color1 = "rgba(105,17,62,0.9)";
-    let color2 = "rgba(179, 103, 102, 0.6)";
-    console.log(currentPlayers);
-    console.log(removeDiacritics("üafwe"));
+
+    const clubs = [...new Set(currentPlayers.map(player => player.team))];
+    console.log(clubs);
+
+    let teams = [new Array(47)];
+
+    clubs.forEach(function(team, i) {
+      teams.push(
+        currentPlayers.filter(function(player) {
+          return player.team.toLowerCase() == team.toLowerCase();
+        })
+      );
+    });
+    console.log(teams[1]);
+    if (clubs.length > 5) {
+      if (teams[1].length > 1)
+        for (var i = 1; i < teams.length; i++)
+          teams[i] = this.sumTeam(teams[i]);
+    }
+    teams.shift();
+    let elements;
+    if (this.state.view == "club") {
+      elements = teams;
+    } else elements = currentPlayers;
     /*
     if (this.state.league == 1) {
       let prem = currentPlayers.filter(function(player) {
@@ -168,7 +216,7 @@ export class index extends Component {
     }*/
     return (
       <Fragment>
-        <Header />
+        <Header switchView={this.switchView} />
         <Container className={classes.container}>
           <Paper elevation={3} className={classes.container}>
             <Drawer
@@ -182,6 +230,7 @@ export class index extends Component {
               year={this.state.year}
               tabChange={this.tabChange}
               toggleDrawer={toggleDrawer}
+              color={this.state.color}
             />
             <Grid container>
               <Grid item xs={4} style={{ textAlign: "center" }}>
@@ -190,17 +239,18 @@ export class index extends Component {
                     className={classes.graph}
                     length={10}
                     attribute="goals"
-                    color={color2}
-                    year={this.state.year}
-                    players={currentPlayers}
+                    color={this.state.color}
+                    players={elements}
+                    type={this.state.view}
                   />
                   <Graph
                     className={classes.graph}
                     length={10}
                     attribute="assists"
-                    color={color2}
+                    color={this.state.color}
                     year={this.state.year}
-                    players={currentPlayers}
+                    players={elements}
+                    type={this.state.view}
                   />
                 </Paper>
               </Grid>
@@ -214,7 +264,11 @@ export class index extends Component {
                   padding: "30px"
                 }}
               >
-                <Compare players={currentPlayers} className={classes.compare} />
+                <Compare
+                  players={elements}
+                  className={classes.compare}
+                  type={this.state.view}
+                />
               </Grid>
 
               <Grid item xs={4} style={{ textAlign: "center" }}>
@@ -223,17 +277,19 @@ export class index extends Component {
                     className={classes.graph}
                     length={10}
                     attribute="xG"
-                    color={color2}
+                    color={this.state.color}
                     year={this.state.year}
-                    players={currentPlayers}
+                    players={elements}
+                    type={this.state.view}
                   />
                   <Graph
                     className={classes.graph}
                     length={10}
                     attribute="xA"
-                    color={color2}
+                    color={this.state.color}
                     year={this.state.year}
-                    players={currentPlayers}
+                    players={elements}
+                    type={this.state.view}
                   />
                 </Paper>
               </Grid>

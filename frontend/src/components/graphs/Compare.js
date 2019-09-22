@@ -11,6 +11,7 @@ import CardActions from "@material-ui/core/CardActions";
 import CardContent from "@material-ui/core/CardContent";
 import ShowChartIcon from "@material-ui/icons/ShowChart";
 import Paper from "@material-ui/core/Paper";
+import { Input } from "@material-ui/core";
 
 const style = {
   background: "white",
@@ -20,6 +21,28 @@ const style = {
 const chart = {
   justifyContent: "center",
   margin: "auto"
+};
+const AutoComplete = {
+  marginTop: "30px",
+  width: "100%",
+  border: "1px solid white",
+  padding: "0",
+  marginBottom: "0",
+  input: {
+    border: "none",
+    background: "rgba(0,0,0,0)",
+    height: "36px",
+    width: "100%",
+    color: "white",
+    fontSize: "18px",
+    boxSizing: "border-box",
+    margin: 0,
+    padding: 0
+  },
+  ul: {
+    listStyleType: "none",
+    textAlign: "left"
+  }
 };
 
 const options = {
@@ -52,6 +75,11 @@ const options = {
 export class Compare extends Component {
   constructor(props) {
     super(props);
+    this.items = ["test", "best"];
+    this.suggestions = {
+      0: [],
+      1: []
+    };
     this.state = {
       player: [
         {
@@ -80,13 +108,37 @@ export class Compare extends Component {
     data: {},
     showChart: false
   };
+  componentWillMount() {
+    document.addEventListener("mousedown", this.handleClick, false);
+  }
 
   handleChange = index => e => {
-    console.log(index);
+    console.log(this.items);
+    let value = e.target.value;
+    if (value.length > 0) {
+      const regex = new RegExp(`${value}`, "i");
+      this.suggestions[index] = this.items
+        .sort()
+        .filter(v => regex.test(v.name));
+    } else {
+      this.suggestions[index] = [];
+    }
+    console.log(this.suggestions[index]);
     this.setState({
       player: update(this.state.player, {
         [index]: {
           name: { $set: e.target.value }
+        }
+      })
+    });
+  };
+  setValue = (index, value) => e => {
+    console.log(value);
+    this.suggestions[index] = [];
+    this.setState({
+      player: update(this.state.player, {
+        [index]: {
+          name: { $set: value }
         }
       })
     });
@@ -138,33 +190,77 @@ export class Compare extends Component {
       showChart: true
     });
   };
+  handleClick = e => {
+    if (this.node) {
+      if (this.node.contains(e.target)) {
+        return;
+      } else {
+        this.setState({
+          showChart: false
+        });
+      }
+    }
+  };
 
   render() {
-    console.log(this.props.players);
+    this.items = this.props.players;
+    let name = this.state.player.map(name => name.name);
     return (
       <Fragment>
         <Typography variant="h5" gutterBottom>
           compare any 2 {this.props.type}s.
         </Typography>
+        <form autoComplete="off">
+          <div className="AutoComplete" style={AutoComplete}>
+            <input
+              type="text"
+              style={AutoComplete.input}
+              id="name"
+              label="Name"
+              className="name"
+              value={name[0]}
+              onChange={this.handleChange(0)}
+            />
+            {this.suggestions[0].length > 0 && (
+              <ul style={AutoComplete.ul}>
+                {this.suggestions[0].map((item, key) => (
+                  <li
+                    key={key}
+                    value={item.name}
+                    onClick={this.setValue(0, item.name)}
+                  >
+                    {item.name}
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
 
-        <TextField
-          id="name"
-          label="Name"
-          className="name"
-          value={name[0]}
-          onChange={this.handleChange(0)}
-          margin="normal"
-          fullWidth={true}
-        />
-        <TextField
-          id="name"
-          label="Name"
-          className="name"
-          value={name[1]}
-          onChange={this.handleChange(1)}
-          margin="normal"
-          fullWidth={true}
-        />
+          <div className="AutoComplete" style={AutoComplete}>
+            <input
+              type="text"
+              style={AutoComplete.input}
+              id="name"
+              label="Name"
+              className="name"
+              value={name[1]}
+              onChange={this.handleChange(1)}
+            />
+            {this.suggestions[1].length > 0 && (
+              <ul style={AutoComplete.ul}>
+                {this.suggestions[1].map((item, key) => (
+                  <li
+                    key={key}
+                    value={item.name}
+                    onClick={this.setValue(1, item.name)}
+                  >
+                    {item.name}
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
+        </form>
         <Button
           variant="contained"
           color="primary"
@@ -186,26 +282,29 @@ export class Compare extends Component {
         </Button>
 
         {this.state.showChart == true && (
-          <Paper
-            style={{
-              marginTop: "-50px",
-              backgroundColor: "rgba(0,0,0,0.4)",
-              position: "absolute",
-              alignItems: "center",
-              left: "33%",
-              marginLeft: "50px",
-              top: "50%"
-            }}
-            elevation={5}
-          >
-            <Radar
-              height={450}
-              width={500}
-              data={this.state.data}
-              options={options}
-              style={chart}
-            />
-          </Paper>
+          <div ref={node => (this.node = node)}>
+            <Paper
+              style={{
+                marginTop: "-50px",
+                backgroundColor: "rgba(0,0,0,0.4)",
+                position: "absolute",
+                alignItems: "center",
+                left: "33%",
+                marginLeft: "50px",
+                top: "50%"
+              }}
+              elevation={5}
+            >
+              <Radar
+                height={450}
+                width={500}
+                data={this.state.data}
+                options={options}
+                style={chart}
+                onClose={this.closeChart}
+              />
+            </Paper>
+          </div>
         )}
       </Fragment>
     );

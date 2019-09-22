@@ -42,6 +42,12 @@ const AutoComplete = {
   ul: {
     listStyleType: "none",
     textAlign: "left"
+  },
+  li: {
+    padding: "5px"
+  },
+  liCurrent: {
+    background: "rgba(0,0,0,0.3)"
   }
 };
 
@@ -76,11 +82,9 @@ export class Compare extends Component {
   constructor(props) {
     super(props);
     this.items = ["test", "best"];
-    this.suggestions = {
-      0: [],
-      1: []
-    };
+
     this.state = {
+      cursor: [-1, -1],
       player: [
         {
           name: "",
@@ -100,6 +104,10 @@ export class Compare extends Component {
       data: {
         labels: ["Goals", "Assists", "xA", "xG"],
         datasets: [{}]
+      },
+      suggestions: {
+        0: [],
+        1: []
       }
     };
   }
@@ -117,13 +125,13 @@ export class Compare extends Component {
     let value = e.target.value;
     if (value.length > 0) {
       const regex = new RegExp(`${value}`, "i");
-      this.suggestions[index] = this.items
+      this.state.suggestions[index] = this.items
         .sort()
         .filter(v => regex.test(v.name));
     } else {
-      this.suggestions[index] = [];
+      this.state.suggestions[index] = [];
     }
-    console.log(this.suggestions[index]);
+    console.log(this.state.suggestions[index]);
     this.setState({
       player: update(this.state.player, {
         [index]: {
@@ -134,7 +142,7 @@ export class Compare extends Component {
   };
   setValue = (index, value) => e => {
     console.log(value);
-    this.suggestions[index] = [];
+    this.state.suggestions[index] = [];
     this.setState({
       player: update(this.state.player, {
         [index]: {
@@ -201,8 +209,41 @@ export class Compare extends Component {
       }
     }
   };
+  handleKeyDown = (index, suggestions) => e => {
+    if (e.keyCode === 40) {
+      this.state.cursor[index] += 1;
+
+      this.setState({
+        player: update(this.state.player, {
+          [index]: {
+            name: {
+              $set: this.state.suggestions[index][this.state.cursor[index]].name
+            }
+          }
+        })
+      });
+    } else if (e.keyCode === 38) {
+      if (this.state.cursor[index] > 0) this.state.cursor[index] -= 1;
+      this.setState({
+        player: update(this.state.player, {
+          [index]: {
+            name: {
+              $set: this.state.suggestions[index][this.state.cursor[index]].name
+            }
+          }
+        })
+      });
+    } else if (e.keyCode === 13) {
+      this.state.suggestions[index] = [];
+      this.setState({
+        suggestions: this.state.suggestions
+      });
+    }
+  };
 
   render() {
+    let suggestions = this.state.suggestions;
+    console.log(this.state.suggestions[1].length);
     this.items = this.props.players;
     let name = this.state.player.map(name => name.name);
     return (
@@ -218,13 +259,19 @@ export class Compare extends Component {
               id="name"
               label="Name"
               className="name"
-              value={name[0]}
+              value={this.state.player[0].name}
               onChange={this.handleChange(0)}
+              onKeyDown={this.handleKeyDown(0, suggestions)}
             />
-            {this.suggestions[0].length > 0 && (
+            {this.state.suggestions[0].length > 0 && (
               <ul style={AutoComplete.ul}>
-                {this.suggestions[0].map((item, key) => (
+                {this.state.suggestions[0].map((item, key) => (
                   <li
+                    style={
+                      this.state.cursor[0] === key
+                        ? AutoComplete.liCurrent
+                        : AutoComplete.li
+                    }
                     key={key}
                     value={item.name}
                     onClick={this.setValue(0, item.name)}
@@ -243,13 +290,19 @@ export class Compare extends Component {
               id="name"
               label="Name"
               className="name"
-              value={name[1]}
+              value={this.state.player[1].name}
               onChange={this.handleChange(1)}
+              onKeyDown={this.handleKeyDown(1, suggestions)}
             />
-            {this.suggestions[1].length > 0 && (
+            {this.state.suggestions[1].length > 0 && (
               <ul style={AutoComplete.ul}>
-                {this.suggestions[1].map((item, key) => (
+                {this.state.suggestions[1].map((item, key) => (
                   <li
+                    style={
+                      this.state.cursor[1] === key
+                        ? AutoComplete.liCurrent
+                        : AutoComplete.li
+                    }
                     key={key}
                     value={item.name}
                     onClick={this.setValue(1, item.name)}

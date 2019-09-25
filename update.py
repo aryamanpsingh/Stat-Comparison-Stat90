@@ -5,11 +5,6 @@ from graphdata.models import Player
 # Serie A
 csvInfo = [
     {
-        'name': "premierleague2019.csv",
-        'year': 2019,
-        'league': 1
-    },
-    {
         'name': "premierleague2018.csv",
         'year': 2018,
         'league': 1

@@ -1,361 +1,361 @@
-,name,team,apps,mins,goals,assists,xG,xA,xG90,xA90,Year,league
-0,Gerard Moreno,Villarreal,4,345,5,0,2.73,1.28,0.71,0.33,2019,2
-1,Karim Benzema,Real Madrid,4,348,4,1,2.57,0.51,0.67,0.13,2019,2
-2,Loren Morón,Real Betis,3,221,3,1,1.29,0.07,0.52,0.03,2019,2
-3,Joselu,Alaves,3,209,2,0,1.45,0.00,0.63,0.0,2019,2
-4,Luis Suárez,Barcelona,2,64,2,0,0.58,0.12,0.81,0.17,2019,2
-5,Moi Gómez,Villarreal,4,338,2,1,1.14,0.37,0.3,0.1,2019,2
-6,Gareth Bale,Real Madrid,3,257,2,1,1.37,1.04,0.48,0.36,2019,2
-7,Antoine Griezmann,Barcelona,4,360,2,2,1.34,0.68,0.34,0.17,2019,2
-8,Daniel Parejo,Valencia,3,270,2,0,1.69,0.36,0.56,0.12,2019,2
-9,Raúl García,Athletic Club,4,360,2,0,0.92,0.08,0.23,0.02,2019,2
-10,Kevin Gameiro,Valencia,4,356,2,0,1.93,0.17,0.49,0.04,2019,2
-11,Vitolo,Atletico Madrid,4,175,2,0,1.60,0.00,0.82,0.0,2019,2
-12,Martin Odegaard,Real Sociedad,4,360,2,0,1.30,0.38,0.33,0.1,2019,2
-13,Roger,Levante,4,128,2,0,1.61,0.02,1.13,0.01,2019,2
-14,Nabil Fekir,Real Betis,3,270,2,0,0.96,0.35,0.32,0.12,2019,2
-15,Roberto Torres,Osasuna,3,270,2,1,1.70,0.35,0.57,0.12,2019,2
-16,Sergi Guardiola,Real Valladolid,3,270,2,0,1.87,0.03,0.62,0.01,2019,2
-17,Antonio Puertas,Granada,3,270,2,0,1.45,0.06,0.48,0.02,2019,2
-18,Anssumane Fati,Barcelona,3,113,2,1,0.36,0.65,0.29,0.52,2019,2
-19,Arturo Vidal,Barcelona,3,34,1,0,0.42,0.00,1.12,0.0,2019,2
-20,Nacho Monreal,Real Sociedad,1,90,1,0,0.65,0.00,0.65,0.0,2019,2
-21,Santiago Cazorla,Villarreal,4,319,1,2,1.02,0.72,0.29,0.2,2019,2
-22,Nolito,Sevilla,3,264,1,0,0.84,0.09,0.29,0.03,2019,2
-23,Álvaro Morata,Atletico Madrid,2,180,1,0,1.87,1.25,0.93,0.62,2019,2
-24,Franco Vázquez,Sevilla,2,16,1,0,0.33,0.00,1.85,0.0,2019,2
-25,Carlos Fernández,Granada,2,46,1,0,0.39,0.02,0.76,0.04,2019,2
-26,Gerard Piqué,Barcelona,4,360,1,0,0.84,0.07,0.21,0.02,2019,2
-27,Jordi Alba,Barcelona,4,360,1,0,0.35,1.20,0.09,0.3,2019,2
-28,Joan Jordán,Sevilla,3,255,1,0,0.52,0.33,0.18,0.12,2019,2
-29,Jorge Molina,Getafe,2,127,1,0,0.49,0.05,0.35,0.03,2019,2
-30,Morales,Levante,4,287,1,0,1.10,0.98,0.35,0.31,2019,2
-31,Mikel Oyarzabal,Real Sociedad,4,360,1,0,1.95,0.42,0.49,0.11,2019,2
-32,Casemiro,Real Madrid,4,332,1,0,1.07,0.06,0.29,0.02,2019,2
-33,Borja Mayoral,Levante,3,262,1,0,1.28,0.66,0.44,0.23,2019,2
-34,Lucas Vázquez,Real Madrid,4,185,1,0,0.73,0.38,0.36,0.19,2019,2
-35,Denis Suárez,Celta Vigo,3,270,1,1,1.24,0.93,0.41,0.31,2019,2
-36,Roberto Soldado,Granada,3,247,1,1,0.18,0.75,0.07,0.27,2019,2
-37,Thomas Partey,Atletico Madrid,3,136,1,0,0.49,0.00,0.32,0.0,2019,2
-38,Charles,Eibar,2,91,1,0,0.69,0.02,0.68,0.02,2019,2
-39,Toni Kroos,Real Madrid,4,353,1,0,0.43,1.20,0.11,0.3,2019,2
-40,Iñaki Williams,Athletic Club,4,354,1,0,0.69,0.11,0.17,0.03,2019,2
-41,Aduriz,Athletic Club,4,47,1,0,0.81,0.00,1.56,0.0,2019,2
-42,Anaitz Arbilla,Eibar,2,180,1,0,0.08,0.00,0.04,0.0,2019,2
-43,Martin Braithwaite,Leganes,4,360,1,0,0.98,0.74,0.24,0.18,2019,2
-44,Ramón Azeez,Granada,2,49,1,0,0.44,0.00,0.81,0.0,2019,2
-45,Fede Vico,Granada,3,207,1,0,0.93,0.31,0.4,0.14,2019,2
-46,Sergio León,Levante,3,162,1,0,0.86,0.00,0.48,0.0,2019,2
-47,Maxi Gómez,Valencia,3,103,1,0,0.73,0.08,0.64,0.07,2019,2
-48,Paulo Oliveira,Eibar,3,211,1,0,0.46,0.00,0.2,0.0,2019,2
-49,Óscar Plano,Real Valladolid,3,270,1,1,0.36,1.00,0.12,0.33,2019,2
-50,Arthur,Barcelona,2,108,1,1,0.11,0.14,0.1,0.12,2019,2
-51,Gonzalo Melero,Levante,2,87,1,0,0.53,0.29,0.55,0.3,2019,2
-52,Ezequiel Ávila,Osasuna,3,259,1,0,0.55,0.42,0.19,0.15,2019,2
-53,Jaime Mata,Getafe,3,232,1,0,0.19,0.11,0.07,0.04,2019,2
-54,Sergio Reguilón,Sevilla,3,198,1,1,0.87,0.77,0.4,0.35,2019,2
-55,Samuel Chukwueze,Villarreal,3,236,1,0,0.17,1.47,0.06,0.56,2019,2
-56,Carles Pérez,Barcelona,4,272,1,2,0.54,0.35,0.18,0.11,2019,2
-57,Frenkie de Jong,Barcelona,4,338,1,1,0.58,0.61,0.15,0.16,2019,2
-58,Gabriel Fernández,Celta Vigo,3,223,1,0,0.50,0.00,0.2,0.0,2019,2
-59,Iker Losada,Celta Vigo,1,1,1,0,0.24,0.00,21.35,0.0,2019,2
-60,Dani Rodríguez,Mallorca,4,304,1,0,1.39,0.21,0.41,0.06,2019,2
-61,João Félix,Atletico Madrid,4,302,1,1,1.69,0.35,0.5,0.11,2019,2
-62,Pablo De Blasis,Eibar,2,97,0,0,0.12,0.04,0.11,0.04,2019,2
-63,Adnan Januzaj,Real Sociedad,4,229,0,0,0.22,0.50,0.09,0.2,2019,2
-64,Adrián Ramos,Granada,2,7,0,0,0.02,0.00,0.22,0.0,2019,2
-65,Takashi Inui,Eibar,1,90,0,0,0.02,0.00,0.02,0.0,2019,2
-66,Gabriel,Valencia,3,242,0,0,0.00,0.00,0.0,0.0,2019,2
-67,Francis Coquelin,Valencia,3,270,0,0,0.04,0.00,0.01,0.0,2019,2
-68,Nyom,Getafe,3,201,0,0,0.02,0.01,0.01,0.01,2019,2
-69,Joel Robles,Real Betis,2,97,0,0,0.00,0.00,0.0,0.0,2019,2
-70,Alberto Moreno,Villarreal,1,90,0,0,0.05,0.04,0.05,0.04,2019,2
-71,Fernando,Sevilla,3,270,0,0,0.04,0.02,0.01,0.01,2019,2
-72,Jesús Navas,Sevilla,3,270,0,0,0.03,0.20,0.01,0.07,2019,2
-73,Kieran Trippier,Atletico Madrid,4,360,0,1,0.00,0.88,0.0,0.22,2019,2
-74,Thibaut Courtois,Real Madrid,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
-75,Abdul Rahman Baba,Mallorca,1,90,0,0,0.04,0.00,0.04,0.0,2019,2
-76,Eden Hazard,Real Madrid,1,28,0,0,0.12,0.14,0.39,0.46,2019,2
-77,Diego Costa,Atletico Madrid,2,180,0,1,0.68,0.61,0.34,0.3,2019,2
-78,Juanmi,Real Betis,1,4,0,0,0.00,0.00,0.0,0.0,2019,2
-79,Lucas Ocampos,Sevilla,2,153,0,0,0.14,0.03,0.08,0.02,2019,2
-80,Carlos Bacca,Villarreal,4,109,0,0,1.34,0.00,1.1,0.0,2019,2
-81,Rodrigo Ely,Alaves,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-82,Ante Budimir,Mallorca,4,293,0,0,1.43,0.00,0.44,0.0,2019,2
-83,Cristian Tello,Real Betis,2,148,0,0,0.34,0.07,0.21,0.05,2019,2
-84,Geoffrey Kondogbia,Valencia,2,180,0,0,0.06,0.00,0.03,0.0,2019,2
-85,Éver Banega,Sevilla,2,161,0,1,0.01,0.35,0.01,0.2,2019,2
-86,Raúl Albiol,Villarreal,4,358,0,0,0.00,0.00,0.0,0.0,2019,2
-87,Diego López,Espanyol,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-88,Jonathan Calleri,Espanyol,1,23,0,0,0.05,0.06,0.18,0.23,2019,2
-89,Lucas Pérez,Alaves,3,99,0,0,0.07,0.38,0.07,0.35,2019,2
-90,Aleksandar Trajkovski,Mallorca,3,71,0,0,0.12,0.13,0.15,0.16,2019,2
-91,Sergio Escudero,Sevilla,1,72,0,0,0.05,0.00,0.06,0.0,2019,2
-92,Vicente Iborra,Villarreal,4,360,0,0,0.44,0.00,0.11,0.0,2019,2
-93,Daniel Carriço,Sevilla,3,270,0,0,0.66,0.00,0.22,0.0,2019,2
-94,Coke,Levante,1,90,0,0,0.09,0.00,0.09,0.0,2019,2
-95,Andrés Fernández,Villarreal,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-96,Rubén Rochina,Levante,4,247,0,0,0.38,0.14,0.14,0.05,2019,2
-97,Rubén Pérez,Leganes,4,360,0,0,0.06,0.07,0.01,0.02,2019,2
-98,Robert Ibáñez,Osasuna,3,183,0,0,0.04,0.08,0.02,0.04,2019,2
-99,Marc-André ter Stegen,Barcelona,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
-100,Ivan Rakitic,Barcelona,2,61,0,0,0.22,0.00,0.33,0.0,2019,2
-101,Sergio Busquets,Barcelona,3,255,0,1,0.03,0.52,0.01,0.18,2019,2
-102,Rafinha,Barcelona,3,193,0,0,0.88,0.31,0.41,0.14,2019,2
-103,Aleix Vidal,Alaves,3,258,0,1,1.07,0.68,0.37,0.24,2019,2
-104,Sergi Roberto,Barcelona,3,257,0,2,0.41,0.41,0.14,0.14,2019,2
-105,Jordi Masip,Real Valladolid,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-106,Munir,Sevilla,2,87,0,0,0.05,0.00,0.05,0.0,2019,2
-107,Javi López,Espanyol,2,91,0,0,0.00,0.00,0.0,0.0,2019,2
-108,Rubén Duarte,Alaves,3,270,0,0,0.10,0.00,0.03,0.0,2019,2
-109,Papakouly Diop,Eibar,2,180,0,0,0.08,0.00,0.04,0.0,2019,2
-110,Víctor Sánchez,Espanyol,3,228,0,0,0.02,0.02,0.01,0.01,2019,2
-111,Rober Correa,Eibar,2,84,0,0,0.00,0.00,0.0,0.0,2019,2
-112,Salva Sevilla,Mallorca,4,360,0,0,0.25,1.36,0.06,0.34,2019,2
-113,Lluis López,Espanyol,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
-114,Ander Capa,Athletic Club,4,360,0,3,0.06,1.05,0.02,0.26,2019,2
-115,Iván Ramis,Eibar,2,180,0,0,0.00,0.08,0.0,0.04,2019,2
-116,Dani García,Athletic Club,4,360,0,0,0.06,0.07,0.01,0.02,2019,2
-117,Sergi Enrich,Eibar,2,142,0,0,0.05,0.00,0.03,0.0,2019,2
-118,Antonio Adán,Atletico Madrid,1,23,0,0,0.00,0.00,0.0,0.0,2019,2
-119,Joaquín,Real Betis,3,112,0,0,0.06,0.56,0.05,0.45,2019,2
-120,Francisco Portillo,Getafe,2,42,0,0,0.13,0.10,0.28,0.2,2019,2
-121,Álvaro Vadillo,Granada,2,129,0,0,0.05,0.08,0.03,0.06,2019,2
-122,Quini,Granada,3,270,0,0,0.08,0.06,0.03,0.02,2019,2
-123,Nacho,Real Valladolid,3,270,0,0,0.01,0.88,0.0,0.29,2019,2
-124,Diego Llorente,Real Sociedad,2,180,0,0,0.55,0.01,0.27,0.0,2019,2
-125,Rubén García,Osasuna,2,90,0,0,0.00,0.00,0.0,0.0,2019,2
-126,Toño,Levante,2,180,0,0,0.03,0.10,0.02,0.05,2019,2
-127,Rubén Martínez,Osasuna,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-128,Damián Suárez,Getafe,3,244,0,0,0.05,0.00,0.02,0.0,2019,2
-129,Pedro León,Eibar,3,181,0,0,0.05,0.37,0.02,0.19,2019,2
-130,Iván Cuéllar,Leganes,2,180,0,0,0.00,0.00,0.0,0.0,2019,2
-131,Sergio Álvarez,Eibar,3,239,0,0,0.00,0.00,0.0,0.0,2019,2
-132,Zaldúa,Real Sociedad,4,355,0,0,0.01,0.00,0.0,0.0,2019,2
-133,Aritz Elustondo,Real Sociedad,1,90,0,0,0.00,0.50,0.0,0.5,2019,2
-134,Yuri,Athletic Club,4,360,0,0,0.10,0.07,0.03,0.02,2019,2
-135,David Zurutuza,Real Sociedad,2,22,0,0,0.00,0.00,0.0,0.0,2019,2
-136,Markel Bergara,Getafe,2,70,0,0,0.13,0.00,0.17,0.0,2019,2
-137,Asier Illarramendi,Real Sociedad,3,216,0,0,0.01,0.08,0.01,0.03,2019,2
-138,Raphael Varane,Real Madrid,4,360,0,1,0.00,0.06,0.0,0.01,2019,2
-139,Sergio Ramos,Real Madrid,4,332,0,0,0.25,0.02,0.07,0.01,2019,2
-140,James Rodríguez,Real Madrid,2,148,0,1,0.71,1.13,0.43,0.69,2019,2
-141,Luka Modric,Real Madrid,2,79,0,1,0.09,0.10,0.11,0.12,2019,2
-142,Isco,Real Madrid,2,82,0,0,0.10,0.46,0.11,0.51,2019,2
-143,Marcelo,Real Madrid,3,270,0,1,0.08,0.65,0.03,0.22,2019,2
-144,Daniel Carvajal,Real Madrid,3,270,0,2,0.03,1.22,0.01,0.41,2019,2
-145,Jan Oblak,Atletico Madrid,4,337,0,0,0.00,0.00,0.0,0.0,2019,2
-146,Stefan Savic,Atletico Madrid,3,270,0,0,0.03,0.01,0.01,0.0,2019,2
-147,Saúl Ñíguez,Atletico Madrid,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
-148,Koke,Atletico Madrid,4,360,0,0,0.02,1.45,0.01,0.36,2019,2
-149,Ángel Correa,Atletico Madrid,1,32,0,0,0.00,0.13,0.0,0.37,2019,2
-150,Moyá,Real Sociedad,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
-151,Giménez,Atletico Madrid,4,360,0,0,0.27,0.00,0.07,0.0,2019,2
-152,Hugo Mallo,Celta Vigo,2,21,0,0,0.00,0.00,0.0,0.0,2019,2
-153,Daniel Wass,Valencia,4,360,0,1,0.21,0.89,0.05,0.22,2019,2
-154,Fabián Orellana,Eibar,3,250,0,1,0.22,0.81,0.08,0.29,2019,2
-155,Iago Aspas,Celta Vigo,3,270,0,0,1.24,0.45,0.41,0.15,2019,2
-156,Pape Cheikh,Celta Vigo,2,16,0,1,0.00,0.24,0.0,1.33,2019,2
-157,Rubén Blanco,Celta Vigo,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-158,Mario,Villarreal,3,270,0,0,0.04,0.15,0.01,0.05,2019,2
-159,Manu Trigueros,Villarreal,2,8,0,0,0.00,0.03,0.0,0.37,2019,2
-160,Sidnei,Real Betis,3,248,0,0,0.07,0.00,0.03,0.0,2019,2
-161,Faycal Fajr,Getafe,3,228,0,0,0.25,0.04,0.1,0.01,2019,2
-162,Roberto Rosales,Leganes,2,169,0,0,0.00,0.61,0.0,0.33,2019,2
-163,Recio,Leganes,1,21,0,0,0.00,0.00,0.0,0.0,2019,2
-164,Roque Mesa,Leganes,3,262,0,0,0.07,0.04,0.02,0.01,2019,2
-165,Willian José,Real Sociedad,4,230,0,0,0.77,0.00,0.3,0.0,2019,2
-166,Mubarak Wakaso,Alaves,3,270,0,0,0.05,0.10,0.02,0.03,2019,2
-167,Montoro,Granada,3,270,0,1,0.06,0.25,0.02,0.08,2019,2
-168,Rodrigo,Valencia,4,255,0,1,0.51,0.78,0.18,0.28,2019,2
-169,Santi Mina,Celta Vigo,2,47,0,1,0.02,0.50,0.04,0.96,2019,2
-170,Rúben Vezo,Levante,4,360,0,0,0.59,0.00,0.15,0.0,2019,2
-171,San José,Athletic Club,1,1,0,0,0.00,0.00,0.0,0.0,2019,2
-172,Beñat,Athletic Club,4,140,0,0,0.04,0.10,0.03,0.06,2019,2
-173,Muniain,Athletic Club,4,360,0,0,0.04,0.32,0.01,0.08,2019,2
-174,Eraso,Leganes,3,156,0,0,0.21,0.03,0.12,0.02,2019,2
-175,David Soria,Getafe,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-176,Igor Zubeldia,Real Sociedad,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
-177,Álvaro Odriozola,Real Madrid,1,90,0,0,0.17,0.04,0.17,0.04,2019,2
-178,Óliver Torres,Sevilla,1,79,0,0,0.00,0.00,0.0,0.0,2019,2
-179,Óscar Duarte,Levante,1,70,0,0,0.59,0.00,0.75,0.0,2019,2
-180,Gonzalo Escalante,Eibar,2,121,0,0,0.11,0.06,0.08,0.04,2019,2
-181,Bruno,Getafe,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
-182,De Marcos,Athletic Club,2,114,0,0,0.00,0.00,0.0,0.0,2019,2
-183,Marc Bartra,Real Betis,3,202,0,0,0.08,0.00,0.03,0.0,2019,2
-184,Sergio Asenjo,Villarreal,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
-185,Lillo,Osasuna,1,1,0,0,0.00,0.00,0.0,0.0,2019,2
-186,Carlos Soler,Valencia,1,90,0,0,0.08,0.20,0.08,0.2,2019,2
-187,Tomás Pina,Alaves,3,270,0,0,0.00,0.04,0.0,0.01,2019,2
-188,Adrián Marín,Alaves,2,159,0,0,0.29,0.00,0.16,0.0,2019,2
-189,Iñigo Martínez,Athletic Club,2,180,0,0,0.04,0.00,0.02,0.0,2019,2
-190,Ibai Gómez,Athletic Club,1,10,0,0,0.20,0.00,1.76,0.0,2019,2
-191,Denis Cheryshev,Valencia,3,38,0,1,0.12,0.63,0.28,1.5,2019,2
-192,Sabin,Leganes,1,8,0,0,0.00,0.05,0.0,0.61,2019,2
-193,José Gayá,Valencia,3,270,0,0,0.00,0.12,0.0,0.04,2019,2
-194,Marcos Llorente,Atletico Madrid,4,135,0,0,0.00,0.00,0.0,0.0,2019,2
-195,Tejero,Eibar,3,270,0,0,0.00,0.11,0.0,0.04,2019,2
-196,Alfonso,Real Betis,3,270,0,0,0.12,0.00,0.04,0.0,2019,2
-197,Sandro Ramírez,Real Valladolid,1,11,0,0,0.02,0.00,0.18,0.0,2019,2
-198,Jaume Costa,Valencia,1,85,0,0,0.00,0.03,0.0,0.03,2019,2
-199,Borja Iglesias,Real Betis,2,64,0,0,0.13,0.00,0.18,0.0,2019,2
-200,Cristiano Piccini,Valencia,2,73,0,0,0.13,0.00,0.16,0.0,2019,2
-201,Sergio Canales,Real Betis,2,164,0,1,0.00,0.53,0.0,0.29,2019,2
-202,Javi Ontiveros,Villarreal,3,50,0,1,0.16,0.87,0.29,1.56,2019,2
-203,Raíllo,Mallorca,4,360,0,0,0.34,0.00,0.09,0.0,2019,2
-204,Sergi Darder,Espanyol,3,203,0,0,0.11,0.20,0.05,0.09,2019,2
-205,Ezequiel Garay,Valencia,4,360,0,0,0.02,0.02,0.01,0.0,2019,2
-206,Javi García,Real Betis,2,92,0,0,0.13,0.00,0.12,0.0,2019,2
-207,Ousmane Dembélé,Barcelona,1,90,0,0,0.00,0.13,0.0,0.13,2019,2
-208,Aissa Mandi,Real Betis,1,90,0,0,0.65,0.00,0.65,0.0,2019,2
-209,Mauro Arambarri,Getafe,3,270,0,0,0.07,0.03,0.02,0.01,2019,2
-210,Sébastien Corchia,Espanyol,2,180,0,0,0.10,0.70,0.05,0.35,2019,2
-211,Rony Lopes,Sevilla,1,6,0,0,0.02,0.00,0.31,0.0,2019,2
-212,Guido Carrillo,Leganes,1,43,0,0,0.04,0.00,0.07,0.0,2019,2
-213,Thomas Lemar,Atletico Madrid,4,292,0,0,0.04,0.13,0.01,0.04,2019,2
-214,Yannis Salibur,Mallorca,1,24,0,0,0.00,0.00,0.0,0.0,2019,2
-215,José Campaña,Levante,4,360,0,1,0.07,1.48,0.02,0.37,2019,2
-216,Naldo,Espanyol,3,270,0,0,0.06,0.00,0.02,0.0,2019,2
-217,Unai López,Athletic Club,3,207,0,0,0.10,0.19,0.04,0.08,2019,2
-218,Unai Bustinza,Leganes,4,302,0,0,0.02,0.11,0.01,0.03,2019,2
-219,Dídac Vilá,Espanyol,3,270,0,0,0.00,0.08,0.0,0.03,2019,2
-220,Ángel,Getafe,2,54,0,0,0.16,0.11,0.26,0.19,2019,2
-221,David Costas,Celta Vigo,2,99,0,0,0.06,0.00,0.05,0.0,2019,2
-222,Quique González,Eibar,1,14,0,0,0.00,0.00,0.0,0.0,2019,2
-223,Aitor Fernández,Levante,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
-224,Kevin,Celta Vigo,3,250,0,0,0.00,0.02,0.0,0.01,2019,2
-225,Míchel,Real Valladolid,3,269,0,0,0.10,0.05,0.03,0.02,2019,2
-226,Darwin Machís,Granada,3,128,0,1,0.34,0.46,0.24,0.33,2019,2
-227,Facundo Ferreyra,Espanyol,3,111,0,0,0.08,0.00,0.06,0.0,2019,2
-228,Pablo Chavarria,Mallorca,1,5,0,0,0.04,0.00,0.64,0.0,2019,2
-229,Darko Brasanac,Osasuna,2,180,0,0,0.00,0.00,0.0,0.0,2019,2
-230,Álex Alegría,Mallorca,3,49,0,0,0.00,0.00,0.0,0.0,2019,2
-231,Fernando Pacheco,Alaves,2,180,0,0,0.00,0.00,0.0,0.0,2019,2
-232,Víctor Laguardia,Alaves,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
-233,Manu García,Alaves,3,212,0,0,0.11,0.00,0.04,0.0,2019,2
-234,Clement Lenglet,Barcelona,4,360,0,0,0.10,0.08,0.02,0.02,2019,2
-235,Jasper Cillessen,Valencia,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
-236,Carles Aleñá,Barcelona,1,47,0,0,0.00,0.00,0.0,0.0,2019,2
-237,Yeray Álvarez,Athletic Club,4,360,0,0,0.12,0.34,0.03,0.09,2019,2
-238,Dimitrios Siovas,Leganes,4,360,0,0,0.49,0.04,0.12,0.01,2019,2
-239,David Timor,Getafe,1,70,0,0,0.03,0.00,0.04,0.0,2019,2
-240,Kike García,Eibar,3,203,0,0,0.43,0.07,0.19,0.03,2019,2
-241,Rubén Peña,Villarreal,2,116,0,0,0.00,0.00,0.0,0.0,2019,2
-242,Edu Expósito,Eibar,3,169,0,0,0.00,0.02,0.0,0.01,2019,2
-243,Marc Navarro,Leganes,2,101,0,0,0.05,0.02,0.04,0.02,2019,2
-244,Marc Roca,Espanyol,3,270,0,0,0.04,0.00,0.01,0.0,2019,2
-245,David García,Osasuna,3,270,0,0,0.05,0.00,0.02,0.0,2019,2
-246,Carlos Clerc,Levante,2,180,0,1,0.05,0.34,0.02,0.17,2019,2
-247,Rui Silva,Granada,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-248,Raúl García,Getafe,2,113,0,0,0.00,0.15,0.0,0.12,2019,2
-249,Pione Sisto,Celta Vigo,1,13,0,0,0.00,0.00,0.0,0.0,2019,2
-250,Víctor Díaz,Granada,3,270,0,0,0.05,0.04,0.02,0.01,2019,2
-251,Alberto Rodríguez,Alaves,2,9,0,0,0.00,0.00,0.0,0.0,2019,2
-252,Oier,Osasuna,2,180,0,0,0.00,0.02,0.0,0.01,2019,2
-253,Fran Mérida,Osasuna,1,75,0,0,0.00,0.02,0.0,0.03,2019,2
-254,Óscar Melendo,Espanyol,3,254,0,0,0.06,0.15,0.02,0.05,2019,2
-255,Estupiñán,Osasuna,3,270,0,0,0.00,0.06,0.0,0.02,2019,2
-256,Luis Perea,Osasuna,1,5,0,0,0.00,0.00,0.0,0.0,2019,2
-257,Kévin Rodrigues,Real Sociedad,1,2,0,0,0.07,0.00,3.1,0.0,2019,2
-258,Marc Cardona,Osasuna,2,87,0,0,0.00,0.39,0.0,0.4,2019,2
-259,Nacho Vidal,Osasuna,3,270,0,0,0.00,0.05,0.0,0.02,2019,2
-260,Youssef En-Nesyri,Leganes,4,317,0,0,0.61,0.02,0.17,0.0,2019,2
-261,Unai Simón,Athletic Club,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
-262,Martín Aguirregabiria,Alaves,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-263,Wilfrid Kaptoum,Real Betis,1,28,0,0,0.00,0.00,0.0,0.0,2019,2
-264,Alexander Isak,Real Sociedad,4,145,0,0,0.00,0.46,0.0,0.29,2019,2
-265,Mikel Merino,Real Sociedad,4,338,0,1,0.04,0.23,0.01,0.06,2019,2
-266,Erick Cabaco,Levante,1,1,0,0,0.00,0.00,0.0,0.0,2019,2
-267,Karl Toko Ekambi,Villarreal,4,165,0,2,1.59,0.80,0.87,0.44,2019,2
-268,Mouctar Diakhaby,Valencia,2,118,0,0,0.00,0.00,0.0,0.0,2019,2
-269,Gonçalo Guedes,Valencia,4,339,0,0,0.30,0.48,0.08,0.13,2019,2
-270,Diego Carlos,Sevilla,3,258,0,0,0.25,0.00,0.09,0.0,2019,2
-271,Brandon,Osasuna,2,83,0,1,0.37,0.39,0.4,0.43,2019,2
-272,Chidozie Awaziem,Leganes,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
-273,Guillermo Maripán,Alaves,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
-274,Antonio Sivera,Alaves,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
-275,Nemanja Maksimovic,Getafe,1,40,0,0,0.00,0.00,0.0,0.0,2019,2
-276,Pere Pons,Alaves,2,30,0,0,0.14,0.00,0.43,0.0,2019,2
-277,Portu,Real Sociedad,3,164,0,1,0.00,0.82,0.0,0.45,2019,2
-278,Stanislav Lobotka,Celta Vigo,3,257,0,0,0.05,0.01,0.02,0.0,2019,2
-279,Mario Hermoso,Atletico Madrid,3,180,0,0,0.01,0.00,0.0,0.0,2019,2
-280,Unai Núñez,Athletic Club,2,180,0,0,0.06,0.00,0.03,0.0,2019,2
-281,Iñigo Córdoba,Athletic Club,2,138,0,1,0.22,0.04,0.15,0.03,2019,2
-282,Djené Dakonam,Getafe,3,270,0,0,0.02,0.02,0.01,0.01,2019,2
-283,Nélson Semedo,Barcelona,4,320,0,1,0.15,0.14,0.04,0.04,2019,2
-284,Andrés Guardado,Real Betis,2,152,0,0,0.05,0.29,0.03,0.17,2019,2
-285,Leandro Cabrera,Getafe,3,226,0,0,0.01,0.00,0.0,0.0,2019,2
-286,Sergio Postigo,Levante,4,360,0,0,0.00,0.21,0.0,0.05,2019,2
-287,Enis Bardhi,Levante,4,220,0,0,0.44,0.06,0.18,0.03,2019,2
-288,Enes Ünal,Real Valladolid,3,259,0,0,0.28,0.07,0.1,0.02,2019,2
-289,Pau Torres,Villarreal,4,360,0,0,0.02,0.18,0.01,0.04,2019,2
-290,Marko Dmitrovic,Eibar,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-291,Brais Méndez,Celta Vigo,3,259,0,0,0.62,0.07,0.22,0.02,2019,2
-292,Luka Jovic,Real Madrid,4,102,0,0,0.18,0.00,0.15,0.0,2019,2
-293,Ferland Mendy,Real Madrid,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
-294,Federico Valverde,Real Madrid,1,7,0,0,0.00,0.00,0.0,0.0,2019,2
-295,Juan Soriano,Leganes,2,180,0,0,0.00,0.00,0.0,0.0,2019,2
-296,Aitor Ruibal,Leganes,2,35,0,0,0.07,0.11,0.17,0.28,2019,2
-297,Jules Koundé,Sevilla,1,12,0,0,0.00,0.00,0.0,0.0,2019,2
-298,Franck Zambo,Villarreal,3,207,0,0,0.04,0.03,0.02,0.01,2019,2
-299,Ferrán Torres,Valencia,4,167,0,0,0.48,0.00,0.26,0.0,2019,2
-300,José Arnáiz,Leganes,4,125,0,0,0.25,0.06,0.18,0.05,2019,2
-301,Júnior Firpo,Barcelona,1,8,0,0,0.00,0.06,0.0,0.69,2019,2
-302,Jonathan Silva,Leganes,4,360,0,0,0.28,0.08,0.07,0.02,2019,2
-303,Óscar Rodríguez,Leganes,3,235,0,0,0.35,0.01,0.13,0.01,2019,2
-304,Pedro Porro,Real Valladolid,2,171,0,0,0.00,0.06,0.0,0.03,2019,2
-305,Javi Moyano,Real Valladolid,2,150,0,0,0.00,0.03,0.0,0.02,2019,2
-306,Kiko Olivas,Real Valladolid,3,270,0,0,0.01,0.00,0.0,0.0,2019,2
-307,Fernando Calero,Espanyol,3,185,0,0,0.00,0.00,0.0,0.0,2019,2
-308,Rubén Alcaraz,Real Valladolid,1,79,0,1,0.21,0.08,0.24,0.09,2019,2
-309,Anuar Mohamed,Real Valladolid,3,17,0,0,0.00,0.00,0.0,0.0,2019,2
-310,Toni Villa,Real Valladolid,1,15,0,0,0.00,0.00,0.0,0.0,2019,2
-311,Antoñito,Real Valladolid,2,67,0,0,0.00,0.00,0.0,0.0,2019,2
-312,Mohammed Salisu,Real Valladolid,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-313,Miguel De la Fuente,Real Valladolid,1,1,0,0,0.00,0.00,0.0,0.0,2019,2
-314,William Carvalho,Real Betis,3,270,0,0,0.02,0.41,0.01,0.14,2019,2
-315,Néstor Araújo,Celta Vigo,3,261,0,0,0.37,0.00,0.13,0.0,2019,2
-316,Fran Beltrán,Celta Vigo,3,265,0,0,0.00,0.10,0.0,0.03,2019,2
-317,Luca Sangalli,Real Sociedad,1,6,0,0,0.02,0.00,0.34,0.0,2019,2
-318,Jorge Miramón,Levante,4,276,0,0,0.07,0.52,0.02,0.17,2019,2
-319,Tomás Vaclik,Sevilla,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-320,Vinícius Júnior,Real Madrid,4,208,0,1,0.93,0.66,0.4,0.29,2019,2
-321,Kenneth Omeruo,Leganes,2,169,0,0,0.05,0.00,0.03,0.0,2019,2
-322,Marc Cucurella,Getafe,3,270,0,2,0.02,0.62,0.01,0.21,2019,2
-323,Nikola Vukcevic,Levante,4,305,0,0,0.01,0.00,0.0,0.0,2019,2
-324,Rodrigo Tarín,Leganes,2,117,0,0,0.00,0.00,0.0,0.0,2019,2
-325,Javier Avilés,Leganes,1,10,0,0,0.00,0.00,0.0,0.0,2019,2
-326,Robin Le Normand,Real Sociedad,2,180,0,0,0.11,0.00,0.06,0.0,2019,2
-327,Aihen Muñoz,Real Sociedad,3,268,0,0,0.00,0.00,0.0,0.0,2019,2
-328,Ander Barrenetxea,Real Sociedad,1,5,0,0,0.00,0.00,0.0,0.0,2019,2
-329,Lee Kang-In,Valencia,2,25,0,0,0.08,0.00,0.3,0.0,2019,2
-330,Bryan Gil Salvatierra,Sevilla,1,30,0,0,0.00,0.00,0.0,0.0,2019,2
-331,Enric Gallego,Getafe,2,100,0,0,0.00,0.00,0.0,0.0,2019,2
-332,Yangel Herrera,Granada,1,90,0,0,0.00,0.00,0.0,0.0,2019,2
-333,Diego Lainez,Real Betis,1,14,0,0,0.00,0.00,0.0,0.0,2019,2
-334,Víctor Campuzano,Espanyol,2,100,0,0,0.00,0.00,0.0,0.0,2019,2
-335,Wu Lei,Espanyol,3,156,0,0,0.80,0.08,0.46,0.05,2019,2
-336,Emerson,Real Betis,3,270,0,2,0.03,1.14,0.01,0.38,2019,2
-337,Xavier Quintillá,Villarreal,3,270,0,1,0.00,1.20,0.0,0.4,2019,2
-338,Lucas Olaza,Celta Vigo,3,270,0,0,0.00,0.32,0.0,0.11,2019,2
-339,Waldo Rubio,Real Valladolid,3,137,0,1,0.16,0.16,0.1,0.11,2019,2
-340,Oihan Sancet,Athletic Club,1,23,0,0,0.00,0.00,0.0,0.0,2019,2
-341,Gaizka Larrazabal,Athletic Club,2,48,0,0,0.00,0.00,0.0,0.0,2019,2
-342,Joseph Aidoo,Celta Vigo,2,180,0,0,0.00,0.00,0.0,0.0,2019,2
-343,Eder Militão,Real Madrid,1,28,0,0,0.00,0.00,0.0,0.0,2019,2
-344,Manolo Reina,Mallorca,4,360,0,0,0.00,0.00,0.0,0.0,2019,2
-345,Joan Sastre,Mallorca,4,356,0,0,0.12,0.28,0.03,0.07,2019,2
-346,Martin Valjent,Mallorca,4,360,0,0,0.07,0.00,0.02,0.0,2019,2
-347,Lumor Agbenyenu,Mallorca,3,270,0,0,0.05,0.54,0.02,0.18,2019,2
-348,Iddrisu Baba,Mallorca,4,360,0,0,0.47,0.03,0.12,0.01,2019,2
-349,Aleix Febas,Mallorca,4,283,0,1,0.14,0.80,0.05,0.25,2019,2
-350,Lago Junior,Mallorca,4,360,0,0,1.02,0.62,0.26,0.15,2019,2
-351,Xisco Campos,Mallorca,1,4,0,0,0.00,0.00,0.0,0.0,2019,2
-352,Aridane Hernández,Osasuna,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-353,Jon Moncayola,Osasuna,3,195,0,0,0.05,0.00,0.02,0.0,2019,2
-354,Juan Villar,Osasuna,2,14,0,0,0.02,0.00,0.13,0.0,2019,2
-355,Domingos Duarte,Granada,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-356,Germán Sánchez,Granada,3,270,0,0,0.00,0.00,0.0,0.0,2019,2
-357,Yan Eteki,Granada,2,165,0,0,0.03,0.04,0.02,0.02,2019,2
-358,Luis Rioja,Alaves,3,174,0,0,0.11,0.25,0.06,0.13,2019,2
-359,Borja Sainz,Alaves,1,20,0,0,0.06,0.00,0.28,0.0,2019,2
+,Unnamed: 0,name,team,apps,mins,goals,assists,xG,xA,xG90,xA90,Year,league,year
+0,0,Gerard Moreno,Villarreal,4,345,5,0,2.73,1.28,0.71,0.33,2019,2,2019
+1,1,Karim Benzema,Real Madrid,4,348,4,1,2.57,0.51,0.67,0.13,2019,2,2019
+2,2,Loren Morón,Real Betis,3,221,3,1,1.29,0.07,0.52,0.03,2019,2,2019
+3,3,Joselu,Alaves,3,209,2,0,1.45,0.0,0.63,0.0,2019,2,2019
+4,4,Luis Suárez,Barcelona,2,64,2,0,0.58,0.12,0.81,0.17,2019,2,2019
+5,5,Moi Gómez,Villarreal,4,338,2,1,1.14,0.37,0.3,0.1,2019,2,2019
+6,6,Gareth Bale,Real Madrid,3,257,2,1,1.37,1.04,0.48,0.36,2019,2,2019
+7,7,Antoine Griezmann,Barcelona,4,360,2,2,1.34,0.68,0.34,0.17,2019,2,2019
+8,8,Daniel Parejo,Valencia,3,270,2,0,1.69,0.36,0.56,0.12,2019,2,2019
+9,9,Raúl García,Athletic Club,4,360,2,0,0.92,0.08,0.23,0.02,2019,2,2019
+10,10,Kevin Gameiro,Valencia,4,356,2,0,1.93,0.17,0.49,0.04,2019,2,2019
+11,11,Vitolo,Atletico Madrid,4,175,2,0,1.6,0.0,0.82,0.0,2019,2,2019
+12,12,Martin Odegaard,Real Sociedad,4,360,2,0,1.3,0.38,0.33,0.1,2019,2,2019
+13,13,Roger,Levante,4,128,2,0,1.61,0.02,1.13,0.01,2019,2,2019
+14,14,Nabil Fekir,Real Betis,3,270,2,0,0.96,0.35,0.32,0.12,2019,2,2019
+15,15,Roberto Torres,Osasuna,3,270,2,1,1.7,0.35,0.57,0.12,2019,2,2019
+16,16,Sergi Guardiola,Real Valladolid,3,270,2,0,1.87,0.03,0.62,0.01,2019,2,2019
+17,17,Antonio Puertas,Granada,3,270,2,0,1.45,0.06,0.48,0.02,2019,2,2019
+18,18,Anssumane Fati,Barcelona,3,113,2,1,0.36,0.65,0.29,0.52,2019,2,2019
+19,19,Arturo Vidal,Barcelona,3,34,1,0,0.42,0.0,1.12,0.0,2019,2,2019
+20,20,Nacho Monreal,Real Sociedad,1,90,1,0,0.65,0.0,0.65,0.0,2019,2,2019
+21,21,Santiago Cazorla,Villarreal,4,319,1,2,1.02,0.72,0.29,0.2,2019,2,2019
+22,22,Nolito,Sevilla,3,264,1,0,0.84,0.09,0.29,0.03,2019,2,2019
+23,23,Álvaro Morata,Atletico Madrid,2,180,1,0,1.87,1.25,0.93,0.62,2019,2,2019
+24,24,Franco Vázquez,Sevilla,2,16,1,0,0.33,0.0,1.85,0.0,2019,2,2019
+25,25,Carlos Fernández,Granada,2,46,1,0,0.39,0.02,0.76,0.04,2019,2,2019
+26,26,Gerard Piqué,Barcelona,4,360,1,0,0.84,0.07,0.21,0.02,2019,2,2019
+27,27,Jordi Alba,Barcelona,4,360,1,0,0.35,1.2,0.09,0.3,2019,2,2019
+28,28,Joan Jordán,Sevilla,3,255,1,0,0.52,0.33,0.18,0.12,2019,2,2019
+29,29,Jorge Molina,Getafe,2,127,1,0,0.49,0.05,0.35,0.03,2019,2,2019
+30,30,Morales,Levante,4,287,1,0,1.1,0.98,0.35,0.31,2019,2,2019
+31,31,Mikel Oyarzabal,Real Sociedad,4,360,1,0,1.95,0.42,0.49,0.11,2019,2,2019
+32,32,Casemiro,Real Madrid,4,332,1,0,1.07,0.06,0.29,0.02,2019,2,2019
+33,33,Borja Mayoral,Levante,3,262,1,0,1.28,0.66,0.44,0.23,2019,2,2019
+34,34,Lucas Vázquez,Real Madrid,4,185,1,0,0.73,0.38,0.36,0.19,2019,2,2019
+35,35,Denis Suárez,Celta Vigo,3,270,1,1,1.24,0.93,0.41,0.31,2019,2,2019
+36,36,Roberto Soldado,Granada,3,247,1,1,0.18,0.75,0.07,0.27,2019,2,2019
+37,37,Thomas Partey,Atletico Madrid,3,136,1,0,0.49,0.0,0.32,0.0,2019,2,2019
+38,38,Charles,Eibar,2,91,1,0,0.69,0.02,0.68,0.02,2019,2,2019
+39,39,Toni Kroos,Real Madrid,4,353,1,0,0.43,1.2,0.11,0.3,2019,2,2019
+40,40,Iñaki Williams,Athletic Club,4,354,1,0,0.69,0.11,0.17,0.03,2019,2,2019
+41,41,Aduriz,Athletic Club,4,47,1,0,0.81,0.0,1.56,0.0,2019,2,2019
+42,42,Anaitz Arbilla,Eibar,2,180,1,0,0.08,0.0,0.04,0.0,2019,2,2019
+43,43,Martin Braithwaite,Leganes,4,360,1,0,0.98,0.74,0.24,0.18,2019,2,2019
+44,44,Ramón Azeez,Granada,2,49,1,0,0.44,0.0,0.81,0.0,2019,2,2019
+45,45,Fede Vico,Granada,3,207,1,0,0.93,0.31,0.4,0.14,2019,2,2019
+46,46,Sergio León,Levante,3,162,1,0,0.86,0.0,0.48,0.0,2019,2,2019
+47,47,Maxi Gómez,Valencia,3,103,1,0,0.73,0.08,0.64,0.07,2019,2,2019
+48,48,Paulo Oliveira,Eibar,3,211,1,0,0.46,0.0,0.2,0.0,2019,2,2019
+49,49,Óscar Plano,Real Valladolid,3,270,1,1,0.36,1.0,0.12,0.33,2019,2,2019
+50,50,Arthur,Barcelona,2,108,1,1,0.11,0.14,0.1,0.12,2019,2,2019
+51,51,Gonzalo Melero,Levante,2,87,1,0,0.53,0.29,0.55,0.3,2019,2,2019
+52,52,Ezequiel Ávila,Osasuna,3,259,1,0,0.55,0.42,0.19,0.15,2019,2,2019
+53,53,Jaime Mata,Getafe,3,232,1,0,0.19,0.11,0.07,0.04,2019,2,2019
+54,54,Sergio Reguilón,Sevilla,3,198,1,1,0.87,0.77,0.4,0.35,2019,2,2019
+55,55,Samuel Chukwueze,Villarreal,3,236,1,0,0.17,1.47,0.06,0.56,2019,2,2019
+56,56,Carles Pérez,Barcelona,4,272,1,2,0.54,0.35,0.18,0.11,2019,2,2019
+57,57,Frenkie de Jong,Barcelona,4,338,1,1,0.58,0.61,0.15,0.16,2019,2,2019
+58,58,Gabriel Fernández,Celta Vigo,3,223,1,0,0.5,0.0,0.2,0.0,2019,2,2019
+59,59,Iker Losada,Celta Vigo,1,1,1,0,0.24,0.0,21.35,0.0,2019,2,2019
+60,60,Dani Rodríguez,Mallorca,4,304,1,0,1.39,0.21,0.41,0.06,2019,2,2019
+61,61,João Félix,Atletico Madrid,4,302,1,1,1.69,0.35,0.5,0.11,2019,2,2019
+62,62,Pablo De Blasis,Eibar,2,97,0,0,0.12,0.04,0.11,0.04,2019,2,2019
+63,63,Adnan Januzaj,Real Sociedad,4,229,0,0,0.22,0.5,0.09,0.2,2019,2,2019
+64,64,Adrián Ramos,Granada,2,7,0,0,0.02,0.0,0.22,0.0,2019,2,2019
+65,65,Takashi Inui,Eibar,1,90,0,0,0.02,0.0,0.02,0.0,2019,2,2019
+66,66,Gabriel,Valencia,3,242,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+67,67,Francis Coquelin,Valencia,3,270,0,0,0.04,0.0,0.01,0.0,2019,2,2019
+68,68,Nyom,Getafe,3,201,0,0,0.02,0.01,0.01,0.01,2019,2,2019
+69,69,Joel Robles,Real Betis,2,97,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+70,70,Alberto Moreno,Villarreal,1,90,0,0,0.05,0.04,0.05,0.04,2019,2,2019
+71,71,Fernando,Sevilla,3,270,0,0,0.04,0.02,0.01,0.01,2019,2,2019
+72,72,Jesús Navas,Sevilla,3,270,0,0,0.03,0.2,0.01,0.07,2019,2,2019
+73,73,Kieran Trippier,Atletico Madrid,4,360,0,1,0.0,0.88,0.0,0.22,2019,2,2019
+74,74,Thibaut Courtois,Real Madrid,4,360,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+75,75,Abdul Rahman Baba,Mallorca,1,90,0,0,0.04,0.0,0.04,0.0,2019,2,2019
+76,76,Eden Hazard,Real Madrid,1,28,0,0,0.12,0.14,0.39,0.46,2019,2,2019
+77,77,Diego Costa,Atletico Madrid,2,180,0,1,0.68,0.61,0.34,0.3,2019,2,2019
+78,78,Juanmi,Real Betis,1,4,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+79,79,Lucas Ocampos,Sevilla,2,153,0,0,0.14,0.03,0.08,0.02,2019,2,2019
+80,80,Carlos Bacca,Villarreal,4,109,0,0,1.34,0.0,1.1,0.0,2019,2,2019
+81,81,Rodrigo Ely,Alaves,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+82,82,Ante Budimir,Mallorca,4,293,0,0,1.43,0.0,0.44,0.0,2019,2,2019
+83,83,Cristian Tello,Real Betis,2,148,0,0,0.34,0.07,0.21,0.05,2019,2,2019
+84,84,Geoffrey Kondogbia,Valencia,2,180,0,0,0.06,0.0,0.03,0.0,2019,2,2019
+85,85,Éver Banega,Sevilla,2,161,0,1,0.01,0.35,0.01,0.2,2019,2,2019
+86,86,Raúl Albiol,Villarreal,4,358,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+87,87,Diego López,Espanyol,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+88,88,Jonathan Calleri,Espanyol,1,23,0,0,0.05,0.06,0.18,0.23,2019,2,2019
+89,89,Lucas Pérez,Alaves,3,99,0,0,0.07,0.38,0.07,0.35,2019,2,2019
+90,90,Aleksandar Trajkovski,Mallorca,3,71,0,0,0.12,0.13,0.15,0.16,2019,2,2019
+91,91,Sergio Escudero,Sevilla,1,72,0,0,0.05,0.0,0.06,0.0,2019,2,2019
+92,92,Vicente Iborra,Villarreal,4,360,0,0,0.44,0.0,0.11,0.0,2019,2,2019
+93,93,Daniel Carriço,Sevilla,3,270,0,0,0.66,0.0,0.22,0.0,2019,2,2019
+94,94,Coke,Levante,1,90,0,0,0.09,0.0,0.09,0.0,2019,2,2019
+95,95,Andrés Fernández,Villarreal,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+96,96,Rubén Rochina,Levante,4,247,0,0,0.38,0.14,0.14,0.05,2019,2,2019
+97,97,Rubén Pérez,Leganes,4,360,0,0,0.06,0.07,0.01,0.02,2019,2,2019
+98,98,Robert Ibáñez,Osasuna,3,183,0,0,0.04,0.08,0.02,0.04,2019,2,2019
+99,99,Marc-André ter Stegen,Barcelona,4,360,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+100,100,Ivan Rakitic,Barcelona,2,61,0,0,0.22,0.0,0.33,0.0,2019,2,2019
+101,101,Sergio Busquets,Barcelona,3,255,0,1,0.03,0.52,0.01,0.18,2019,2,2019
+102,102,Rafinha,Barcelona,3,193,0,0,0.88,0.31,0.41,0.14,2019,2,2019
+103,103,Aleix Vidal,Alaves,3,258,0,1,1.07,0.68,0.37,0.24,2019,2,2019
+104,104,Sergi Roberto,Barcelona,3,257,0,2,0.41,0.41,0.14,0.14,2019,2,2019
+105,105,Jordi Masip,Real Valladolid,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+106,106,Munir,Sevilla,2,87,0,0,0.05,0.0,0.05,0.0,2019,2,2019
+107,107,Javi López,Espanyol,2,91,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+108,108,Rubén Duarte,Alaves,3,270,0,0,0.1,0.0,0.03,0.0,2019,2,2019
+109,109,Papakouly Diop,Eibar,2,180,0,0,0.08,0.0,0.04,0.0,2019,2,2019
+110,110,Víctor Sánchez,Espanyol,3,228,0,0,0.02,0.02,0.01,0.01,2019,2,2019
+111,111,Rober Correa,Eibar,2,84,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+112,112,Salva Sevilla,Mallorca,4,360,0,0,0.25,1.36,0.06,0.34,2019,2,2019
+113,113,Lluis López,Espanyol,1,90,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+114,114,Ander Capa,Athletic Club,4,360,0,3,0.06,1.05,0.02,0.26,2019,2,2019
+115,115,Iván Ramis,Eibar,2,180,0,0,0.0,0.08,0.0,0.04,2019,2,2019
+116,116,Dani García,Athletic Club,4,360,0,0,0.06,0.07,0.01,0.02,2019,2,2019
+117,117,Sergi Enrich,Eibar,2,142,0,0,0.05,0.0,0.03,0.0,2019,2,2019
+118,118,Antonio Adán,Atletico Madrid,1,23,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+119,119,Joaquín,Real Betis,3,112,0,0,0.06,0.56,0.05,0.45,2019,2,2019
+120,120,Francisco Portillo,Getafe,2,42,0,0,0.13,0.1,0.28,0.2,2019,2,2019
+121,121,Álvaro Vadillo,Granada,2,129,0,0,0.05,0.08,0.03,0.06,2019,2,2019
+122,122,Quini,Granada,3,270,0,0,0.08,0.06,0.03,0.02,2019,2,2019
+123,123,Nacho,Real Valladolid,3,270,0,0,0.01,0.88,0.0,0.29,2019,2,2019
+124,124,Diego Llorente,Real Sociedad,2,180,0,0,0.55,0.01,0.27,0.0,2019,2,2019
+125,125,Rubén García,Osasuna,2,90,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+126,126,Toño,Levante,2,180,0,0,0.03,0.1,0.02,0.05,2019,2,2019
+127,127,Rubén Martínez,Osasuna,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+128,128,Damián Suárez,Getafe,3,244,0,0,0.05,0.0,0.02,0.0,2019,2,2019
+129,129,Pedro León,Eibar,3,181,0,0,0.05,0.37,0.02,0.19,2019,2,2019
+130,130,Iván Cuéllar,Leganes,2,180,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+131,131,Sergio Álvarez,Eibar,3,239,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+132,132,Zaldúa,Real Sociedad,4,355,0,0,0.01,0.0,0.0,0.0,2019,2,2019
+133,133,Aritz Elustondo,Real Sociedad,1,90,0,0,0.0,0.5,0.0,0.5,2019,2,2019
+134,134,Yuri,Athletic Club,4,360,0,0,0.1,0.07,0.03,0.02,2019,2,2019
+135,135,David Zurutuza,Real Sociedad,2,22,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+136,136,Markel Bergara,Getafe,2,70,0,0,0.13,0.0,0.17,0.0,2019,2,2019
+137,137,Asier Illarramendi,Real Sociedad,3,216,0,0,0.01,0.08,0.01,0.03,2019,2,2019
+138,138,Raphael Varane,Real Madrid,4,360,0,1,0.0,0.06,0.0,0.01,2019,2,2019
+139,139,Sergio Ramos,Real Madrid,4,332,0,0,0.25,0.02,0.07,0.01,2019,2,2019
+140,140,James Rodríguez,Real Madrid,2,148,0,1,0.71,1.13,0.43,0.69,2019,2,2019
+141,141,Luka Modric,Real Madrid,2,79,0,1,0.09,0.1,0.11,0.12,2019,2,2019
+142,142,Isco,Real Madrid,2,82,0,0,0.1,0.46,0.11,0.51,2019,2,2019
+143,143,Marcelo,Real Madrid,3,270,0,1,0.08,0.65,0.03,0.22,2019,2,2019
+144,144,Daniel Carvajal,Real Madrid,3,270,0,2,0.03,1.22,0.01,0.41,2019,2,2019
+145,145,Jan Oblak,Atletico Madrid,4,337,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+146,146,Stefan Savic,Atletico Madrid,3,270,0,0,0.03,0.01,0.01,0.0,2019,2,2019
+147,147,Saúl Ñíguez,Atletico Madrid,4,360,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+148,148,Koke,Atletico Madrid,4,360,0,0,0.02,1.45,0.01,0.36,2019,2,2019
+149,149,Ángel Correa,Atletico Madrid,1,32,0,0,0.0,0.13,0.0,0.37,2019,2,2019
+150,150,Moyá,Real Sociedad,4,360,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+151,151,Giménez,Atletico Madrid,4,360,0,0,0.27,0.0,0.07,0.0,2019,2,2019
+152,152,Hugo Mallo,Celta Vigo,2,21,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+153,153,Daniel Wass,Valencia,4,360,0,1,0.21,0.89,0.05,0.22,2019,2,2019
+154,154,Fabián Orellana,Eibar,3,250,0,1,0.22,0.81,0.08,0.29,2019,2,2019
+155,155,Iago Aspas,Celta Vigo,3,270,0,0,1.24,0.45,0.41,0.15,2019,2,2019
+156,156,Pape Cheikh,Celta Vigo,2,16,0,1,0.0,0.24,0.0,1.33,2019,2,2019
+157,157,Rubén Blanco,Celta Vigo,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+158,158,Mario,Villarreal,3,270,0,0,0.04,0.15,0.01,0.05,2019,2,2019
+159,159,Manu Trigueros,Villarreal,2,8,0,0,0.0,0.03,0.0,0.37,2019,2,2019
+160,160,Sidnei,Real Betis,3,248,0,0,0.07,0.0,0.03,0.0,2019,2,2019
+161,161,Faycal Fajr,Getafe,3,228,0,0,0.25,0.04,0.1,0.01,2019,2,2019
+162,162,Roberto Rosales,Leganes,2,169,0,0,0.0,0.61,0.0,0.33,2019,2,2019
+163,163,Recio,Leganes,1,21,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+164,164,Roque Mesa,Leganes,3,262,0,0,0.07,0.04,0.02,0.01,2019,2,2019
+165,165,Willian José,Real Sociedad,4,230,0,0,0.77,0.0,0.3,0.0,2019,2,2019
+166,166,Mubarak Wakaso,Alaves,3,270,0,0,0.05,0.1,0.02,0.03,2019,2,2019
+167,167,Montoro,Granada,3,270,0,1,0.06,0.25,0.02,0.08,2019,2,2019
+168,168,Rodrigo,Valencia,4,255,0,1,0.51,0.78,0.18,0.28,2019,2,2019
+169,169,Santi Mina,Celta Vigo,2,47,0,1,0.02,0.5,0.04,0.96,2019,2,2019
+170,170,Rúben Vezo,Levante,4,360,0,0,0.59,0.0,0.15,0.0,2019,2,2019
+171,171,San José,Athletic Club,1,1,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+172,172,Beñat,Athletic Club,4,140,0,0,0.04,0.1,0.03,0.06,2019,2,2019
+173,173,Muniain,Athletic Club,4,360,0,0,0.04,0.32,0.01,0.08,2019,2,2019
+174,174,Eraso,Leganes,3,156,0,0,0.21,0.03,0.12,0.02,2019,2,2019
+175,175,David Soria,Getafe,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+176,176,Igor Zubeldia,Real Sociedad,4,360,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+177,177,Álvaro Odriozola,Real Madrid,1,90,0,0,0.17,0.04,0.17,0.04,2019,2,2019
+178,178,Óliver Torres,Sevilla,1,79,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+179,179,Óscar Duarte,Levante,1,70,0,0,0.59,0.0,0.75,0.0,2019,2,2019
+180,180,Gonzalo Escalante,Eibar,2,121,0,0,0.11,0.06,0.08,0.04,2019,2,2019
+181,181,Bruno,Getafe,1,90,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+182,182,De Marcos,Athletic Club,2,114,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+183,183,Marc Bartra,Real Betis,3,202,0,0,0.08,0.0,0.03,0.0,2019,2,2019
+184,184,Sergio Asenjo,Villarreal,1,90,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+185,185,Lillo,Osasuna,1,1,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+186,186,Carlos Soler,Valencia,1,90,0,0,0.08,0.2,0.08,0.2,2019,2,2019
+187,187,Tomás Pina,Alaves,3,270,0,0,0.0,0.04,0.0,0.01,2019,2,2019
+188,188,Adrián Marín,Alaves,2,159,0,0,0.29,0.0,0.16,0.0,2019,2,2019
+189,189,Iñigo Martínez,Athletic Club,2,180,0,0,0.04,0.0,0.02,0.0,2019,2,2019
+190,190,Ibai Gómez,Athletic Club,1,10,0,0,0.2,0.0,1.76,0.0,2019,2,2019
+191,191,Denis Cheryshev,Valencia,3,38,0,1,0.12,0.63,0.28,1.5,2019,2,2019
+192,192,Sabin,Leganes,1,8,0,0,0.0,0.05,0.0,0.61,2019,2,2019
+193,193,José Gayá,Valencia,3,270,0,0,0.0,0.12,0.0,0.04,2019,2,2019
+194,194,Marcos Llorente,Atletico Madrid,4,135,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+195,195,Tejero,Eibar,3,270,0,0,0.0,0.11,0.0,0.04,2019,2,2019
+196,196,Alfonso,Real Betis,3,270,0,0,0.12,0.0,0.04,0.0,2019,2,2019
+197,197,Sandro Ramírez,Real Valladolid,1,11,0,0,0.02,0.0,0.18,0.0,2019,2,2019
+198,198,Jaume Costa,Valencia,1,85,0,0,0.0,0.03,0.0,0.03,2019,2,2019
+199,199,Borja Iglesias,Real Betis,2,64,0,0,0.13,0.0,0.18,0.0,2019,2,2019
+200,200,Cristiano Piccini,Valencia,2,73,0,0,0.13,0.0,0.16,0.0,2019,2,2019
+201,201,Sergio Canales,Real Betis,2,164,0,1,0.0,0.53,0.0,0.29,2019,2,2019
+202,202,Javi Ontiveros,Villarreal,3,50,0,1,0.16,0.87,0.29,1.56,2019,2,2019
+203,203,Raíllo,Mallorca,4,360,0,0,0.34,0.0,0.09,0.0,2019,2,2019
+204,204,Sergi Darder,Espanyol,3,203,0,0,0.11,0.2,0.05,0.09,2019,2,2019
+205,205,Ezequiel Garay,Valencia,4,360,0,0,0.02,0.02,0.01,0.0,2019,2,2019
+206,206,Javi García,Real Betis,2,92,0,0,0.13,0.0,0.12,0.0,2019,2,2019
+207,207,Ousmane Dembélé,Barcelona,1,90,0,0,0.0,0.13,0.0,0.13,2019,2,2019
+208,208,Aissa Mandi,Real Betis,1,90,0,0,0.65,0.0,0.65,0.0,2019,2,2019
+209,209,Mauro Arambarri,Getafe,3,270,0,0,0.07,0.03,0.02,0.01,2019,2,2019
+210,210,Sébastien Corchia,Espanyol,2,180,0,0,0.1,0.7,0.05,0.35,2019,2,2019
+211,211,Rony Lopes,Sevilla,1,6,0,0,0.02,0.0,0.31,0.0,2019,2,2019
+212,212,Guido Carrillo,Leganes,1,43,0,0,0.04,0.0,0.07,0.0,2019,2,2019
+213,213,Thomas Lemar,Atletico Madrid,4,292,0,0,0.04,0.13,0.01,0.04,2019,2,2019
+214,214,Yannis Salibur,Mallorca,1,24,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+215,215,José Campaña,Levante,4,360,0,1,0.07,1.48,0.02,0.37,2019,2,2019
+216,216,Naldo,Espanyol,3,270,0,0,0.06,0.0,0.02,0.0,2019,2,2019
+217,217,Unai López,Athletic Club,3,207,0,0,0.1,0.19,0.04,0.08,2019,2,2019
+218,218,Unai Bustinza,Leganes,4,302,0,0,0.02,0.11,0.01,0.03,2019,2,2019
+219,219,Dídac Vilá,Espanyol,3,270,0,0,0.0,0.08,0.0,0.03,2019,2,2019
+220,220,Ángel,Getafe,2,54,0,0,0.16,0.11,0.26,0.19,2019,2,2019
+221,221,David Costas,Celta Vigo,2,99,0,0,0.06,0.0,0.05,0.0,2019,2,2019
+222,222,Quique González,Eibar,1,14,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+223,223,Aitor Fernández,Levante,4,360,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+224,224,Kevin,Celta Vigo,3,250,0,0,0.0,0.02,0.0,0.01,2019,2,2019
+225,225,Míchel,Real Valladolid,3,269,0,0,0.1,0.05,0.03,0.02,2019,2,2019
+226,226,Darwin Machís,Granada,3,128,0,1,0.34,0.46,0.24,0.33,2019,2,2019
+227,227,Facundo Ferreyra,Espanyol,3,111,0,0,0.08,0.0,0.06,0.0,2019,2,2019
+228,228,Pablo Chavarria,Mallorca,1,5,0,0,0.04,0.0,0.64,0.0,2019,2,2019
+229,229,Darko Brasanac,Osasuna,2,180,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+230,230,Álex Alegría,Mallorca,3,49,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+231,231,Fernando Pacheco,Alaves,2,180,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+232,232,Víctor Laguardia,Alaves,1,90,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+233,233,Manu García,Alaves,3,212,0,0,0.11,0.0,0.04,0.0,2019,2,2019
+234,234,Clement Lenglet,Barcelona,4,360,0,0,0.1,0.08,0.02,0.02,2019,2,2019
+235,235,Jasper Cillessen,Valencia,4,360,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+236,236,Carles Aleñá,Barcelona,1,47,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+237,237,Yeray Álvarez,Athletic Club,4,360,0,0,0.12,0.34,0.03,0.09,2019,2,2019
+238,238,Dimitrios Siovas,Leganes,4,360,0,0,0.49,0.04,0.12,0.01,2019,2,2019
+239,239,David Timor,Getafe,1,70,0,0,0.03,0.0,0.04,0.0,2019,2,2019
+240,240,Kike García,Eibar,3,203,0,0,0.43,0.07,0.19,0.03,2019,2,2019
+241,241,Rubén Peña,Villarreal,2,116,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+242,242,Edu Expósito,Eibar,3,169,0,0,0.0,0.02,0.0,0.01,2019,2,2019
+243,243,Marc Navarro,Leganes,2,101,0,0,0.05,0.02,0.04,0.02,2019,2,2019
+244,244,Marc Roca,Espanyol,3,270,0,0,0.04,0.0,0.01,0.0,2019,2,2019
+245,245,David García,Osasuna,3,270,0,0,0.05,0.0,0.02,0.0,2019,2,2019
+246,246,Carlos Clerc,Levante,2,180,0,1,0.05,0.34,0.02,0.17,2019,2,2019
+247,247,Rui Silva,Granada,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+248,248,Raúl García,Getafe,2,113,0,0,0.0,0.15,0.0,0.12,2019,2,2019
+249,249,Pione Sisto,Celta Vigo,1,13,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+250,250,Víctor Díaz,Granada,3,270,0,0,0.05,0.04,0.02,0.01,2019,2,2019
+251,251,Alberto Rodríguez,Alaves,2,9,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+252,252,Oier,Osasuna,2,180,0,0,0.0,0.02,0.0,0.01,2019,2,2019
+253,253,Fran Mérida,Osasuna,1,75,0,0,0.0,0.02,0.0,0.03,2019,2,2019
+254,254,Óscar Melendo,Espanyol,3,254,0,0,0.06,0.15,0.02,0.05,2019,2,2019
+255,255,Estupiñán,Osasuna,3,270,0,0,0.0,0.06,0.0,0.02,2019,2,2019
+256,256,Luis Perea,Osasuna,1,5,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+257,257,Kévin Rodrigues,Real Sociedad,1,2,0,0,0.07,0.0,3.1,0.0,2019,2,2019
+258,258,Marc Cardona,Osasuna,2,87,0,0,0.0,0.39,0.0,0.4,2019,2,2019
+259,259,Nacho Vidal,Osasuna,3,270,0,0,0.0,0.05,0.0,0.02,2019,2,2019
+260,260,Youssef En-Nesyri,Leganes,4,317,0,0,0.61,0.02,0.17,0.0,2019,2,2019
+261,261,Unai Simón,Athletic Club,4,360,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+262,262,Martín Aguirregabiria,Alaves,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+263,263,Wilfrid Kaptoum,Real Betis,1,28,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+264,264,Alexander Isak,Real Sociedad,4,145,0,0,0.0,0.46,0.0,0.29,2019,2,2019
+265,265,Mikel Merino,Real Sociedad,4,338,0,1,0.04,0.23,0.01,0.06,2019,2,2019
+266,266,Erick Cabaco,Levante,1,1,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+267,267,Karl Toko Ekambi,Villarreal,4,165,0,2,1.59,0.8,0.87,0.44,2019,2,2019
+268,268,Mouctar Diakhaby,Valencia,2,118,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+269,269,Gonçalo Guedes,Valencia,4,339,0,0,0.3,0.48,0.08,0.13,2019,2,2019
+270,270,Diego Carlos,Sevilla,3,258,0,0,0.25,0.0,0.09,0.0,2019,2,2019
+271,271,Brandon,Osasuna,2,83,0,1,0.37,0.39,0.4,0.43,2019,2,2019
+272,272,Chidozie Awaziem,Leganes,1,90,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+273,273,Guillermo Maripán,Alaves,1,90,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+274,274,Antonio Sivera,Alaves,1,90,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+275,275,Nemanja Maksimovic,Getafe,1,40,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+276,276,Pere Pons,Alaves,2,30,0,0,0.14,0.0,0.43,0.0,2019,2,2019
+277,277,Portu,Real Sociedad,3,164,0,1,0.0,0.82,0.0,0.45,2019,2,2019
+278,278,Stanislav Lobotka,Celta Vigo,3,257,0,0,0.05,0.01,0.02,0.0,2019,2,2019
+279,279,Mario Hermoso,Atletico Madrid,3,180,0,0,0.01,0.0,0.0,0.0,2019,2,2019
+280,280,Unai Núñez,Athletic Club,2,180,0,0,0.06,0.0,0.03,0.0,2019,2,2019
+281,281,Iñigo Córdoba,Athletic Club,2,138,0,1,0.22,0.04,0.15,0.03,2019,2,2019
+282,282,Djené Dakonam,Getafe,3,270,0,0,0.02,0.02,0.01,0.01,2019,2,2019
+283,283,Nélson Semedo,Barcelona,4,320,0,1,0.15,0.14,0.04,0.04,2019,2,2019
+284,284,Andrés Guardado,Real Betis,2,152,0,0,0.05,0.29,0.03,0.17,2019,2,2019
+285,285,Leandro Cabrera,Getafe,3,226,0,0,0.01,0.0,0.0,0.0,2019,2,2019
+286,286,Sergio Postigo,Levante,4,360,0,0,0.0,0.21,0.0,0.05,2019,2,2019
+287,287,Enis Bardhi,Levante,4,220,0,0,0.44,0.06,0.18,0.03,2019,2,2019
+288,288,Enes Ünal,Real Valladolid,3,259,0,0,0.28,0.07,0.1,0.02,2019,2,2019
+289,289,Pau Torres,Villarreal,4,360,0,0,0.02,0.18,0.01,0.04,2019,2,2019
+290,290,Marko Dmitrovic,Eibar,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+291,291,Brais Méndez,Celta Vigo,3,259,0,0,0.62,0.07,0.22,0.02,2019,2,2019
+292,292,Luka Jovic,Real Madrid,4,102,0,0,0.18,0.0,0.15,0.0,2019,2,2019
+293,293,Ferland Mendy,Real Madrid,1,90,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+294,294,Federico Valverde,Real Madrid,1,7,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+295,295,Juan Soriano,Leganes,2,180,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+296,296,Aitor Ruibal,Leganes,2,35,0,0,0.07,0.11,0.17,0.28,2019,2,2019
+297,297,Jules Koundé,Sevilla,1,12,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+298,298,Franck Zambo,Villarreal,3,207,0,0,0.04,0.03,0.02,0.01,2019,2,2019
+299,299,Ferrán Torres,Valencia,4,167,0,0,0.48,0.0,0.26,0.0,2019,2,2019
+300,300,José Arnáiz,Leganes,4,125,0,0,0.25,0.06,0.18,0.05,2019,2,2019
+301,301,Júnior Firpo,Barcelona,1,8,0,0,0.0,0.06,0.0,0.69,2019,2,2019
+302,302,Jonathan Silva,Leganes,4,360,0,0,0.28,0.08,0.07,0.02,2019,2,2019
+303,303,Óscar Rodríguez,Leganes,3,235,0,0,0.35,0.01,0.13,0.01,2019,2,2019
+304,304,Pedro Porro,Real Valladolid,2,171,0,0,0.0,0.06,0.0,0.03,2019,2,2019
+305,305,Javi Moyano,Real Valladolid,2,150,0,0,0.0,0.03,0.0,0.02,2019,2,2019
+306,306,Kiko Olivas,Real Valladolid,3,270,0,0,0.01,0.0,0.0,0.0,2019,2,2019
+307,307,Fernando Calero,Espanyol,3,185,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+308,308,Rubén Alcaraz,Real Valladolid,1,79,0,1,0.21,0.08,0.24,0.09,2019,2,2019
+309,309,Anuar Mohamed,Real Valladolid,3,17,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+310,310,Toni Villa,Real Valladolid,1,15,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+311,311,Antoñito,Real Valladolid,2,67,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+312,312,Mohammed Salisu,Real Valladolid,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+313,313,Miguel De la Fuente,Real Valladolid,1,1,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+314,314,William Carvalho,Real Betis,3,270,0,0,0.02,0.41,0.01,0.14,2019,2,2019
+315,315,Néstor Araújo,Celta Vigo,3,261,0,0,0.37,0.0,0.13,0.0,2019,2,2019
+316,316,Fran Beltrán,Celta Vigo,3,265,0,0,0.0,0.1,0.0,0.03,2019,2,2019
+317,317,Luca Sangalli,Real Sociedad,1,6,0,0,0.02,0.0,0.34,0.0,2019,2,2019
+318,318,Jorge Miramón,Levante,4,276,0,0,0.07,0.52,0.02,0.17,2019,2,2019
+319,319,Tomás Vaclik,Sevilla,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+320,320,Vinícius Júnior,Real Madrid,4,208,0,1,0.93,0.66,0.4,0.29,2019,2,2019
+321,321,Kenneth Omeruo,Leganes,2,169,0,0,0.05,0.0,0.03,0.0,2019,2,2019
+322,322,Marc Cucurella,Getafe,3,270,0,2,0.02,0.62,0.01,0.21,2019,2,2019
+323,323,Nikola Vukcevic,Levante,4,305,0,0,0.01,0.0,0.0,0.0,2019,2,2019
+324,324,Rodrigo Tarín,Leganes,2,117,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+325,325,Javier Avilés,Leganes,1,10,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+326,326,Robin Le Normand,Real Sociedad,2,180,0,0,0.11,0.0,0.06,0.0,2019,2,2019
+327,327,Aihen Muñoz,Real Sociedad,3,268,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+328,328,Ander Barrenetxea,Real Sociedad,1,5,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+329,329,Lee Kang-In,Valencia,2,25,0,0,0.08,0.0,0.3,0.0,2019,2,2019
+330,330,Bryan Gil Salvatierra,Sevilla,1,30,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+331,331,Enric Gallego,Getafe,2,100,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+332,332,Yangel Herrera,Granada,1,90,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+333,333,Diego Lainez,Real Betis,1,14,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+334,334,Víctor Campuzano,Espanyol,2,100,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+335,335,Wu Lei,Espanyol,3,156,0,0,0.8,0.08,0.46,0.05,2019,2,2019
+336,336,Emerson,Real Betis,3,270,0,2,0.03,1.14,0.01,0.38,2019,2,2019
+337,337,Xavier Quintillá,Villarreal,3,270,0,1,0.0,1.2,0.0,0.4,2019,2,2019
+338,338,Lucas Olaza,Celta Vigo,3,270,0,0,0.0,0.32,0.0,0.11,2019,2,2019
+339,339,Waldo Rubio,Real Valladolid,3,137,0,1,0.16,0.16,0.1,0.11,2019,2,2019
+340,340,Oihan Sancet,Athletic Club,1,23,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+341,341,Gaizka Larrazabal,Athletic Club,2,48,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+342,342,Joseph Aidoo,Celta Vigo,2,180,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+343,343,Eder Militão,Real Madrid,1,28,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+344,344,Manolo Reina,Mallorca,4,360,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+345,345,Joan Sastre,Mallorca,4,356,0,0,0.12,0.28,0.03,0.07,2019,2,2019
+346,346,Martin Valjent,Mallorca,4,360,0,0,0.07,0.0,0.02,0.0,2019,2,2019
+347,347,Lumor Agbenyenu,Mallorca,3,270,0,0,0.05,0.54,0.02,0.18,2019,2,2019
+348,348,Iddrisu Baba,Mallorca,4,360,0,0,0.47,0.03,0.12,0.01,2019,2,2019
+349,349,Aleix Febas,Mallorca,4,283,0,1,0.14,0.8,0.05,0.25,2019,2,2019
+350,350,Lago Junior,Mallorca,4,360,0,0,1.02,0.62,0.26,0.15,2019,2,2019
+351,351,Xisco Campos,Mallorca,1,4,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+352,352,Aridane Hernández,Osasuna,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+353,353,Jon Moncayola,Osasuna,3,195,0,0,0.05,0.0,0.02,0.0,2019,2,2019
+354,354,Juan Villar,Osasuna,2,14,0,0,0.02,0.0,0.13,0.0,2019,2,2019
+355,355,Domingos Duarte,Granada,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+356,356,Germán Sánchez,Granada,3,270,0,0,0.0,0.0,0.0,0.0,2019,2,2019
+357,357,Yan Eteki,Granada,2,165,0,0,0.03,0.04,0.02,0.02,2019,2,2019
+358,358,Luis Rioja,Alaves,3,174,0,0,0.11,0.25,0.06,0.13,2019,2,2019
+359,359,Borja Sainz,Alaves,1,20,0,0,0.06,0.0,0.28,0.0,2019,2,2019

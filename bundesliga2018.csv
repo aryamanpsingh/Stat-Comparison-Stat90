@@ -1,0 +1,451 @@
+,Unnamed: 0,name,team,apps,mins,goals,assists,xG,xA,xG90,xA90,league,year
+0,0,Robert Lewandowski,Bayern Munich,33,2959,22,7,33.14,9.61,1.01,0.29,4,2018
+1,1,Paco Alcácer,Borussia Dortmund,26,1181,18,0,10.24,1.61,0.78,0.12,4,2018
+2,2,Marco Reus,Borussia Dortmund,27,2335,17,8,16.64,6.94,0.64,0.27,4,2018
+3,3,Andrej Kramaric,Hoffenheim,30,2418,17,4,21.58,5.92,0.8,0.22,4,2018
+4,4,Kai Havertz,Bayer Leverkusen,34,2906,17,3,11.99,2.95,0.37,0.09,4,2018
+5,5,Luka Jovic,Eintracht Frankfurt,32,2256,17,5,16.37,3.95,0.65,0.16,4,2018
+6,6,Wout Weghorst,Wolfsburg,34,2933,17,7,15.74,4.73,0.48,0.15,4,2018
+7,7,Timo Werner,RasenBallsport Leipzig,30,2537,16,7,17.38,5.61,0.62,0.2,4,2018
+8,8,Ishak Belfodil,Hoffenheim,28,1867,16,3,12.27,5.1,0.59,0.25,4,2018
+9,9,Yussuf Poulsen,RasenBallsport Leipzig,31,2450,15,3,12.09,4.42,0.44,0.16,4,2018
+10,10,Sébastien Haller,Eintracht Frankfurt,29,2176,15,9,13.69,7.37,0.57,0.3,4,2018
+11,11,Kevin Volland,Bayer Leverkusen,34,2829,14,9,15.16,8.73,0.48,0.28,4,2018
+12,12,Jean-Philippe Mateta,Mainz 05,34,2505,14,2,13.44,2.88,0.48,0.1,4,2018
+13,13,Alassane Pléa,Borussia M.Gladbach,34,2513,12,4,11.38,3.42,0.41,0.12,4,2018
+14,14,Jadon Sancho,Borussia Dortmund,34,2463,12,14,7.42,8.31,0.27,0.3,4,2018
+15,15,Max Kruse,Werder Bremen,32,2840,11,9,10.85,5.91,0.34,0.19,4,2018
+16,16,Ondrej Duda,Hertha Berlin,32,2590,11,5,6.75,5.99,0.23,0.21,4,2018
+17,17,Vedad Ibisevic,Hertha Berlin,28,1838,10,2,11.8,1.2,0.58,0.06,4,2018
+18,18,Thorgan Hazard,Borussia M.Gladbach,33,2885,10,10,9.72,9.78,0.3,0.31,4,2018
+19,19,Serge Gnabry,Bayern Munich,30,1782,10,5,9.34,7.48,0.47,0.38,4,2018
+20,20,Alfred Finnbogason,Augsburg,18,1372,10,1,11.46,2.43,0.75,0.16,4,2018
+21,21,Nils Petersen,Freiburg,24,1925,10,3,7.42,1.51,0.35,0.07,4,2018
+22,22,Dodi Lukebakio,Fortuna Duesseldorf,31,1989,10,3,11.85,2.21,0.54,0.1,4,2018
+23,23,Benito Raman,Fortuna Duesseldorf,30,1677,10,4,7.75,3.13,0.42,0.17,4,2018
+24,24,Gian-Luca Waldschmidt,Freiburg,30,1705,9,1,7.43,2.4,0.39,0.13,4,2018
+25,25,Ante Rebic,Eintracht Frankfurt,28,1995,9,4,10.51,5.56,0.47,0.25,4,2018
+26,26,Lucas Alario,Bayer Leverkusen,27,1240,9,3,6.61,1.65,0.48,0.12,4,2018
+27,27,Milot Rashica,Werder Bremen,26,1571,9,5,6.4,4.25,0.37,0.24,4,2018
+28,28,Salomon Kalou,Hertha Berlin,30,2329,8,2,10.37,4.99,0.4,0.19,4,2018
+29,29,Leon Goretzka,Bayern Munich,30,2008,8,4,7.11,3.49,0.32,0.16,4,2018
+30,30,Joelinton,Hoffenheim,28,2149,7,5,8.93,5.15,0.37,0.22,4,2018
+31,31,Daniel Caligiuri,Schalke 04,31,2767,7,3,6.15,5.25,0.2,0.17,4,2018
+32,32,Julian Brandt,Bayer Leverkusen,33,2684,7,11,8.25,9.46,0.28,0.32,4,2018
+33,33,Mario Götze,Borussia Dortmund,26,1694,7,7,4.84,6.64,0.26,0.35,4,2018
+34,34,Robin Quaison,Mainz 05,28,2211,7,3,8.18,1.89,0.33,0.08,4,2018
+35,35,James Rodríguez,Bayern Munich,20,1149,7,3,5.53,5.46,0.43,0.43,4,2018
+36,36,Karim Onisiwo,Mainz 05,26,1136,7,3,4.85,3.42,0.38,0.27,4,2018
+37,37,Mario Gomez,VfB Stuttgart,31,2215,7,2,9.68,2.46,0.39,0.1,4,2018
+38,38,Vincenzo Grifo,Freiburg,23,1768,7,5,5.08,3.44,0.26,0.18,4,2018
+39,39,Reiss Nelson,Hoffenheim,23,611,7,0,3.22,0.83,0.47,0.12,4,2018
+40,40,Rouwen Hennings,Fortuna Duesseldorf,29,1830,7,4,8.42,3.34,0.41,0.16,4,2018
+41,41,Filip Kostic,Eintracht Frankfurt,34,2965,6,10,4.31,10.46,0.13,0.32,4,2018
+42,42,Michael Gregoritsch,Augsburg,32,2499,6,2,10.7,2.45,0.39,0.09,4,2018
+43,43,Admir Mehmedi,Wolfsburg,26,1708,6,5,4.0,4.06,0.21,0.21,4,2018
+44,44,Thomas Müller,Bayern Munich,32,2403,6,9,10.93,10.7,0.41,0.4,4,2018
+45,45,Kingsley Coman,Bayern Munich,21,1404,6,4,4.46,4.45,0.29,0.29,4,2018
+46,46,Franck Ribéry,Bayern Munich,25,1156,6,3,3.76,2.62,0.29,0.2,4,2018
+47,47,Ádám Szalai,Hoffenheim,30,1598,6,3,9.77,3.54,0.55,0.2,4,2018
+48,48,Daniel Ginczek,Wolfsburg,24,1276,6,2,3.79,1.82,0.27,0.13,4,2018
+49,49,Hendrik Weydandt,Hannover 96,28,1713,6,1,7.4,3.82,0.39,0.2,4,2018
+50,50,Claudio Pizarro,Werder Bremen,26,657,5,2,2.71,0.68,0.37,0.09,4,2018
+51,51,Maximilian Eggestein,Werder Bremen,34,3055,5,4,2.16,4.33,0.06,0.13,4,2018
+52,52,Nicolai Müller,Eintracht Frankfurt,21,1122,5,0,2.58,0.93,0.21,0.07,4,2018
+53,53,Karim Bellarabi,Hannover 96,19,1051,5,4,3.38,5.57,0.29,0.48,4,2018
+54,54,Steven Zuber,Bayer Leverkusen,22,1641,5,2,3.63,1.93,0.2,0.11,4,2018
+55,55,Jonas Hofmann,Hoffenheim,27,1911,5,5,5.61,3.55,0.26,0.17,4,2018
+56,56,Marko Grujic,VfB Stuttgart,22,1780,5,1,4.31,1.66,0.22,0.08,4,2018
+57,57,Anastasios Donis,Borussia M.Gladbach,24,952,5,2,2.97,1.1,0.28,0.1,4,2018
+58,58,Leon Bailey,Hertha Berlin,29,1940,5,1,5.09,4.09,0.24,0.19,4,2018
+59,59,Breel Embolo,VfB Stuttgart,20,1357,5,1,5.01,2.97,0.33,0.2,4,2018
+60,60,Lukas Klostermann,RasenBallsport Leipzig,26,1995,5,1,2.03,1.99,0.09,0.09,4,2018
+61,61,Davy Klaassen,Werder Bremen,33,2830,5,4,3.2,3.54,0.1,0.11,4,2018
+62,62,Renato Steffen,Wolfsburg,31,1505,5,1,2.92,1.83,0.17,0.11,4,2018
+63,63,Anthony Ujah,Mainz 05,22,707,4,0,4.29,1.97,0.55,0.25,4,2018
+64,64,Philipp Max,Augsburg,30,2581,4,2,2.47,6.27,0.09,0.22,4,2018
+65,65,Dong-Won Ji,Augsburg,14,898,4,1,1.55,0.72,0.16,0.07,4,2018
+66,66,Florian Niederlechner,Freiburg,24,979,4,1,4.56,0.73,0.42,0.07,4,2018
+67,67,Kaan Ayhan,Fortuna Duesseldorf,28,2456,4,1,3.36,0.65,0.12,0.02,4,2018
+68,68,Arjen Robben,Bayern Munich,12,567,4,0,4.04,1.88,0.64,0.3,4,2018
+69,69,Martin Harnik,Werder Bremen,18,829,4,2,6.11,1.42,0.66,0.15,4,2018
+70,70,André Hahn,Augsburg,28,2043,4,4,2.43,4.4,0.11,0.19,4,2018
+71,71,Christian Pulisic,Borussia Dortmund,20,916,4,4,5.16,2.97,0.51,0.29,4,2018
+72,72,Axel Witsel,Borussia Dortmund,33,2873,4,1,2.88,2.03,0.09,0.06,4,2018
+73,73,Marcel Sabitzer,RasenBallsport Leipzig,30,2351,4,3,5.33,5.12,0.2,0.2,4,2018
+74,74,Emil Forsberg,RasenBallsport Leipzig,20,1255,4,7,4.63,4.63,0.33,0.33,4,2018
+75,75,Rani Khedira,Augsburg,30,2628,4,1,1.08,0.82,0.04,0.03,4,2018
+76,76,Willi Orban,RasenBallsport Leipzig,24,2050,4,0,5.5,0.0,0.24,0.0,4,2018
+77,77,Kerem Demirbay,Hoffenheim,26,2029,4,9,3.76,9.05,0.17,0.4,4,2018
+78,78,Guido Burgstaller,Schalke 04,24,1517,4,0,6.11,1.4,0.36,0.08,4,2018
+79,79,Johannes Eggestein,Werder Bremen,23,1115,4,1,4.53,1.67,0.37,0.13,4,2018
+80,80,Denis Zakaria,Borussia M.Gladbach,31,1960,4,0,4.48,0.63,0.21,0.03,4,2018
+81,81,Dawid Kownacki,Fortuna Duesseldorf,10,574,4,0,1.75,0.37,0.27,0.06,4,2018
+82,82,Ihlas Bebou,Hannover 96,12,1070,4,3,4.62,1.81,0.39,0.15,4,2018
+83,83,Marco Richter,Augsburg,25,1434,4,6,3.43,2.34,0.22,0.15,4,2018
+84,84,Lucas Höler,Freiburg,26,1003,4,0,4.34,0.47,0.39,0.04,4,2018
+85,85,Hanno Behrens,Nuernberg,30,2648,4,1,8.0,1.87,0.27,0.06,4,2018
+86,86,Mikael Ishak,Nuernberg,29,1915,4,3,4.6,2.17,0.22,0.1,4,2018
+87,87,Jean-Paul Boëtius,Mainz 05,30,2133,4,7,2.64,4.64,0.11,0.2,4,2018
+88,88,John Brooks,Wolfsburg,29,2610,3,2,2.71,0.68,0.09,0.02,4,2018
+89,89,Daniel Brosinski,Mainz 05,26,2208,3,5,2.92,4.08,0.12,0.17,4,2018
+90,90,Pavel Kaderábek,Hoffenheim,29,2508,3,4,4.78,6.74,0.17,0.24,4,2018
+91,91,Jonathan Schmid,Augsburg,28,2520,3,7,0.65,3.52,0.02,0.13,4,2018
+92,92,Nadiem Amiri,Hoffenheim,13,767,3,1,2.23,1.4,0.26,0.16,4,2018
+93,93,Kenan Karaman,Fortuna Duesseldorf,21,909,3,1,4.07,1.91,0.4,0.19,4,2018
+94,94,Theodor Gebre Selassie,Werder Bremen,32,2814,3,2,4.13,1.78,0.13,0.06,4,2018
+95,95,Yuya Osako,Werder Bremen,21,1354,3,2,3.0,1.97,0.2,0.13,4,2018
+96,96,Robin Knoche,Wolfsburg,31,2790,3,0,2.64,0.14,0.09,0.0,4,2018
+97,97,Jonathan Tah,Bayer Leverkusen,33,2942,3,1,2.26,0.78,0.07,0.02,4,2018
+98,98,Lars Stindl,Borussia M.Gladbach,21,1520,3,1,2.29,2.83,0.14,0.17,4,2018
+99,99,Javi Martínez,Bayern Munich,21,1316,3,0,1.67,0.28,0.11,0.02,4,2018
+100,100,David Alaba,Bayern Munich,31,2533,3,3,2.96,5.0,0.11,0.18,4,2018
+101,101,Patrick Herrmann,Borussia M.Gladbach,24,1059,3,2,1.56,2.85,0.13,0.24,4,2018
+102,102,Nabil Bentaleb,Schalke 04,25,1796,3,0,3.3,1.37,0.17,0.07,4,2018
+103,103,Jonathan de Guzmán,Eintracht Frankfurt,28,1558,3,6,3.19,4.83,0.18,0.28,4,2018
+104,104,Jonathas,Hannover 96,10,609,3,1,2.49,0.1,0.37,0.01,4,2018
+105,105,Martin Hinteregger,Augsburg,32,2722,3,0,2.02,0.75,0.07,0.02,4,2018
+106,106,Jean-Kevin Augustin,Eintracht Frankfurt,17,443,3,0,2.93,0.83,0.6,0.17,4,2018
+107,107,Jérôme Roussillon,RasenBallsport Leipzig,28,2475,3,4,1.74,3.25,0.06,0.12,4,2018
+108,108,Davie Selke,Wolfsburg,30,1724,3,5,5.44,3.68,0.28,0.19,4,2018
+109,109,Bobby Wood,Hertha Berlin,20,1168,3,1,2.85,1.67,0.22,0.13,4,2018
+110,110,Thomas Delaney,Borussia Dortmund,30,2302,3,5,2.76,2.9,0.11,0.11,4,2018
+111,111,Marcel Halstenberg,RasenBallsport Leipzig,28,2415,3,6,3.98,7.99,0.15,0.3,4,2018
+112,112,Josip Brekalo,Wolfsburg,25,1406,3,3,2.41,1.33,0.15,0.08,4,2018
+113,113,Sergio Córdova,Augsburg,20,491,3,0,1.7,0.18,0.31,0.03,4,2018
+114,114,Valentino Lazaro,Hertha Berlin,31,2743,3,6,2.17,6.64,0.07,0.22,4,2018
+115,115,Eduard Löwen,Nuernberg,22,1627,3,2,2.85,2.26,0.16,0.13,4,2018
+116,116,Kevin Möhwald,Werder Bremen,23,852,3,1,0.89,0.9,0.09,0.1,4,2018
+117,117,Gonçalo Paciência,Eintracht Frankfurt,11,382,3,1,2.94,1.15,0.69,0.27,4,2018
+118,118,Steven Skrzybski,Schalke 04,12,673,3,1,2.92,1.12,0.39,0.15,4,2018
+119,119,Florian Neuhaus,Borussia M.Gladbach,32,2080,3,8,6.01,3.15,0.26,0.14,4,2018
+120,120,Matheus Pereira,Nuernberg,19,1240,3,2,2.3,1.34,0.17,0.1,4,2018
+121,121,Oliver Fink,Fortuna Duesseldorf,18,1069,3,0,1.03,0.75,0.09,0.06,4,2018
+122,122,Ozan Kabak,VfB Stuttgart,15,1350,3,0,1.31,0.04,0.09,0.0,4,2018
+123,123,Jérôme Gondorf,Freiburg,25,1285,2,2,1.57,3.33,0.11,0.23,4,2018
+124,124,Emiliano Insúa,VfB Stuttgart,27,2121,2,2,0.43,3.11,0.02,0.13,4,2018
+125,125,Niklas Süle,Bayern Munich,31,2649,2,0,1.1,0.3,0.04,0.01,4,2018
+126,126,Mark Uth,Schalke 04,20,1407,2,1,4.78,1.64,0.31,0.11,4,2018
+127,127,Salif Sané,Schalke 04,30,2612,2,0,0.94,0.21,0.03,0.01,4,2018
+128,128,Felipe,Hannover 96,17,1102,2,0,1.01,0.0,0.08,0.0,4,2018
+129,129,Yannick Gerhardt,Wolfsburg,30,2471,2,2,3.24,3.71,0.12,0.14,4,2018
+130,130,Josuha Guilavogui,Wolfsburg,19,1573,2,1,1.18,0.2,0.07,0.01,4,2018
+131,131,Maximilian Arnold,Wolfsburg,33,2888,2,6,2.39,4.57,0.07,0.14,4,2018
+132,132,Wendell,Bayer Leverkusen,28,2277,2,2,2.71,1.8,0.11,0.07,4,2018
+133,133,Christoph Kramer,Borussia M.Gladbach,18,1139,2,1,0.78,0.94,0.06,0.07,4,2018
+134,134,Kevin Kampl,RasenBallsport Leipzig,27,2131,2,5,1.87,4.73,0.08,0.2,4,2018
+135,135,Josip Drmic,Borussia M.Gladbach,5,217,2,0,1.4,0.02,0.58,0.01,4,2018
+136,136,Raffael,Borussia M.Gladbach,13,530,2,1,2.15,1.45,0.36,0.25,4,2018
+137,137,Nico Elvedi,Borussia M.Gladbach,30,2629,2,1,2.07,0.88,0.07,0.03,4,2018
+138,138,Joshua Kimmich,Bayern Munich,34,3060,2,13,2.31,13.69,0.07,0.4,4,2018
+139,139,Thiago Alcántara,Bayern Munich,30,2412,2,6,2.2,3.88,0.08,0.14,4,2018
+140,140,Mathew Leckie,Hertha Berlin,18,941,2,0,2.37,0.85,0.23,0.08,4,2018
+141,141,Danny da Costa,Eintracht Frankfurt,34,3036,2,4,3.95,5.81,0.12,0.17,4,2018
+142,142,Ja-Cheol Koo,Augsburg,26,1632,2,1,3.54,0.74,0.2,0.04,4,2018
+143,143,Daniel Didavi,VfB Stuttgart,20,942,2,2,1.83,2.41,0.18,0.23,4,2018
+144,144,Suat Serdar,Schalke 04,26,1744,2,1,3.21,2.29,0.17,0.12,4,2018
+145,145,Matthias Ginter,Borussia M.Gladbach,27,2379,2,0,1.61,0.89,0.06,0.03,4,2018
+146,146,Gonzalo Castro,VfB Stuttgart,25,1693,2,4,1.16,2.6,0.06,0.14,4,2018
+147,147,Charles Aránguiz,Bayer Leverkusen,24,1912,2,7,1.15,3.51,0.05,0.17,4,2018
+148,148,Roland Sallai,Freiburg,10,518,2,0,1.29,0.41,0.22,0.07,4,2018
+149,149,Raphael Guerreiro,Borussia Dortmund,23,1539,2,6,2.88,3.94,0.17,0.23,4,2018
+150,150,Mike Frantz,Freiburg,31,2260,2,1,1.72,1.3,0.07,0.05,4,2018
+151,151,Marc-Oliver Kempf,VfB Stuttgart,23,2027,2,0,1.92,0.17,0.09,0.01,4,2018
+152,152,Jean-Philippe Gbamin,Mainz 05,31,2675,2,1,1.3,1.95,0.04,0.07,4,2018
+153,153,Achraf Hakimi,Borussia Dortmund,21,1740,2,4,1.69,2.96,0.09,0.15,4,2018
+154,154,Aleksandar Dragovic,Bayer Leverkusen,18,1327,2,0,0.88,0.1,0.06,0.01,4,2018
+155,155,Jordan Torunarigha,Hertha Berlin,14,1163,2,2,1.01,0.89,0.08,0.07,4,2018
+156,156,Federico Palacios,Nuernberg,17,946,2,0,1.38,0.41,0.13,0.04,4,2018
+157,157,Jacob Bruun Larsen,Borussia Dortmund,24,1267,2,2,3.27,3.16,0.23,0.22,4,2018
+158,158,Niclas Füllkrug,Hannover 96,14,1114,2,1,3.41,0.94,0.28,0.08,4,2018
+159,159,Dan-Axel Zagadou,Borussia Dortmund,17,1267,2,0,1.36,0.04,0.1,0.0,4,2018
+160,160,William,Wolfsburg,31,2679,2,1,1.49,3.08,0.05,0.1,4,2018
+161,161,Elvis Rexhbecaj,Wolfsburg,24,1138,2,2,0.88,1.51,0.07,0.12,4,2018
+162,162,Joshua Brenet,Hoffenheim,14,906,2,1,1.78,1.79,0.18,0.18,4,2018
+163,163,Georg Margreitter,Nuernberg,27,2055,2,0,0.8,0.23,0.04,0.01,4,2018
+164,164,Nicolás González,VfB Stuttgart,30,2161,2,3,6.07,3.7,0.25,0.15,4,2018
+165,165,Matheus Cunha,RasenBallsport Leipzig,25,849,2,0,3.92,0.9,0.42,0.1,4,2018
+166,166,Javairo Dilrosun,Hertha Berlin,17,883,2,3,0.5,1.92,0.05,0.2,4,2018
+167,167,Florent Muslija,Hannover 96,17,664,2,0,1.21,0.65,0.16,0.09,4,2018
+168,168,Adam Zrelák,Nuernberg,14,941,2,1,3.81,0.47,0.36,0.05,4,2018
+169,169,Joshua Sargent,Werder Bremen,10,191,2,0,1.37,0.13,0.65,0.06,4,2018
+170,170,Ahmed Kutucu,Schalke 04,13,406,2,0,1.38,0.08,0.31,0.02,4,2018
+171,171,Marvin Plattenhardt,Hertha Berlin,22,1928,1,2,0.7,2.65,0.03,0.12,4,2018
+172,172,Mitchell Weiser,Bayer Leverkusen,30,2110,1,3,0.59,3.62,0.03,0.15,4,2018
+173,173,Yunus Malli,Wolfsburg,21,674,1,1,1.75,1.26,0.23,0.17,4,2018
+174,174,Alexander Hack,Mainz 05,14,1020,1,1,0.99,0.97,0.09,0.09,4,2018
+175,175,Alexandru Maxim,Mainz 05,22,545,1,0,0.97,2.51,0.16,0.41,4,2018
+176,176,Timo Baumgartl,VfB Stuttgart,18,1620,1,0,0.22,0.12,0.01,0.01,4,2018
+177,177,Ermin Bicakcic,Hoffenheim,25,1783,1,2,2.25,0.71,0.11,0.04,4,2018
+178,178,Miiko Albornoz,Hannover 96,22,1654,1,3,0.25,1.52,0.01,0.08,4,2018
+179,179,Waldemar Anton,Hannover 96,34,3060,1,0,1.22,0.19,0.04,0.01,4,2018
+180,180,Dominique Heintz,Freiburg,34,3055,1,1,1.26,1.12,0.04,0.03,4,2018
+181,181,Mahmoud Dahoud,Borussia Dortmund,14,683,1,0,1.31,0.9,0.17,0.12,4,2018
+182,182,Oscar Wendt,Borussia M.Gladbach,32,2730,1,1,0.48,2.35,0.02,0.08,4,2018
+183,183,Rafinha,Bayern Munich,16,900,1,1,0.12,0.82,0.01,0.08,4,2018
+184,184,Alfredo Morales,Fortuna Duesseldorf,23,1522,1,1,0.74,1.02,0.04,0.06,4,2018
+185,185,Leonardo Bittencourt,Hoffenheim,21,1070,1,3,3.28,2.75,0.28,0.23,4,2018
+186,186,Caiuby,Augsburg,14,1002,1,1,2.18,1.03,0.2,0.09,4,2018
+187,187,Bastian Oczipka,Schalke 04,21,1877,1,5,0.37,4.18,0.02,0.2,4,2018
+188,188,Lukasz Piszczek,Borussia Dortmund,20,1764,1,6,0.52,3.03,0.03,0.15,4,2018
+189,189,Fabian Johnson,Borussia M.Gladbach,18,1007,1,0,1.11,0.53,0.1,0.05,4,2018
+190,190,Felix Klaus,Wolfsburg,15,430,1,1,1.99,2.21,0.42,0.46,4,2018
+191,191,Julian Weigl,Borussia Dortmund,18,1456,1,0,0.18,0.11,0.01,0.01,4,2018
+192,192,Mats Hummels,Bayern Munich,21,1778,1,1,2.71,0.94,0.14,0.05,4,2018
+193,193,Markus Suttner,Fortuna Duesseldorf,6,495,1,1,0.19,0.58,0.03,0.11,4,2018
+194,194,Niklas Stark,Hertha Berlin,22,1871,1,0,0.8,0.32,0.04,0.02,4,2018
+195,195,Maximilian Mittelstädt,Hertha Berlin,25,1802,1,1,1.58,1.54,0.08,0.08,4,2018
+196,196,Lars Bender,Bayer Leverkusen,20,1371,1,4,0.85,1.38,0.06,0.09,4,2018
+197,197,Nico Schulz,Hoffenheim,30,2548,1,5,2.32,10.7,0.08,0.38,4,2018
+198,198,Matija Nastasic,Schalke 04,28,2453,1,0,2.3,0.17,0.08,0.01,4,2018
+199,199,Yevhen Konoplyanka,Schalke 04,13,653,1,1,1.51,1.19,0.21,0.16,4,2018
+200,200,Bruma,RasenBallsport Leipzig,14,547,1,1,1.34,1.35,0.22,0.22,4,2018
+201,201,Matthias Zimmermann,Fortuna Duesseldorf,34,3051,1,3,0.41,2.94,0.01,0.09,4,2018
+202,202,Julian Schieber,Augsburg,9,252,1,0,0.46,0.34,0.17,0.12,4,2018
+203,203,Alessandro Schöpf,Schalke 04,15,1001,1,0,1.2,1.4,0.11,0.13,4,2018
+204,204,Nuri Sahin,Werder Bremen,20,1496,1,1,0.55,0.9,0.03,0.05,4,2018
+205,205,Erik Thommy,VfB Stuttgart,19,785,1,1,1.13,1.41,0.13,0.16,4,2018
+206,206,Milos Veljkovic,Werder Bremen,23,1879,1,0,0.58,0.26,0.03,0.01,4,2018
+207,207,Marius Wolf,Borussia Dortmund,16,835,1,0,0.3,1.6,0.03,0.17,4,2018
+208,208,Marcel Tisserand,Wolfsburg,10,892,1,0,1.41,0.06,0.14,0.01,4,2018
+209,209,Gelson Fernandes,Eintracht Frankfurt,28,2250,1,0,0.77,0.49,0.03,0.02,4,2018
+210,210,Corentin Tolisso,Bayern Munich,2,51,1,0,0.07,0.11,0.13,0.19,4,2018
+211,211,Maximilian Philipp,Borussia Dortmund,18,764,1,1,0.89,0.17,0.11,0.02,4,2018
+212,212,Marvin Bakalorz,Hannover 96,25,1465,1,0,0.5,0.5,0.03,0.03,4,2018
+213,213,Janik Haberer,Freiburg,27,2347,1,3,1.04,3.2,0.04,0.12,4,2018
+214,214,Marvin Ducksch,Fortuna Duesseldorf,16,813,1,1,1.74,1.96,0.19,0.22,4,2018
+215,215,Abdou Diallo,Borussia Dortmund,28,2383,1,1,2.79,0.78,0.11,0.03,4,2018
+216,216,Walace,Hannover 96,26,2004,1,1,0.51,0.56,0.02,0.03,4,2018
+217,217,Renato Sanches,Bayern Munich,17,553,1,1,0.79,0.82,0.13,0.13,4,2018
+218,218,Kevin Danso,Augsburg,18,1245,1,1,0.4,0.34,0.03,0.02,4,2018
+219,219,Marco Terrazzino,Freiburg,13,514,1,0,0.97,0.43,0.17,0.08,4,2018
+220,220,Takashi Usami,Fortuna Duesseldorf,19,862,1,2,2.17,0.55,0.23,0.06,4,2018
+221,221,Manuel Gulde,Freiburg,21,1714,1,0,0.6,0.12,0.03,0.01,4,2018
+222,222,Felix Götze,Augsburg,6,117,1,0,1.09,0.0,0.84,0.0,4,2018
+223,223,Weston McKennie,Schalke 04,24,1745,1,4,2.59,2.61,0.13,0.13,4,2018
+224,224,Haji Wright,Schalke 04,7,194,1,0,1.24,0.02,0.58,0.01,4,2018
+225,225,Nordi Mukiele,RasenBallsport Leipzig,19,1231,1,1,0.61,1.67,0.04,0.12,4,2018
+226,226,Amine Harit,Schalke 04,18,1085,1,1,1.09,1.19,0.09,0.1,4,2018
+227,227,Moussa Niakhate,Mainz 05,33,2788,1,1,1.89,0.45,0.06,0.01,4,2018
+228,228,Ludwig Augustinsson,Werder Bremen,34,3032,1,4,1.62,2.24,0.05,0.07,4,2018
+229,229,Konrad Laimer,RasenBallsport Leipzig,29,1875,1,1,2.74,2.74,0.13,0.13,4,2018
+230,230,Robin Koch,Freiburg,24,1898,1,0,1.09,0.4,0.05,0.02,4,2018
+231,231,Törles Knöll,Nuernberg,16,357,1,0,1.1,0.07,0.28,0.02,4,2018
+232,232,Ibrahima Konaté,RasenBallsport Leipzig,28,2431,1,1,1.55,0.35,0.06,0.01,4,2018
+233,233,Manuel Akanji,Borussia Dortmund,25,2206,1,0,0.38,0.62,0.02,0.03,4,2018
+234,234,Linton Maina,Hannover 96,20,1444,1,3,1.85,3.28,0.12,0.2,4,2018
+235,235,Lukas Mühl,Nuernberg,31,2790,1,0,1.24,0.37,0.04,0.01,4,2018
+236,236,Alexander Fuchs,Nuernberg,9,656,1,0,0.56,0.79,0.08,0.11,4,2018
+237,237,Yuya Kubo,Nuernberg,22,1367,1,0,2.15,0.7,0.14,0.05,4,2018
+238,238,Evan Ndicka,Eintracht Frankfurt,27,2304,1,1,1.43,0.09,0.06,0.0,4,2018
+239,239,Jean Zimmer,Fortuna Duesseldorf,18,1444,1,2,0.73,2.97,0.05,0.18,4,2018
+240,240,Kevin Stöger,Fortuna Duesseldorf,25,2124,1,7,2.38,6.73,0.1,0.28,4,2018
+241,241,Virgil Misidjan,Nuernberg,23,1545,1,1,2.75,0.9,0.16,0.05,4,2018
+242,242,Michael Lang,Borussia M.Gladbach,17,1269,1,0,2.33,0.49,0.17,0.03,4,2018
+243,243,Alphonso Davies,Bayern Munich,6,66,1,0,0.18,0.0,0.25,0.0,4,2018
+244,244,Amadou Haidara,RasenBallsport Leipzig,9,370,1,0,0.74,0.53,0.18,0.13,4,2018
+245,245,Christian Mathenia,Nuernberg,22,1933,0,0,0.0,0.1,0.0,0.0,4,2018
+246,246,Sandro Wagner,Bayern Munich,7,134,0,0,0.44,0.06,0.3,0.04,4,2018
+247,247,Rune Jarstein,Hertha Berlin,31,2747,0,0,0.0,0.0,0.0,0.0,4,2018
+248,248,Sebastian Langkamp,Werder Bremen,21,1406,0,0,1.08,0.69,0.07,0.04,4,2018
+249,249,Per Skjelbred,Hertha Berlin,16,997,0,1,0.47,0.25,0.04,0.02,4,2018
+250,250,Fabian Lustenberger,Hertha Berlin,29,2168,0,1,0.13,0.83,0.01,0.03,4,2018
+251,251,Vladimir Darida,Hertha Berlin,10,365,0,1,0.92,0.83,0.23,0.21,4,2018
+252,252,Genki Haraguchi,Hannover 96,28,2128,0,3,2.35,2.94,0.1,0.12,4,2018
+253,253,Niko Bungert,Mainz 05,7,286,0,0,0.14,0.0,0.04,0.0,4,2018
+254,254,Stefan Bell,Mainz 05,25,2250,0,0,1.7,1.29,0.07,0.05,4,2018
+255,255,Julian Baumgartlinger,Bayer Leverkusen,21,1548,0,1,0.4,0.52,0.02,0.03,4,2018
+256,256,Danny Latza,Mainz 05,24,1886,0,3,3.07,2.09,0.15,0.1,4,2018
+257,257,Pablo De Blasis,Mainz 05,1,90,0,0,0.04,0.06,0.04,0.06,4,2018
+258,258,Christian Gentner,VfB Stuttgart,29,2027,0,5,2.79,2.1,0.12,0.09,4,2018
+259,259,Lukas Rupp,Hoffenheim,1,23,0,0,0.0,0.02,0.0,0.1,4,2018
+260,260,Oliver Baumann,Hoffenheim,33,2970,0,1,0.0,0.14,0.0,0.0,4,2018
+261,261,Tobias Strobl,Borussia M.Gladbach,29,2291,0,4,0.81,2.13,0.03,0.08,4,2018
+262,262,Pirmin Schwegler,Hannover 96,27,2091,0,1,0.27,2.14,0.01,0.09,4,2018
+263,263,Sebastian Rudy,Schalke 04,21,1358,0,0,0.2,1.31,0.01,0.09,4,2018
+264,264,Ron-Robert Zieler,VfB Stuttgart,34,3060,0,0,0.0,0.02,0.0,0.0,4,2018
+265,265,Edgar Prib,Hannover 96,4,203,0,1,0.54,0.4,0.24,0.18,4,2018
+266,266,Philipp Tschauner,Hannover 96,1,90,0,0,0.0,0.0,0.0,0.0,4,2018
+267,267,Philipp Bargfrede,Werder Bremen,15,1092,0,0,0.13,0.11,0.01,0.01,4,2018
+268,268,Fin Bartels,Werder Bremen,2,19,0,0,0.0,0.0,0.0,0.0,4,2018
+269,269,Florian Grillitsch,Hoffenheim,30,2400,0,3,1.2,2.96,0.04,0.11,4,2018
+270,270,Levin Öztunali,Mainz 05,15,929,0,1,0.43,1.06,0.04,0.1,4,2018
+271,271,Kevin Vogt,Hoffenheim,28,2406,0,0,0.13,0.25,0.0,0.01,4,2018
+272,272,Naldo,Schalke 04,7,630,0,0,0.6,0.17,0.09,0.02,4,2018
+273,273,Sebastian Jung,Wolfsburg,1,58,0,0,0.0,0.01,0.0,0.02,4,2018
+274,274,Koen Casteels,Wolfsburg,26,2299,0,0,0.0,0.0,0.0,0.0,4,2018
+275,275,Matthias Ostrzolek,Hannover 96,18,1465,0,0,0.2,0.34,0.01,0.02,4,2018
+276,276,Ivo Ilicevic,Nuernberg,3,35,0,0,0.0,0.0,0.0,0.0,4,2018
+277,277,Jaroslav Drobny,Fortuna Duesseldorf,2,180,0,0,0.0,0.0,0.0,0.0,4,2018
+278,278,Ömer Toprak,Borussia Dortmund,9,230,0,0,0.06,0.0,0.02,0.0,4,2018
+279,279,Giulio Donati,Mainz 05,9,622,0,0,0.09,0.35,0.01,0.05,4,2018
+280,280,Yann Sommer,Borussia M.Gladbach,34,3060,0,0,0.0,0.02,0.0,0.0,4,2018
+281,281,Tony Jantschke,Borussia M.Gladbach,14,930,0,1,0.15,0.29,0.01,0.03,4,2018
+282,282,Håvard Nordtveit,Hoffenheim,8,453,0,0,0.23,0.04,0.05,0.01,4,2018
+283,283,Julian Korb,Hannover 96,12,1011,0,0,0.03,0.4,0.0,0.04,4,2018
+284,284,Ibrahima Traoré,Borussia M.Gladbach,16,549,0,2,0.8,2.96,0.13,0.49,4,2018
+285,285,Branimir Hrgota,Eintracht Frankfurt,1,2,0,0,0.0,0.0,0.0,0.0,4,2018
+286,286,Manuel Neuer,Bayern Munich,26,2304,0,0,0.0,0.0,0.0,0.0,4,2018
+287,287,Holger Badstuber,VfB Stuttgart,10,513,0,0,0.0,0.0,0.0,0.0,4,2018
+288,288,Jérôme Boateng,Bayern Munich,20,1695,0,2,0.59,1.14,0.03,0.06,4,2018
+289,289,Sebastian Rode,Eintracht Frankfurt,12,945,0,0,0.54,1.33,0.05,0.13,4,2018
+290,290,Sven Ulreich,Bayern Munich,9,756,0,0,0.0,0.0,0.0,0.0,4,2018
+291,291,Ramazan Özcan,Bayer Leverkusen,2,180,0,0,0.0,0.0,0.0,0.0,4,2018
+292,292,Robert Bauer,Nuernberg,22,1730,0,0,0.17,0.8,0.01,0.04,4,2018
+293,293,Benjamin Hübner,Hoffenheim,10,813,0,0,1.04,0.0,0.12,0.0,4,2018
+294,294,Marwin Hitz,Borussia Dortmund,2,180,0,0,0.0,0.0,0.0,0.0,4,2018
+295,295,Paul Verhaegh,Wolfsburg,2,180,0,0,0.0,0.02,0.0,0.01,4,2018
+296,296,Jan-Ingwer Callsen-Bracker,Augsburg,1,5,0,0,0.07,0.0,1.28,0.0,4,2018
+297,297,Daniel Baier,Augsburg,33,2832,0,1,0.6,1.08,0.02,0.03,4,2018
+298,298,Dominik Kohr,Bayer Leverkusen,18,957,0,2,1.42,1.88,0.13,0.18,4,2018
+299,299,Alexander Esswein,VfB Stuttgart,17,1268,0,0,1.56,1.2,0.11,0.09,4,2018
+300,300,Christoph Janker,Augsburg,4,69,0,0,0.0,0.0,0.0,0.0,4,2018
+301,301,Lukas Hradecky,Bayer Leverkusen,32,2880,0,0,0.0,0.04,0.0,0.0,4,2018
+302,302,Makoto Hasebe,Eintracht Frankfurt,28,2520,0,0,0.06,0.63,0.0,0.02,4,2018
+303,303,David Abraham,Eintracht Frankfurt,17,1423,0,0,1.14,0.31,0.07,0.02,4,2018
+304,304,Marc Stendera,Eintracht Frankfurt,7,98,0,0,0.0,0.21,0.0,0.19,4,2018
+305,305,Mijat Gacinovic,Eintracht Frankfurt,29,1608,0,1,1.51,2.17,0.08,0.12,4,2018
+306,306,Marco Russ,Eintracht Frankfurt,5,377,0,0,0.04,0.0,0.01,0.0,4,2018
+307,307,Roman Bürki,Borussia Dortmund,32,2880,0,0,0.0,0.0,0.0,0.0,4,2018
+308,308,Sven Bender,Bayer Leverkusen,27,1999,0,0,0.64,0.19,0.03,0.01,4,2018
+309,309,Marcel Schmelzer,Borussia Dortmund,9,558,0,1,0.18,0.36,0.03,0.06,4,2018
+310,310,Shinji Kagawa,Borussia Dortmund,2,99,0,0,0.47,0.0,0.43,0.0,4,2018
+311,311,Pascal Stenzel,Freiburg,21,1461,0,2,0.87,1.51,0.05,0.09,4,2018
+312,312,Ralf Fährmann,Schalke 04,17,1469,0,0,0.0,0.0,0.0,0.0,4,2018
+313,313,Sascha Riether,Schalke 04,1,1,0,0,0.0,0.0,0.0,0.0,4,2018
+314,314,Dennis Aogo,VfB Stuttgart,15,1030,0,0,0.37,0.86,0.03,0.07,4,2018
+315,315,Franco Di Santo,Schalke 04,4,249,0,0,0.2,0.48,0.07,0.17,4,2018
+316,316,Oliver Sorg,Hannover 96,19,1584,0,0,0.06,0.28,0.0,0.02,4,2018
+317,317,Gaëtan Bussmann,Mainz 05,1,90,0,0,0.0,0.0,0.0,0.0,4,2018
+318,318,Timothy Chandler,Eintracht Frankfurt,1,16,0,0,0.0,0.08,0.0,0.43,4,2018
+319,319,Uffe Bech,Hannover 96,2,13,0,0,0.0,0.61,0.0,4.22,4,2018
+320,320,Jan Morávek,Augsburg,13,757,0,2,0.4,0.53,0.05,0.06,4,2018
+321,321,Konstantinos Stafylidis,Augsburg,12,922,0,0,0.25,1.0,0.02,0.1,4,2018
+322,322,Lukas Klünter,Hertha Berlin,10,593,0,0,0.14,0.5,0.02,0.08,4,2018
+323,323,Tin Jedvaj,Bayer Leverkusen,16,1121,0,0,0.76,0.2,0.06,0.02,4,2018
+324,324,Aron Jóhannsson,Werder Bremen,1,1,0,0,0.0,0.0,0.0,0.0,4,2018
+325,325,Thomas Kraft,Hertha Berlin,4,313,0,0,0.0,0.0,0.0,0.0,4,2018
+326,326,Benjamin Henrichs,Bayer Leverkusen,1,64,0,0,0.0,0.0,0.0,0.0,4,2018
+327,327,Andre Hoffmann,Fortuna Duesseldorf,13,1044,0,0,0.39,0.03,0.03,0.0,4,2018
+328,328,Peter Pekarík,Hertha Berlin,3,214,0,0,0.04,0.03,0.02,0.01,4,2018
+329,329,Robin Zentner,Mainz 05,10,900,0,0,0.0,0.0,0.0,0.0,4,2018
+330,330,Reece Oxford,Augsburg,8,502,0,1,0.72,0.03,0.13,0.01,4,2018
+331,331,Kevin Wimmer,Hannover 96,22,1676,0,0,0.27,0.31,0.01,0.02,4,2018
+332,332,Abdul Rahman Baba,Schalke 04,2,166,0,0,0.03,0.18,0.02,0.1,4,2018
+333,333,Pablo Maffeo,VfB Stuttgart,8,609,0,0,0.17,0.63,0.03,0.09,4,2018
+334,334,Carlos Salcedo,Eintracht Frankfurt,6,460,0,0,0.05,0.0,0.01,0.0,4,2018
+335,335,Niklas Moisander,Werder Bremen,30,2638,0,0,0.34,0.69,0.01,0.02,4,2018
+336,336,Jakub Blaszczykowski,Wolfsburg,1,11,0,0,0.0,0.0,0.0,0.0,4,2018
+337,337,Ignacio Camacho,Wolfsburg,6,540,0,0,0.24,0.37,0.04,0.06,4,2018
+338,338,Omar Mascarell,Schalke 04,14,991,0,2,0.19,0.26,0.02,0.02,4,2018
+339,339,Philipp Lienhart,Freiburg,14,607,0,0,0.56,0.1,0.08,0.02,4,2018
+340,340,Alexander Nübel,Schalke 04,18,1589,0,0,0.0,0.0,0.0,0.0,4,2018
+341,341,Iver Fossum,Hannover 96,9,453,0,0,0.2,1.08,0.04,0.21,4,2018
+342,342,Tim Dierßen,Hannover 96,1,12,0,0,0.0,0.0,0.0,0.0,4,2018
+343,343,Noah Joel Sarenren Bazee,Hannover 96,3,161,0,0,0.35,0.0,0.19,0.0,4,2018
+344,344,Marco Fabián,Eintracht Frankfurt,1,63,0,0,0.06,0.0,0.08,0.0,4,2018
+345,345,Jeffrey Gouweleeuw,Augsburg,25,2093,0,2,0.86,2.48,0.04,0.11,4,2018
+346,346,Fabian Giefer,Augsburg,4,360,0,0,0.0,0.04,0.0,0.01,4,2018
+347,347,Kevin Trapp,Eintracht Frankfurt,33,2940,0,0,0.0,0.0,0.0,0.0,4,2018
+348,348,Benjamin Stambouli,Schalke 04,21,1759,0,2,0.08,0.4,0.0,0.02,4,2018
+349,349,Benjamin Pavard,VfB Stuttgart,29,2610,0,0,0.41,0.76,0.01,0.03,4,2018
+350,350,Karim Rekik,Hertha Berlin,24,2069,0,0,0.67,0.1,0.03,0.0,4,2018
+351,351,Almamy Touré,Eintracht Frankfurt,7,524,0,0,0.15,0.02,0.03,0.0,4,2018
+352,352,Isaac Thelin,Bayer Leverkusen,6,172,0,0,0.29,0.1,0.15,0.05,4,2018
+353,353,Christian Günter,Freiburg,32,2880,0,5,1.13,4.64,0.04,0.14,4,2018
+354,354,Nicolas Höfler,Freiburg,18,1617,0,0,0.7,1.06,0.04,0.06,4,2018
+355,355,Stefanos Kapino,Werder Bremen,1,44,0,0,0.0,0.0,0.0,0.0,4,2018
+356,356,Andreas Beck,VfB Stuttgart,24,1787,0,2,0.75,1.41,0.04,0.07,4,2018
+357,357,Marcel Sobottka,Fortuna Duesseldorf,14,944,0,0,0.35,0.05,0.03,0.0,4,2018
+358,358,Raphael Framberger,Augsburg,7,547,0,0,0.0,1.5,0.0,0.25,4,2018
+359,359,Sebastian Kerk,Nuernberg,21,1184,0,1,1.01,2.55,0.08,0.19,4,2018
+360,360,Aarón Martín,Mainz 05,33,2880,0,3,0.62,4.54,0.02,0.14,4,2018
+361,361,Florian Kainz,Werder Bremen,8,373,0,1,0.36,0.82,0.09,0.2,4,2018
+362,362,Aymen Barkok,Fortuna Duesseldorf,12,507,0,0,0.53,0.15,0.09,0.03,4,2018
+363,363,Danny Blum,Eintracht Frankfurt,1,1,0,0,0.0,0.0,0.0,0.0,4,2018
+364,364,Allan,Eintracht Frankfurt,4,175,0,0,0.12,0.02,0.06,0.01,4,2018
+365,365,Péter Gulácsi,RasenBallsport Leipzig,33,2930,0,0,0.0,0.16,0.0,0.0,4,2018
+366,366,Stefan Ilsanker,RasenBallsport Leipzig,19,923,0,0,0.48,0.3,0.05,0.03,4,2018
+367,367,Dayotchanculle Upamecano,RasenBallsport Leipzig,15,1292,0,0,1.0,0.07,0.07,0.0,4,2018
+368,368,Diego Demme,RasenBallsport Leipzig,26,2071,0,2,0.28,3.05,0.01,0.13,4,2018
+369,369,László Bénes,Borussia M.Gladbach,1,25,0,0,0.0,0.0,0.0,0.0,4,2018
+370,370,Georg Teigl,Augsburg,6,291,0,0,0.03,0.11,0.01,0.03,4,2018
+371,371,Andreas Luthe,Augsburg,15,1311,0,0,0.0,0.0,0.0,0.0,4,2018
+372,372,Alexander Schwolow,Freiburg,33,2970,0,1,0.0,0.2,0.0,0.01,4,2018
+373,373,Lukas Kübler,Freiburg,16,1185,0,2,0.19,1.16,0.01,0.09,4,2018
+374,374,Amir Abrashi,Freiburg,10,793,0,0,0.19,0.07,0.02,0.01,4,2018
+375,375,Gerrit Holtmann,Mainz 05,4,141,0,0,0.11,0.35,0.07,0.22,4,2018
+376,376,Michael Esser,Hannover 96,32,2880,0,0,0.0,0.22,0.0,0.01,4,2018
+377,377,Gregor Kobel,Augsburg,17,1479,0,0,0.0,0.0,0.0,0.0,4,2018
+378,378,Florian Baak,Hoffenheim,1,1,0,0,0.0,0.0,0.0,0.0,4,2018
+379,379,Arne Maier,Hertha Berlin,24,2072,0,0,0.78,1.96,0.03,0.09,4,2018
+380,380,Gian-Luca Itter,Wolfsburg,2,91,0,0,0.0,0.0,0.0,0.0,4,2018
+381,381,Taleb Tawatha,Eintracht Frankfurt,3,128,0,0,0.0,0.0,0.0,0.0,4,2018
+382,382,Pal Dardai,Hertha Berlin,7,106,0,0,0.03,0.42,0.03,0.36,4,2018
+383,383,Jeffrey Bruma,Schalke 04,9,620,0,0,0.05,0.0,0.01,0.0,4,2018
+384,384,Florian Müller,Mainz 05,24,2160,0,0,0.0,0.02,0.0,0.0,4,2018
+385,385,Stefan Posch,Hoffenheim,17,1408,0,0,0.3,0.62,0.02,0.04,4,2018
+386,386,Marco Friedl,Werder Bremen,7,473,0,0,0.04,0.0,0.01,0.0,4,2018
+387,387,Simon Falette,Eintracht Frankfurt,7,603,0,0,0.06,0.0,0.01,0.0,4,2018
+388,388,Hamza Mendyl,Schalke 04,9,543,0,0,0.1,0.0,0.02,0.0,4,2018
+389,389,Dennis Geiger,Hoffenheim,4,244,0,1,0.21,1.33,0.08,0.49,4,2018
+390,390,Jiri Pavlenka,Werder Bremen,34,2981,0,0,0.0,0.0,0.0,0.0,4,2018
+391,391,Marcin Kaminski,Fortuna Duesseldorf,27,2430,0,1,0.92,0.66,0.03,0.02,4,2018
+392,392,Takuma Asano,Hannover 96,13,707,0,0,1.32,0.43,0.17,0.05,4,2018
+393,393,Chadrac Akolo,VfB Stuttgart,16,513,0,1,0.93,0.43,0.16,0.08,4,2018
+394,394,Berkay Özcan,VfB Stuttgart,3,47,0,0,0.0,0.0,0.0,0.0,4,2018
+395,395,Felix Uduokhai,Wolfsburg,11,229,0,0,0.01,0.0,0.01,0.0,4,2018
+396,396,Yvon Mvogo,RasenBallsport Leipzig,2,130,0,0,0.0,0.0,0.0,0.0,4,2018
+397,397,Tim Kleindienst,Freiburg,4,198,0,0,0.69,0.09,0.31,0.04,4,2018
+398,398,Jetro Willems,Eintracht Frankfurt,23,706,0,1,0.2,2.17,0.03,0.28,4,2018
+399,399,Michaël Cuisance,Borussia M.Gladbach,11,261,0,1,0.46,0.25,0.16,0.09,4,2018
+400,400,Yoric Ravet,Freiburg,4,70,0,0,0.06,0.05,0.08,0.06,4,2018
+401,401,Santiago Ascacibar,VfB Stuttgart,27,2430,0,0,1.29,0.53,0.05,0.02,4,2018
+402,402,Kevin Akpoguma,Hannover 96,12,807,0,0,0.0,0.0,0.0,0.0,4,2018
+403,403,Samuel Sahin-Radlinger,Hoffenheim,1,90,0,0,0.0,0.0,0.0,0.0,4,2018
+404,404,Josip Elez,Hannover 96,10,644,0,0,0.04,0.09,0.01,0.01,4,2018
+405,405,Chima Sean Okoroji,Hannover 96,2,104,0,0,0.0,0.0,0.0,0.0,4,2018
+406,406,Cedric Teuchert,Freiburg,5,162,0,0,0.06,0.02,0.04,0.01,4,2018
+407,407,Louis Beyer,Schalke 04,9,721,0,0,0.33,0.11,0.04,0.01,4,2018
+408,408,Simon Asta,Borussia M.Gladbach,1,90,0,0,0.05,0.0,0.05,0.0,4,2018
+409,409,Meritan Shabani,Augsburg,1,1,0,0,0.0,0.0,0.0,0.0,4,2018
+410,410,Patrick Kammerbauer,Freiburg,1,1,0,0,0.0,0.0,0.0,0.0,4,2018
+411,411,Justin Hoogma,Hoffenheim,2,103,0,0,0.0,0.0,0.0,0.0,4,2018
+412,412,Bote Baku,Mainz 05,15,939,0,0,0.53,0.37,0.05,0.04,4,2018
+413,413,Kasim Nuhu,Hoffenheim,13,919,0,1,0.28,0.06,0.03,0.01,4,2018
+414,414,David Otto,Hoffenheim,3,18,0,0,0.0,0.88,0.0,4.39,4,2018
+415,415,Dennis Jastrzembski,Hertha Berlin,5,55,0,0,0.02,0.04,0.03,0.07,4,2018
+416,416,Pascal Köpke,Hertha Berlin,7,60,0,0,0.2,0.0,0.3,0.0,4,2018
+417,417,Fabian Bredlow,Nuernberg,13,1127,0,0,0.0,0.0,0.0,0.0,4,2018
+418,418,Tim Leibold,Nuernberg,32,2773,0,2,1.82,2.75,0.06,0.09,4,2018
+419,419,Ondrej Petrák,Nuernberg,22,1624,0,0,0.56,0.23,0.03,0.01,4,2018
+420,420,Edgar Salli,Nuernberg,3,114,0,0,0.11,0.02,0.08,0.01,4,2018
+421,421,Patrick Erras,Nuernberg,19,1215,0,1,0.44,0.64,0.03,0.05,4,2018
+422,422,Lukas Jäger,Nuernberg,2,20,0,0,0.01,0.0,0.04,0.0,4,2018
+423,423,Timothy Tillman,Nuernberg,6,198,0,0,0.16,0.4,0.07,0.18,4,2018
+424,424,Luca Plogmann,Werder Bremen,1,35,0,0,0.0,0.0,0.0,0.0,4,2018
+425,425,Mark Flekken,Freiburg,1,90,0,0,0.0,0.0,0.0,0.0,4,2018
+426,426,Frederik Rönnow,Eintracht Frankfurt,2,120,0,0,0.0,0.0,0.0,0.0,4,2018
+427,427,Lucas Torró,Eintracht Frankfurt,8,561,0,0,0.17,0.06,0.03,0.01,4,2018
+428,428,Pavao Pervan,Wolfsburg,9,761,0,0,0.0,0.02,0.0,0.0,4,2018
+429,429,Michael Rensing,Fortuna Duesseldorf,32,2880,0,0,0.0,0.0,0.0,0.0,4,2018
+430,430,Niko Gießelmann,Fortuna Duesseldorf,30,2594,0,3,0.92,3.24,0.03,0.11,4,2018
+431,431,Davor Lovren,Fortuna Duesseldorf,2,42,0,0,0.01,0.0,0.03,0.0,4,2018
+432,432,Robin Bormuth,Fortuna Duesseldorf,10,606,0,0,0.0,0.01,0.0,0.0,4,2018
+433,433,Paulinho,Bayer Leverkusen,15,150,0,0,0.2,0.08,0.12,0.05,4,2018
+434,434,Pierre Kunde,Mainz 05,29,1922,0,0,0.66,0.58,0.03,0.03,4,2018
+435,435,Borna Sosa,VfB Stuttgart,12,610,0,1,0.28,1.85,0.04,0.27,4,2018
+436,436,Marcelo Saracchi,RasenBallsport Leipzig,9,648,0,1,0.03,1.1,0.0,0.15,4,2018
+437,437,Enrico Valentini,Nuernberg,15,1305,0,2,0.19,1.08,0.01,0.07,4,2018
+438,438,Kevin Goden,Nuernberg,5,270,0,0,0.0,0.09,0.0,0.03,4,2018
+439,439,Philipp Mwene,Mainz 05,6,269,0,0,0.01,0.36,0.0,0.12,4,2018
+440,440,Jonathan Burkardt,Mainz 05,4,264,0,0,0.68,0.5,0.23,0.17,4,2018
+441,441,Leandro Barreiro Martins,Mainz 05,1,90,0,0,0.01,0.14,0.01,0.14,4,2018
+442,442,Ahmet Gürleyen,Mainz 05,1,10,0,0,0.49,0.0,4.39,0.0,4,2018
+443,443,Adam Bodzek,Fortuna Duesseldorf,21,1615,0,1,0.05,1.11,0.0,0.06,4,2018
+444,444,Derrick Luckassen,Hertha Berlin,4,248,0,0,0.0,0.0,0.0,0.0,4,2018
+445,445,Hans Nunoo Sarpei,VfB Stuttgart,2,37,0,0,0.0,0.0,0.0,0.0,4,2018
+446,446,Issah Abass,Mainz 05,1,7,0,0,0.02,0.0,0.21,0.0,4,2018
+447,447,Fredrik Jensen,Augsburg,6,207,0,0,0.49,0.73,0.21,0.32,4,2018
+448,448,Ewerton,Nuernberg,18,1339,0,0,0.32,0.07,0.02,0.0,4,2018
+449,449,Simon Rhein,Nuernberg,8,496,0,0,0.02,0.01,0.0,0.0,4,2018

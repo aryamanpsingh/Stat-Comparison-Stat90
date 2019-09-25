@@ -61,7 +61,7 @@ export class index extends Component {
   };
   state = {
     year: 2019,
-    league: [1, 2],
+    league: [1, 2, 3, 4, 5],
     right: false,
     view: "player",
     color: "#ffab9199"
@@ -75,7 +75,9 @@ export class index extends Component {
   toggleChange = value => () => {
     let list = this.state.league;
     if (this.state.league.includes(value)) {
-      list.splice(value - 1, 1);
+      let index = this.state.league.indexOf(value);
+      console.log(list.splice(index, 1));
+      console.log(list);
       this.setState({
         league: list
       });
@@ -86,7 +88,6 @@ export class index extends Component {
     }
   };
   sumTeam(team) {
-    console.log(team);
     let attributes = ["goals", "assists", "xA", "xG"];
     let sum = { name: team[1].team, goals: 0, assists: 0, xA: 0, xG: 0 };
     team.forEach(function(player, i) {
@@ -107,6 +108,7 @@ export class index extends Component {
     });
   };
   render() {
+    console.log(this.state.league);
     const { classes } = this.props;
     const toggleDrawer = (side, open) => event => {
       if (
@@ -152,6 +154,44 @@ export class index extends Component {
             </ListItemSecondaryAction>
           </ListItem>
           <ListItem>
+            <ListItemText id="switch-list-label-SerieA" primary="Serie A" />
+            <ListItemSecondaryAction>
+              <Switch
+                edge="end"
+                onChange={this.toggleChange(3)}
+                checked={leagues.includes(3)}
+                inputProps={{ "aria-labelledby": "switch-list-label-SerieA" }}
+              />
+            </ListItemSecondaryAction>
+          </ListItem>
+          <ListItem>
+            <ListItemText
+              id="switch-list-label-Bundesliga"
+              primary="Bundesliga"
+            />
+            <ListItemSecondaryAction>
+              <Switch
+                edge="end"
+                onChange={this.toggleChange(4)}
+                checked={leagues.includes(4)}
+                inputProps={{
+                  "aria-labelledby": "switch-list-label-Bundesliga"
+                }}
+              />
+            </ListItemSecondaryAction>
+          </ListItem>
+          <ListItem>
+            <ListItemText id="switch-list-label-Ligue-1" primary="Ligue 1" />
+            <ListItemSecondaryAction>
+              <Switch
+                edge="end"
+                onChange={this.toggleChange(5)}
+                checked={leagues.includes(5)}
+                inputProps={{ "aria-labelledby": "switch-list-label-Ligue-1" }}
+              />
+            </ListItemSecondaryAction>
+          </ListItem>
+          <ListItem>
             <InputColor initialHexColor={color} onChange={this.setColor} />
           </ListItem>
         </List>
@@ -163,7 +203,6 @@ export class index extends Component {
     } else {
       currentPlayers = this.props.players2018;
     }
-    console.log(currentPlayers);
     let playerArray = [];
     let leagues = this.state.league;
     var removeDiacritics = require("diacritics").remove;
@@ -174,7 +213,6 @@ export class index extends Component {
           playerArray.push(player);
         }
       });
-      console.log(playerArray);
     });
     currentPlayers = playerArray;
     let color1 = "rgba(105,17,62,0.9)";
@@ -191,7 +229,6 @@ export class index extends Component {
         })
       );
     });
-    console.log(teams[1]);
     if (clubs.length > 5) {
       if (teams[1].length > 1)
         for (var i = 1; i < teams.length; i++)

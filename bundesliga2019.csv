@@ -1,0 +1,361 @@
+,name,team,apps,mins,goals,assists,xG,xA,xG90,xA90,league,year
+0,Robert Lewandowski,Bayern Munich,5,433,9,0,5.72,0.05,1.19,0.01,4,2019
+1,Timo Werner,RasenBallsport Leipzig,5,416,5,0,4.12,1.77,0.89,0.38,4,2019
+2,Paco Alcácer,Borussia Dortmund,5,426,5,1,3.52,0.94,0.74,0.2,4,2019
+3,Yuya Osako,Werder Bremen,4,341,3,0,1.51,0.29,0.4,0.08,4,2019
+4,Florian Niederlechner,Augsburg,5,440,3,2,2.45,1.68,0.5,0.34,4,2019
+5,Marco Reus,Borussia Dortmund,5,439,3,0,3.03,0.63,0.62,0.13,4,2019
+6,Amine Harit,Schalke 04,5,446,3,1,0.66,0.51,0.13,0.1,4,2019
+7,Jadon Sancho,Borussia Dortmund,5,434,3,4,1.47,2.18,0.31,0.45,4,2019
+8,Gonçalo Paciência,Eintracht Frankfurt,5,368,3,1,1.55,0.64,0.38,0.16,4,2019
+9,Wout Weghorst,Wolfsburg,5,449,3,2,2.54,0.52,0.51,0.1,4,2019
+10,Ruben Vargas,Augsburg,5,390,3,0,1.87,0.37,0.43,0.08,4,2019
+11,Sebastian Andersson,Union Berlin,5,359,3,0,2.65,0.18,0.66,0.05,4,2019
+12,Kevin Volland,Bayer Leverkusen,5,415,2,2,1.13,2.07,0.25,0.45,4,2019
+13,Gian-Luca Waldschmidt,Freiburg,5,278,2,0,1.83,0.35,0.59,0.11,4,2019
+14,Suat Serdar,Schalke 04,3,173,2,0,0.27,0.00,0.14,0.0,4,2019
+15,Ivan Perisic,Bayern Munich,3,192,2,1,0.71,0.27,0.33,0.13,4,2019
+16,Robin Quaison,Mainz 05,4,339,2,0,1.65,0.34,0.44,0.09,4,2019
+17,Marko Grujic,Hertha Berlin,5,450,2,0,2.13,0.06,0.43,0.01,4,2019
+18,Alassane Pléa,Borussia M.Gladbach,5,427,2,1,2.31,0.87,0.49,0.18,4,2019
+19,Nils Petersen,Freiburg,5,450,2,1,2.18,1.06,0.44,0.21,4,2019
+20,Marcel Sabitzer,RasenBallsport Leipzig,5,450,2,3,1.08,2.56,0.22,0.51,4,2019
+21,Josip Brekalo,Wolfsburg,5,270,2,2,1.02,0.99,0.34,0.33,4,2019
+22,Breel Embolo,Borussia M.Gladbach,5,371,2,0,2.45,0.10,0.59,0.03,4,2019
+23,Marcus Thuram,Borussia M.Gladbach,5,314,2,0,2.17,0.71,0.62,0.2,4,2019
+24,Niclas Füllkrug,Werder Bremen,4,293,2,1,0.85,0.58,0.26,0.18,4,2019
+25,Lucas Höler,Freiburg,5,228,2,2,0.96,0.82,0.38,0.32,4,2019
+26,Rouwen Hennings,Fortuna Duesseldorf,5,355,2,0,1.02,0.13,0.26,0.03,4,2019
+27,Streli Mamba,Paderborn,4,282,2,1,1.24,0.05,0.39,0.02,4,2019
+28,Cauly Oliveira Souza,Paderborn,5,362,2,0,0.19,0.44,0.05,0.11,4,2019
+29,Marius Bülter,Union Berlin,5,440,2,0,0.69,0.54,0.14,0.11,4,2019
+30,Pavel Kaderábek,Hoffenheim,5,450,1,1,0.49,0.47,0.1,0.09,4,2019
+31,Jonathan Schmid,Freiburg,5,450,1,0,0.49,0.51,0.1,0.1,4,2019
+32,Ermin Bicakcic,Hoffenheim,4,304,1,0,0.04,0.00,0.01,0.0,4,2019
+33,Sebastian Rudy,Hoffenheim,5,450,1,0,0.04,0.06,0.01,0.01,4,2019
+34,Salif Sané,Schalke 04,5,305,1,0,0.10,0.00,0.03,0.0,4,2019
+35,Kenan Karaman,Fortuna Duesseldorf,5,248,1,1,0.26,0.59,0.09,0.22,4,2019
+36,Anthony Modeste,FC Cologne,4,336,1,0,0.55,0.00,0.15,0.0,4,2019
+37,Maximilian Arnold,Wolfsburg,5,450,1,0,0.49,0.66,0.1,0.13,4,2019
+38,Bas Dost,Eintracht Frankfurt,3,78,1,0,0.51,0.00,0.59,0.0,4,2019
+39,Karim Bellarabi,Bayer Leverkusen,4,281,1,0,1.97,0.12,0.63,0.04,4,2019
+40,Admir Mehmedi,Wolfsburg,4,211,1,1,0.32,0.36,0.13,0.15,4,2019
+41,Kingsley Coman,Bayern Munich,4,360,1,1,0.69,1.39,0.17,0.35,4,2019
+42,Alfredo Morales,Fortuna Duesseldorf,3,270,1,1,0.46,0.30,0.15,0.1,4,2019
+43,Julian Brandt,Borussia Dortmund,5,215,1,0,0.88,0.51,0.37,0.21,4,2019
+44,Kaan Ayhan,Fortuna Duesseldorf,5,445,1,0,0.70,0.08,0.14,0.02,4,2019
+45,David Alaba,Bayern Munich,3,270,1,0,0.36,0.30,0.12,0.1,4,2019
+46,Charles Aránguiz,Bayer Leverkusen,5,438,1,0,0.72,0.15,0.15,0.03,4,2019
+47,Philippe Coutinho,Bayern Munich,4,193,1,1,1.00,0.92,0.47,0.43,4,2019
+48,Jonjoe Kenny,Schalke 04,5,450,1,2,0.05,0.62,0.01,0.12,4,2019
+49,Karim Onisiwo,Mainz 05,5,296,1,0,0.87,0.27,0.26,0.08,4,2019
+50,Martin Hinteregger,Eintracht Frankfurt,4,360,1,0,0.14,0.42,0.04,0.11,4,2019
+51,Marius Wolf,Hertha Berlin,2,160,1,0,0.11,0.10,0.06,0.05,4,2019
+52,Axel Witsel,Borussia Dortmund,4,348,1,3,0.77,2.35,0.2,0.61,4,2019
+53,Christopher Nkunku,RasenBallsport Leipzig,4,180,1,1,2.64,0.40,1.32,0.2,4,2019
+54,Jérôme Roussillon,Wolfsburg,4,345,1,0,0.22,0.08,0.06,0.02,4,2019
+55,Ellyes Skhiri,FC Cologne,5,393,1,2,0.65,0.62,0.15,0.14,4,2019
+56,Benjamin Pavard,Bayern Munich,5,450,1,1,0.10,0.14,0.02,0.03,4,2019
+57,Raphael Guerreiro,Borussia Dortmund,3,190,1,0,0.68,0.34,0.32,0.16,4,2019
+58,Christian Günter,Freiburg,5,450,1,1,0.26,1.50,0.05,0.3,4,2019
+59,Janik Haberer,Freiburg,3,208,1,0,0.24,0.46,0.1,0.2,4,2019
+60,Achraf Hakimi,Borussia Dortmund,5,318,1,1,1.50,0.60,0.42,0.17,4,2019
+61,Kai Havertz,Bayer Leverkusen,5,450,1,0,1.29,1.28,0.26,0.26,4,2019
+62,Leon Bailey,Bayer Leverkusen,4,290,1,0,1.37,0.91,0.42,0.28,4,2019
+63,Emil Forsberg,RasenBallsport Leipzig,4,179,1,2,0.82,1.07,0.41,0.54,4,2019
+64,Yussuf Poulsen,RasenBallsport Leipzig,4,354,1,2,1.47,1.04,0.37,0.27,4,2019
+65,Marcel Halstenberg,RasenBallsport Leipzig,4,353,1,1,0.49,0.20,0.12,0.05,4,2019
+66,Willi Orban,RasenBallsport Leipzig,5,450,1,0,0.06,0.03,0.01,0.01,4,2019
+67,Kwon Chang-Hoon,Freiburg,2,53,1,0,0.54,0.05,0.91,0.08,4,2019
+68,Dodi Lukebakio,Hertha Berlin,4,304,1,0,0.59,0.60,0.18,0.18,4,2019
+69,Davy Klaassen,Werder Bremen,5,450,1,1,2.66,0.46,0.53,0.09,4,2019
+70,Johannes Eggestein,Werder Bremen,4,323,1,0,0.51,0.29,0.14,0.08,4,2019
+71,Simon Terodde,FC Cologne,5,103,1,0,1.87,0.00,1.63,0.0,4,2019
+72,André Silva,Eintracht Frankfurt,2,180,1,0,0.55,0.36,0.27,0.18,4,2019
+73,Ihlas Bebou,Hoffenheim,5,450,1,0,1.03,0.43,0.21,0.09,4,2019
+74,Lucas Alario,Bayer Leverkusen,5,139,1,0,0.11,0.03,0.07,0.02,4,2019
+75,Marco Richter,Augsburg,5,240,1,0,0.51,0.38,0.19,0.14,4,2019
+76,Kasim Nuhu,Fortuna Duesseldorf,2,95,1,0,0.49,0.00,0.46,0.0,4,2019
+77,Niko Gießelmann,Fortuna Duesseldorf,5,450,1,0,0.13,0.59,0.03,0.12,4,2019
+78,Marcelo Saracchi,RasenBallsport Leipzig,1,42,1,0,0.31,0.27,0.66,0.59,4,2019
+79,Jean-Paul Boëtius,Mainz 05,5,450,1,1,0.66,0.35,0.13,0.07,4,2019
+80,Javairo Dilrosun,Hertha Berlin,3,126,1,2,0.42,0.55,0.3,0.39,4,2019
+81,Joshua Sargent,Werder Bremen,4,192,1,0,1.06,0.00,0.5,0.0,4,2019
+82,Ahmed Kutucu,Schalke 04,4,74,1,1,0.32,0.14,0.39,0.16,4,2019
+83,Alphonso Davies,Bayern Munich,3,47,1,0,0.72,0.22,1.39,0.42,4,2019
+84,Dominick Drexler,FC Cologne,5,423,1,0,0.57,0.04,0.12,0.01,4,2019
+85,Sven Michel,Paderborn,5,400,1,1,2.10,0.26,0.47,0.06,4,2019
+86,Ben Zolinski,Paderborn,3,97,1,0,0.75,0.19,0.7,0.18,4,2019
+87,Jeremiah St. Juste,Mainz 05,4,266,1,0,0.08,0.03,0.03,0.01,4,2019
+88,Stefan Lainer,Borussia M.Gladbach,5,450,1,1,0.67,1.14,0.13,0.23,4,2019
+89,Jérôme Gondorf,Freiburg,2,124,0,0,0.04,0.04,0.03,0.03,4,2019
+90,Rune Jarstein,Hertha Berlin,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+91,John Brooks,Wolfsburg,3,270,0,0,0.00,0.00,0.0,0.0,4,2019
+92,Marvin Plattenhardt,Hertha Berlin,3,270,0,1,0.15,0.96,0.05,0.32,4,2019
+93,Per Skjelbred,Hertha Berlin,3,189,0,0,0.00,0.00,0.0,0.0,4,2019
+94,Salomon Kalou,Hertha Berlin,2,100,0,0,0.41,0.00,0.37,0.0,4,2019
+95,Vladimir Darida,Hertha Berlin,4,289,0,0,0.38,0.88,0.12,0.27,4,2019
+96,Mitchell Weiser,Bayer Leverkusen,1,21,0,0,0.07,0.00,0.31,0.0,4,2019
+97,Vedad Ibisevic,Hertha Berlin,4,225,0,1,0.27,0.85,0.11,0.34,4,2019
+98,Daniel Brosinski,Mainz 05,4,360,0,2,0.14,1.07,0.04,0.27,4,2019
+99,Julian Baumgartlinger,Bayer Leverkusen,4,225,0,1,0.06,0.38,0.02,0.15,4,2019
+100,Danny Latza,Mainz 05,5,376,0,0,0.27,0.30,0.06,0.07,4,2019
+101,Jhon Córdoba,FC Cologne,3,219,0,0,0.58,0.26,0.24,0.11,4,2019
+102,Jannik Huth,Paderborn,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+103,Alexander Hack,Mainz 05,3,189,0,0,0.11,0.06,0.05,0.03,4,2019
+104,Christian Gentner,Union Berlin,4,247,0,0,0.08,0.00,0.03,0.0,4,2019
+105,Lukas Rupp,Hoffenheim,2,108,0,0,0.13,0.08,0.11,0.07,4,2019
+106,Alexandru Maxim,Mainz 05,1,31,0,0,0.00,0.02,0.0,0.05,4,2019
+107,Filip Kostic,Eintracht Frankfurt,4,360,0,1,0.89,0.78,0.22,0.19,4,2019
+108,Carlos Gruezo,Augsburg,2,164,0,0,0.00,0.00,0.0,0.0,4,2019
+109,Oliver Baumann,Hoffenheim,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+110,Niklas Süle,Bayern Munich,5,450,0,0,0.53,0.09,0.11,0.02,4,2019
+111,Tobias Strobl,Borussia M.Gladbach,1,7,0,0,0.00,0.00,0.0,0.0,4,2019
+112,Nadiem Amiri,Bayer Leverkusen,4,159,0,0,0.39,0.63,0.22,0.36,4,2019
+113,Mark Uth,Schalke 04,2,99,0,0,0.59,0.10,0.54,0.09,4,2019
+114,Manuel Schmiedebach,Union Berlin,1,67,0,0,0.00,0.00,0.0,0.0,4,2019
+115,Theodor Gebre Selassie,Werder Bremen,5,450,0,0,0.07,0.01,0.01,0.0,4,2019
+116,Philipp Bargfrede,Werder Bremen,1,22,0,0,0.00,0.00,0.0,0.0,4,2019
+117,Florian Grillitsch,Hoffenheim,4,241,0,0,0.20,0.00,0.07,0.0,4,2019
+118,Levin Öztunali,Mainz 05,1,18,0,0,0.03,0.00,0.13,0.0,4,2019
+119,Anthony Ujah,Union Berlin,4,270,0,0,0.34,0.15,0.11,0.05,4,2019
+120,Felix Kroos,Union Berlin,1,5,0,0,0.00,0.00,0.0,0.0,4,2019
+121,Claudio Pizarro,Werder Bremen,5,51,0,0,0.11,0.19,0.19,0.34,4,2019
+122,Maximilian Eggestein,Werder Bremen,4,338,0,0,0.29,0.28,0.08,0.07,4,2019
+123,Timo Horn,FC Cologne,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+124,Dominique Heintz,Freiburg,2,180,0,1,0.03,0.12,0.02,0.06,4,2019
+125,Jonas Hector,FC Cologne,5,450,0,0,0.15,0.35,0.03,0.07,4,2019
+126,Kevin Vogt,Hoffenheim,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+127,Marcel Risse,FC Cologne,1,16,0,0,0.00,0.06,0.0,0.35,4,2019
+128,Yannick Gerhardt,Wolfsburg,4,262,0,0,0.10,0.01,0.03,0.0,4,2019
+129,Josuha Guilavogui,Wolfsburg,5,450,0,0,0.19,0.00,0.04,0.0,4,2019
+130,Daniel Caligiuri,Schalke 04,5,417,0,0,0.48,0.89,0.1,0.19,4,2019
+131,Koen Casteels,Wolfsburg,3,270,0,0,0.00,0.00,0.0,0.0,4,2019
+132,Robin Knoche,Wolfsburg,5,450,0,0,0.00,0.01,0.0,0.0,4,2019
+133,Michael Gregoritsch,Augsburg,4,225,0,0,0.09,0.11,0.03,0.04,4,2019
+134,Jonathan Tah,Bayer Leverkusen,4,360,0,0,0.05,0.03,0.01,0.01,4,2019
+135,Ömer Toprak,Werder Bremen,2,100,0,0,0.28,0.00,0.25,0.0,4,2019
+136,Wendell,Bayer Leverkusen,5,450,0,2,0.11,0.67,0.02,0.13,4,2019
+137,Christoph Kramer,Borussia M.Gladbach,3,100,0,0,0.12,0.28,0.1,0.25,4,2019
+138,Kevin Kampl,RasenBallsport Leipzig,2,144,0,0,0.00,0.52,0.0,0.33,4,2019
+139,Yann Sommer,Borussia M.Gladbach,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+140,Tony Jantschke,Borussia M.Gladbach,2,99,0,0,0.00,0.00,0.0,0.0,4,2019
+141,Mahmoud Dahoud,Borussia Dortmund,1,40,0,0,0.04,0.03,0.09,0.07,4,2019
+142,Oscar Wendt,Borussia M.Gladbach,4,360,0,0,0.00,0.53,0.0,0.13,4,2019
+143,Ibrahima Traoré,Borussia M.Gladbach,1,7,0,0,0.00,0.00,0.0,0.0,4,2019
+144,Raffael,Borussia M.Gladbach,3,35,0,0,0.74,0.07,1.91,0.19,4,2019
+145,Nico Elvedi,Borussia M.Gladbach,5,351,0,0,0.07,0.00,0.02,0.0,4,2019
+146,Thorgan Hazard,Borussia Dortmund,4,274,0,2,0.09,0.97,0.03,0.32,4,2019
+147,Manuel Neuer,Bayern Munich,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+148,Jérôme Boateng,Bayern Munich,2,150,0,0,0.02,0.00,0.01,0.0,4,2019
+149,Joshua Kimmich,Bayern Munich,5,433,0,3,0.06,2.18,0.01,0.45,4,2019
+150,Thomas Müller,Bayern Munich,5,249,0,3,0.48,1.25,0.17,0.45,4,2019
+151,Javi Martínez,Bayern Munich,2,43,0,0,0.00,0.00,0.0,0.0,4,2019
+152,Sebastian Rode,Eintracht Frankfurt,4,233,0,0,0.11,0.11,0.04,0.04,4,2019
+153,Thiago Alcántara,Bayern Munich,3,261,0,0,0.51,0.03,0.18,0.01,4,2019
+154,Mathew Leckie,Hertha Berlin,2,101,0,0,0.00,0.00,0.0,0.0,4,2019
+155,Danny da Costa,Eintracht Frankfurt,3,270,0,1,0.07,0.89,0.02,0.3,4,2019
+156,Benjamin Hübner,Hoffenheim,1,90,0,0,0.01,0.00,0.01,0.0,4,2019
+157,Steven Zuber,Hoffenheim,1,90,0,0,0.13,0.09,0.13,0.09,4,2019
+158,Leonardo Bittencourt,Hoffenheim,3,181,0,0,0.09,0.18,0.04,0.09,4,2019
+159,Marwin Hitz,Werder Bremen,1,90,0,0,0.00,0.00,0.0,0.0,4,2019
+160,Philipp Max,Augsburg,4,358,0,1,0.05,0.98,0.01,0.25,4,2019
+161,Daniel Baier,Augsburg,3,270,0,0,0.02,0.10,0.01,0.03,4,2019
+162,Dominik Kohr,Eintracht Frankfurt,5,351,0,1,0.49,0.25,0.13,0.07,4,2019
+163,Alexander Esswein,Hertha Berlin,1,24,0,0,0.00,0.00,0.0,0.0,4,2019
+164,Lukas Hradecky,Bayer Leverkusen,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+165,Makoto Hasebe,Eintracht Frankfurt,5,450,0,0,0.00,0.08,0.0,0.02,4,2019
+166,David Abraham,Eintracht Frankfurt,4,358,0,0,0.02,0.01,0.0,0.0,4,2019
+167,Bastian Oczipka,Schalke 04,5,450,0,2,0.08,0.58,0.02,0.12,4,2019
+168,Mijat Gacinovic,Eintracht Frankfurt,2,113,0,0,0.61,0.11,0.48,0.09,4,2019
+169,Roman Bürki,Borussia Dortmund,4,360,0,0,0.00,0.00,0.0,0.0,4,2019
+170,Lukasz Piszczek,Borussia Dortmund,3,249,0,1,0.02,0.71,0.01,0.26,4,2019
+171,Sven Bender,Bayer Leverkusen,5,450,0,0,0.37,0.02,0.07,0.0,4,2019
+172,Neven Subotic,Union Berlin,3,270,0,0,0.22,0.56,0.07,0.19,4,2019
+173,Matthias Ginter,Borussia M.Gladbach,5,450,0,0,0.94,0.10,0.19,0.02,4,2019
+174,Fabian Johnson,Borussia M.Gladbach,3,185,0,0,0.00,0.43,0.0,0.21,4,2019
+175,Felix Klaus,Wolfsburg,5,174,0,0,1.32,0.00,0.68,0.0,4,2019
+176,Timothy Chandler,Eintracht Frankfurt,3,107,0,1,0.01,0.38,0.01,0.32,4,2019
+177,Ádám Szalai,Mainz 05,3,181,0,0,0.58,0.18,0.29,0.09,4,2019
+178,Thomas Pledl,Fortuna Duesseldorf,3,47,0,0,0.03,0.12,0.05,0.23,4,2019
+179,Jan Morávek,Augsburg,2,115,0,1,0.02,0.48,0.01,0.37,4,2019
+180,Konstantinos Stafylidis,Hoffenheim,3,251,0,0,0.00,0.20,0.0,0.07,4,2019
+181,Marvin Friedrich,Union Berlin,4,360,0,0,0.09,0.00,0.02,0.0,4,2019
+182,Julian Weigl,Borussia Dortmund,4,245,0,0,0.06,0.03,0.02,0.01,4,2019
+183,Mats Hummels,Borussia Dortmund,5,424,0,0,0.36,0.03,0.08,0.01,4,2019
+184,Markus Suttner,Fortuna Duesseldorf,2,138,0,0,0.03,0.02,0.02,0.01,4,2019
+185,Fabian Reese,Schalke 04,1,15,0,0,0.02,0.00,0.11,0.0,4,2019
+186,Lukas Klünter,Hertha Berlin,4,360,0,0,0.00,0.15,0.0,0.04,4,2019
+187,Martin Harnik,Werder Bremen,2,2,0,0,0.00,0.00,0.0,0.0,4,2019
+188,André Hahn,Augsburg,4,239,0,0,0.14,0.17,0.05,0.06,4,2019
+189,Tin Jedvaj,Augsburg,4,360,0,0,0.20,0.07,0.05,0.02,4,2019
+190,Niklas Stark,Hertha Berlin,5,450,0,0,0.11,0.00,0.02,0.0,4,2019
+191,Maximilian Mittelstädt,Hertha Berlin,4,263,0,0,0.03,0.00,0.01,0.0,4,2019
+192,Patrick Herrmann,Borussia M.Gladbach,2,86,0,0,0.60,0.15,0.63,0.16,4,2019
+193,Lars Bender,Bayer Leverkusen,5,385,0,0,0.13,0.38,0.03,0.09,4,2019
+194,Mario Götze,Borussia Dortmund,2,24,0,0,0.04,0.20,0.14,0.75,4,2019
+195,Marco Höger,FC Cologne,3,145,0,0,0.08,0.10,0.05,0.06,4,2019
+196,Nico Schulz,Borussia Dortmund,2,153,0,0,0.01,0.09,0.01,0.05,4,2019
+197,Andre Hoffmann,Fortuna Duesseldorf,4,360,0,1,0.05,0.49,0.01,0.12,4,2019
+198,Robin Zentner,Mainz 05,2,180,0,0,0.00,0.07,0.0,0.04,4,2019
+199,Matija Nastasic,Schalke 04,3,193,0,0,0.68,0.00,0.32,0.0,4,2019
+200,Reece Oxford,Augsburg,4,93,0,0,0.02,0.00,0.02,0.0,4,2019
+201,Kevin Mbabu,Wolfsburg,1,10,0,0,0.00,0.00,0.0,0.0,4,2019
+202,Serge Gnabry,Bayern Munich,4,302,0,1,0.56,1.10,0.17,0.33,4,2019
+203,Roland Sallai,Freiburg,1,6,0,0,0.00,0.00,0.0,0.0,4,2019
+204,Stephan Lichtsteiner,Augsburg,3,213,0,1,0.01,0.06,0.01,0.03,4,2019
+205,Jonathan de Guzmán,Eintracht Frankfurt,1,12,0,0,0.00,0.00,0.0,0.0,4,2019
+206,Edimilson Fernandes,Mainz 05,5,409,0,0,0.23,0.08,0.05,0.02,4,2019
+207,Ante Rebic,Eintracht Frankfurt,1,90,0,0,0.12,0.23,0.12,0.23,4,2019
+208,Niklas Moisander,Werder Bremen,3,270,0,0,0.23,0.00,0.08,0.0,4,2019
+209,Jorge Meré,FC Cologne,3,154,0,0,0.01,0.02,0.01,0.01,4,2019
+210,Lucas Hernández,Bayern Munich,4,347,0,0,0.01,0.00,0.0,0.0,4,2019
+211,Omar Mascarell,Schalke 04,5,419,0,0,0.17,0.06,0.04,0.01,4,2019
+212,Philipp Lienhart,Freiburg,5,450,0,1,0.02,0.51,0.0,0.1,4,2019
+213,Djibril Sow,Eintracht Frankfurt,3,143,0,1,0.07,0.23,0.04,0.14,4,2019
+214,Matthias Zimmermann,Fortuna Duesseldorf,5,450,0,0,0.08,0.41,0.02,0.08,4,2019
+215,Alessandro Schöpf,Schalke 04,1,1,0,0,0.15,0.00,13.21,0.0,4,2019
+216,Alexander Nübel,Schalke 04,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+217,Erik Durm,Eintracht Frankfurt,2,168,0,0,0.15,0.00,0.08,0.0,4,2019
+218,Nuri Sahin,Werder Bremen,4,360,0,3,0.10,2.04,0.02,0.51,4,2019
+219,Alfred Finnbogason,Augsburg,4,196,0,0,0.87,0.06,0.4,0.03,4,2019
+220,Erik Thommy,Fortuna Duesseldorf,5,346,0,2,0.27,0.38,0.07,0.1,4,2019
+221,Marlon Ritter,Paderborn,1,12,0,0,0.00,0.01,0.0,0.06,4,2019
+222,Marcel Tisserand,Wolfsburg,2,180,0,0,0.00,0.22,0.0,0.11,4,2019
+223,Gelson Fernandes,Eintracht Frankfurt,2,180,0,0,0.00,0.14,0.0,0.07,4,2019
+224,Kevin Trapp,Eintracht Frankfurt,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+225,Benjamin Stambouli,Schalke 04,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+226,Ramy Bensebaini,Borussia M.Gladbach,1,90,0,0,0.00,0.00,0.0,0.0,4,2019
+227,Karim Rekik,Hertha Berlin,3,270,0,0,0.03,0.00,0.01,0.0,4,2019
+228,Almamy Touré,Eintracht Frankfurt,2,87,0,0,0.00,0.11,0.0,0.11,4,2019
+229,Babacar Gueye,Paderborn,2,44,0,0,0.64,0.11,1.3,0.22,4,2019
+230,Ronael Pierre Gabriel,Mainz 05,1,90,0,1,0.00,0.46,0.0,0.46,4,2019
+231,Corentin Tolisso,Bayern Munich,4,294,0,0,0.49,0.30,0.15,0.09,4,2019
+232,Ishak Belfodil,Hoffenheim,5,268,0,0,0.88,0.27,0.3,0.09,4,2019
+233,Mike Frantz,Freiburg,4,159,0,1,0.33,0.18,0.19,0.1,4,2019
+234,Nicolas Höfler,Freiburg,5,450,0,0,0.50,0.10,0.1,0.02,4,2019
+235,Uwe Hünemeier,Paderborn,5,450,0,0,0.23,0.15,0.05,0.03,4,2019
+236,Christian Strohdiek,Paderborn,5,450,0,0,0.13,0.16,0.03,0.03,4,2019
+237,Davie Selke,Hertha Berlin,5,245,0,0,0.74,0.00,0.27,0.0,4,2019
+238,Marcel Sobottka,Fortuna Duesseldorf,1,20,0,0,0.00,0.00,0.0,0.0,4,2019
+239,Raphael Framberger,Augsburg,1,90,0,0,0.00,0.00,0.0,0.0,4,2019
+240,Grischa Prömel,Union Berlin,2,180,0,0,0.14,0.03,0.07,0.02,4,2019
+241,Dedryck Boyata,Hertha Berlin,2,171,0,0,0.00,0.00,0.0,0.0,4,2019
+242,Lewis Baker,Fortuna Duesseldorf,4,311,0,0,0.47,0.20,0.14,0.06,4,2019
+243,Aarón Martín,Mainz 05,5,450,0,0,0.05,0.76,0.01,0.15,4,2019
+244,Aleksandar Dragovic,Bayer Leverkusen,2,134,0,0,0.00,0.00,0.0,0.0,4,2019
+245,Renato Sanches,Bayern Munich,1,2,0,0,0.00,0.00,0.0,0.0,4,2019
+246,Thomas Delaney,Borussia Dortmund,3,230,0,0,0.44,0.00,0.17,0.0,4,2019
+247,Florian Kainz,FC Cologne,5,158,0,0,0.10,0.17,0.06,0.1,4,2019
+248,Jordan Torunarigha,Hertha Berlin,1,90,0,0,0.00,0.04,0.0,0.04,4,2019
+249,Ondrej Duda,Hertha Berlin,5,366,0,1,0.48,0.25,0.12,0.06,4,2019
+250,Péter Gulácsi,RasenBallsport Leipzig,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+251,Dayotchanculle Upamecano,RasenBallsport Leipzig,1,90,0,0,0.00,0.00,0.0,0.0,4,2019
+252,Diego Demme,RasenBallsport Leipzig,5,185,0,0,0.67,0.02,0.33,0.01,4,2019
+253,Rani Khedira,Augsburg,5,450,0,0,0.00,0.02,0.0,0.0,4,2019
+254,László Bénes,Borussia M.Gladbach,5,306,0,2,0.59,1.45,0.17,0.43,4,2019
+255,Georg Teigl,Augsburg,2,101,0,0,0.00,0.00,0.0,0.0,4,2019
+256,Alexander Schwolow,Freiburg,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+257,Lukas Kübler,Freiburg,1,1,0,0,0.00,0.00,0.0,0.0,4,2019
+258,Amir Abrashi,Freiburg,2,22,0,0,0.02,0.00,0.09,0.0,4,2019
+259,Vincenzo Grifo,Freiburg,2,69,0,0,0.10,0.13,0.13,0.17,4,2019
+260,Gerrit Holtmann,Paderborn,3,47,0,0,0.00,0.07,0.0,0.14,4,2019
+261,Kerem Demirbay,Bayer Leverkusen,4,260,0,1,0.23,0.45,0.08,0.16,4,2019
+262,Rafal Gikiewicz,Union Berlin,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+263,Guido Burgstaller,Schalke 04,5,442,0,1,1.71,0.70,0.35,0.14,4,2019
+264,Bernard Tekpetey,Fortuna Duesseldorf,1,42,0,0,0.00,0.00,0.0,0.0,4,2019
+265,Florian Müller,Mainz 05,3,270,0,0,0.00,0.00,0.0,0.0,4,2019
+266,Stefan Posch,Hoffenheim,5,449,0,0,0.20,0.18,0.04,0.04,4,2019
+267,Marco Friedl,Werder Bremen,5,433,0,1,0.02,0.44,0.0,0.09,4,2019
+268,Jacob Bruun Larsen,Borussia Dortmund,3,16,0,1,0.00,0.60,0.0,3.36,4,2019
+269,Lukas Klostermann,RasenBallsport Leipzig,5,409,0,0,0.37,1.56,0.08,0.34,4,2019
+270,Weston McKennie,Schalke 04,5,369,0,0,0.13,0.43,0.03,0.1,4,2019
+271,Ademola Lookman,RasenBallsport Leipzig,1,10,0,0,0.00,0.00,0.0,0.0,4,2019
+272,Nordi Mukiele,RasenBallsport Leipzig,5,325,0,0,0.06,0.35,0.02,0.1,4,2019
+273,Moussa Niakhate,Mainz 05,5,450,0,0,0.21,0.05,0.04,0.01,4,2019
+274,Dennis Geiger,Hoffenheim,5,419,0,2,0.05,1.13,0.01,0.24,4,2019
+275,Jiri Pavlenka,Werder Bremen,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+276,Felix Uduokhai,Augsburg,3,270,0,0,0.00,0.00,0.0,0.0,4,2019
+277,Dan-Axel Zagadou,Borussia Dortmund,1,26,0,0,0.00,0.00,0.0,0.0,4,2019
+278,Konrad Laimer,RasenBallsport Leipzig,5,316,0,0,0.04,0.25,0.01,0.07,4,2019
+279,Daichi Kamada,Eintracht Frankfurt,5,364,0,0,1.31,0.48,0.32,0.12,4,2019
+280,Denis Zakaria,Borussia M.Gladbach,5,450,0,0,0.11,0.24,0.02,0.05,4,2019
+281,Michaël Cuisance,Bayern Munich,2,26,0,0,0.05,0.03,0.18,0.1,4,2019
+282,Dawid Kownacki,Fortuna Duesseldorf,4,267,0,0,0.37,0.04,0.12,0.01,4,2019
+283,William,Wolfsburg,5,440,0,0,0.07,0.16,0.01,0.03,4,2019
+284,Robin Koch,Freiburg,5,450,0,0,0.77,0.32,0.15,0.06,4,2019
+285,Tomas Koubek,Augsburg,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+286,Abdelhamid Sabiri,Paderborn,3,50,0,0,0.12,0.00,0.22,0.0,4,2019
+287,Ibrahima Konaté,RasenBallsport Leipzig,5,450,0,0,0.05,0.04,0.01,0.01,4,2019
+288,Kevin Akpoguma,Hoffenheim,2,14,0,0,0.07,0.00,0.46,0.0,4,2019
+289,Mohamed Dräger,Paderborn,5,438,0,1,0.16,0.71,0.03,0.15,4,2019
+290,Renato Steffen,Wolfsburg,2,105,0,0,0.00,0.05,0.0,0.04,4,2019
+291,Manuel Akanji,Borussia Dortmund,5,450,0,0,0.02,0.29,0.0,0.06,4,2019
+292,Milot Rashica,Werder Bremen,1,67,0,1,0.00,0.17,0.0,0.23,4,2019
+293,Jürgen Locadia,Hoffenheim,2,67,0,0,0.16,0.02,0.22,0.03,4,2019
+294,Lukas Nmecha,Wolfsburg,2,17,0,0,0.00,0.00,0.0,0.0,4,2019
+295,Moussa Diaby,Bayer Leverkusen,2,39,0,0,0.00,0.00,0.0,0.0,4,2019
+296,Bote Baku,Mainz 05,5,230,0,0,0.10,0.12,0.04,0.05,4,2019
+297,Eduard Löwen,Hertha Berlin,2,31,0,0,0.00,0.00,0.0,0.0,4,2019
+298,Kevin Möhwald,Werder Bremen,1,74,0,0,0.06,0.00,0.07,0.0,4,2019
+299,Evan Ndicka,Eintracht Frankfurt,1,90,0,0,0.00,0.00,0.0,0.0,4,2019
+300,Lucas Torró,Eintracht Frankfurt,1,1,0,0,0.00,0.00,0.0,0.0,4,2019
+301,Pavao Pervan,Wolfsburg,2,180,0,0,0.00,0.00,0.0,0.0,4,2019
+302,Jean Zimmer,Fortuna Duesseldorf,3,109,0,0,0.26,0.07,0.21,0.06,4,2019
+303,Benito Raman,Schalke 04,3,192,0,0,0.44,0.13,0.21,0.06,4,2019
+304,Robin Bormuth,Fortuna Duesseldorf,1,90,0,0,0.00,0.00,0.0,0.0,4,2019
+305,Florian Neuhaus,Borussia M.Gladbach,5,412,0,0,0.23,0.94,0.05,0.21,4,2019
+306,Paulinho,Bayer Leverkusen,1,5,0,0,0.00,0.00,0.0,0.0,4,2019
+307,Pierre Kunde,Mainz 05,4,276,0,0,0.14,0.00,0.05,0.0,4,2019
+308,Matheus Cunha,RasenBallsport Leipzig,2,71,0,0,0.11,0.02,0.14,0.03,4,2019
+309,Jonathan Burkardt,Mainz 05,3,64,0,0,0.15,0.00,0.21,0.0,4,2019
+310,Adam Bodzek,Fortuna Duesseldorf,4,291,0,0,0.14,0.04,0.04,0.01,4,2019
+311,Michael Lang,Werder Bremen,3,270,0,0,0.13,0.46,0.04,0.15,4,2019
+312,Fredrik Jensen,Augsburg,1,6,0,0,0.00,0.00,0.0,0.0,4,2019
+313,Oliver Fink,Fortuna Duesseldorf,3,166,0,1,0.08,0.15,0.04,0.08,4,2019
+314,Benjamin Goller,Werder Bremen,2,91,0,0,0.10,0.00,0.1,0.0,4,2019
+315,Ozan Kabak,Schalke 04,1,2,0,0,0.00,0.00,0.0,0.0,4,2019
+316,Keven Schlotterbeck,Union Berlin,3,263,0,0,0.07,0.00,0.02,0.0,4,2019
+317,Christoph Baumgartner,Hoffenheim,2,80,0,0,0.09,0.13,0.1,0.14,4,2019
+318,Nico Schlotterbeck,Freiburg,3,270,0,0,0.16,0.03,0.05,0.01,4,2019
+319,Amadou Haidara,RasenBallsport Leipzig,2,52,0,0,0.25,0.12,0.44,0.2,4,2019
+320,Brandon Borrello,Freiburg,3,217,0,0,0.20,0.02,0.08,0.01,4,2019
+321,Xaver Schlager,Wolfsburg,3,188,0,1,0.16,0.42,0.08,0.2,4,2019
+322,Joao Victor,Wolfsburg,4,231,0,0,0.30,0.05,0.12,0.02,4,2019
+323,Kingsley Ehizibue,FC Cologne,5,380,0,0,0.04,0.11,0.01,0.03,4,2019
+324,Rafael Czichos,FC Cologne,5,450,0,0,0.40,0.11,0.08,0.02,4,2019
+325,Birger Verstraete,FC Cologne,4,356,0,0,0.05,0.30,0.01,0.08,4,2019
+326,Kingsley Schindler,FC Cologne,4,336,0,0,0.03,0.14,0.01,0.04,4,2019
+327,Darko Churlinov,FC Cologne,1,19,0,0,0.00,0.03,0.0,0.13,4,2019
+328,Sebastiaan Bornauw,FC Cologne,4,360,0,0,0.00,0.08,0.0,0.02,4,2019
+329,Matthias Bader,FC Cologne,1,10,0,0,0.00,0.00,0.0,0.0,4,2019
+330,Jamilu Collins,Paderborn,5,450,0,0,0.78,0.24,0.16,0.05,4,2019
+331,Kai Pröger,Paderborn,4,117,0,0,0.00,0.05,0.0,0.04,4,2019
+332,Klaus Gjasula,Paderborn,5,428,0,0,0.08,0.06,0.02,0.01,4,2019
+333,Sebastian Vasiliadis,Paderborn,5,450,0,1,0.36,1.54,0.07,0.31,4,2019
+334,Christopher Antwi-Adjei,Paderborn,5,423,0,0,0.76,0.18,0.16,0.04,4,2019
+335,Marek Suchy,Augsburg,2,131,0,0,0.00,0.00,0.0,0.0,4,2019
+336,Mads Pedersen,Augsburg,2,92,0,1,0.00,0.64,0.0,0.63,4,2019
+337,Taiwo Awoniyi,Mainz 05,2,25,0,0,0.14,0.00,0.5,0.0,4,2019
+338,Christian Groß,Werder Bremen,3,181,0,0,0.03,0.00,0.02,0.0,4,2019
+339,Zack Steffen,Fortuna Duesseldorf,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+340,Jamilu Collins,Paderborn,5,450,0,0,0.78,0.24,0.16,0.05,4,2019
+341,Kai Pröger,Paderborn,4,117,0,0,0.00,0.05,0.0,0.04,4,2019
+342,Klaus Gjasula,Paderborn,5,428,0,0,0.08,0.06,0.02,0.01,4,2019
+343,Sebastian Vasiliadis,Paderborn,5,450,0,1,0.36,1.54,0.07,0.31,4,2019
+344,Christopher Antwi-Adjei,Paderborn,5,423,0,0,0.76,0.18,0.16,0.04,4,2019
+345,Marek Suchy,Augsburg,2,131,0,0,0.00,0.00,0.0,0.0,4,2019
+346,Mads Pedersen,Augsburg,2,92,0,1,0.00,0.64,0.0,0.63,4,2019
+347,Taiwo Awoniyi,Mainz 05,2,25,0,0,0.14,0.00,0.5,0.0,4,2019
+348,Christian Groß,Werder Bremen,3,181,0,0,0.03,0.00,0.02,0.0,4,2019
+349,Zack Steffen,Fortuna Duesseldorf,5,450,0,0,0.00,0.00,0.0,0.0,4,2019
+350,Jamilu Collins,Paderborn,5,450,0,0,0.78,0.24,0.16,0.05,4,2019
+351,Kai Pröger,Paderborn,4,117,0,0,0.00,0.05,0.0,0.04,4,2019
+352,Klaus Gjasula,Paderborn,5,428,0,0,0.08,0.06,0.02,0.01,4,2019
+353,Sebastian Vasiliadis,Paderborn,5,450,0,1,0.36,1.54,0.07,0.31,4,2019
+354,Christopher Antwi-Adjei,Paderborn,5,423,0,0,0.76,0.18,0.16,0.04,4,2019
+355,Marek Suchy,Augsburg,2,131,0,0,0.00,0.00,0.0,0.0,4,2019
+356,Mads Pedersen,Augsburg,2,92,0,1,0.00,0.64,0.0,0.63,4,2019
+357,Taiwo Awoniyi,Mainz 05,2,25,0,0,0.14,0.00,0.5,0.0,4,2019
+358,Christian Groß,Werder Bremen,3,181,0,0,0.03,0.00,0.02,0.0,4,2019
+359,Zack Steffen,Fortuna Duesseldorf,5,450,0,0,0.00,0.00,0.0,0.0,4,2019

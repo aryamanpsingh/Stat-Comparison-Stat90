@@ -1,0 +1,371 @@
+,name,team,apps,mins,goals,assists,xG,xA,xG90,xA90,league,year
+0,Domenico Berardi,Sassuolo,3,257,5,2,1.87,1.17,0.66,0.41,3,2019
+1,Ciro Immobile,Lazio,4,333,4,1,2.65,1.27,0.72,0.34,3,2019
+2,Alfredo Donnarumma,Brescia,5,389,4,0,2.29,0.12,0.53,0.03,3,2019
+3,Romelu Lukaku,Inter,4,338,3,0,3.16,0.39,0.84,0.1,3,2019
+4,Aleksandar Kolarov,Roma,4,360,3,1,1.15,1.05,0.29,0.26,3,2019
+5,Duván Zapata,Atalanta,4,351,3,0,1.72,0.12,0.44,0.03,3,2019
+6,Luis Muriel,Atalanta,4,147,3,0,1.72,0.58,1.05,0.36,3,2019
+7,Edin Dzeko,Roma,4,360,3,1,2.87,0.50,0.72,0.13,3,2019
+8,Dries Mertens,Napoli,3,258,3,0,0.73,0.26,0.26,0.09,3,2019
+9,Lorenzo Insigne,Napoli,4,241,3,3,3.36,0.49,1.25,0.18,3,2019
+10,Francesco Caputo,Sassuolo,4,345,3,1,1.59,0.52,0.42,0.13,3,2019
+11,Christian Kouamé,Genoa,4,360,3,0,1.42,0.35,0.36,0.09,3,2019
+12,Miguel Veloso,Verona,5,450,2,0,0.68,0.29,0.14,0.06,3,2019
+13,Giovanni Simeone,Cagliari,3,214,2,0,0.62,0.00,0.26,0.0,3,2019
+14,Erick Pulgar,Fiorentina,4,360,2,1,1.61,1.02,0.4,0.25,3,2019
+15,Stefano Sensi,Inter,4,326,2,1,0.79,0.73,0.22,0.2,3,2019
+16,Andrea Petagna,SPAL 2013,4,360,2,1,0.91,1.12,0.23,0.28,3,2019
+17,Marcelo Brozovic,Inter,4,360,2,0,0.31,0.38,0.08,0.1,3,2019
+18,Luca Ceppitelli,Cagliari,4,360,2,0,0.34,0.00,0.08,0.0,3,2019
+19,João Pedro,Cagliari,4,360,2,0,1.29,0.13,0.32,0.03,3,2019
+20,Simone Zaza,Torino,3,222,2,0,1.06,0.09,0.43,0.04,3,2019
+21,Fernando Llorente,Napoli,2,111,2,1,1.61,0.15,1.3,0.12,3,2019
+22,Nicola Sansone,Bologna,4,326,2,1,2.62,1.98,0.72,0.55,3,2019
+23,Cristiano Ronaldo,Juventus,4,360,2,1,2.73,0.49,0.68,0.12,3,2019
+24,Domenico Criscito,Genoa,4,360,2,0,1.54,0.03,0.38,0.01,3,2019
+25,Marco Mancosu,Lecce,4,234,2,0,1.52,0.28,0.58,0.11,3,2019
+26,Hakan Calhanoglu,AC Milan,4,312,1,0,0.76,0.13,0.22,0.04,3,2019
+27,Henrikh Mkhitaryan,Roma,2,179,1,0,0.30,0.42,0.15,0.21,3,2019
+28,Franck Ribéry,Fiorentina,4,168,1,0,0.85,0.34,0.45,0.18,3,2019
+29,Aaron Ramsey,Juventus,2,132,1,0,0.43,0.17,0.3,0.11,3,2019
+30,Armando Izzo,Torino,4,360,1,0,0.41,0.06,0.1,0.02,3,2019
+31,Cristian Zapata,Genoa,4,360,1,0,0.31,0.06,0.08,0.02,3,2019
+32,Bryan Cristante,Roma,4,360,1,1,0.60,0.28,0.15,0.07,3,2019
+33,Andrea Belotti,Torino,4,360,1,1,1.39,0.41,0.35,0.1,3,2019
+34,Luis Alberto,Lazio,4,360,1,3,0.97,0.73,0.24,0.18,3,2019
+35,Fabio Quagliarella,Sampdoria,4,354,1,0,1.37,0.14,0.35,0.03,3,2019
+36,Kostas Manolas,Napoli,2,180,1,0,0.35,0.00,0.17,0.0,3,2019
+37,Miralem Pjanic,Juventus,5,352,1,0,0.18,0.15,0.04,0.04,3,2019
+38,Gonzalo Higuaín,Juventus,5,363,1,0,1.13,1.16,0.28,0.29,3,2019
+39,Roberto Inglese,Parma Calcio 1913,4,335,1,0,1.30,0.02,0.35,0.0,3,2019
+40,José Callejón,Napoli,4,285,1,2,0.18,1.58,0.06,0.5,3,2019
+41,Manolo Gabbiadini,Sampdoria,3,175,1,0,0.67,0.90,0.35,0.46,3,2019
+42,Josip Ilicic,Atalanta,3,184,1,0,0.81,1.28,0.4,0.63,3,2019
+43,Federico Di Francesco,SPAL 2013,4,330,1,0,0.70,0.15,0.19,0.04,3,2019
+44,Alfred Duncan,Sassuolo,3,259,1,3,0.49,0.71,0.17,0.25,3,2019
+45,Jasmin Kurtic,SPAL 2013,4,360,1,0,0.98,0.38,0.25,0.1,3,2019
+46,Antonio Candreva,Inter,4,268,1,0,0.15,0.62,0.05,0.21,3,2019
+47,Rodrigo Palacio,Bologna,4,178,1,1,1.08,0.91,0.55,0.46,3,2019
+48,Giorgio Chiellini,Juventus,1,90,1,0,0.53,0.00,0.53,0.0,3,2019
+49,Diego Farias,Lecce,3,170,1,0,0.12,0.08,0.06,0.04,3,2019
+50,Joaquín Correa,Lazio,4,285,1,0,1.32,0.65,0.42,0.2,3,2019
+51,Roberto Soriano,Bologna,4,360,1,0,2.55,0.33,0.64,0.08,3,2019
+52,Kevin-Prince Boateng,Fiorentina,4,139,1,0,0.40,0.00,0.26,0.0,3,2019
+53,Rômulo,Brescia,4,282,1,2,0.34,0.88,0.11,0.28,3,2019
+54,Riccardo Gagliolo,Genoa,3,270,1,0,0.18,0.07,0.06,0.02,3,2019
+55,Kevin Lasagna,Parma Calcio 1913,5,428,1,0,1.48,0.19,0.31,0.04,3,2019
+56,Gervinho,Udinese,4,345,1,1,0.60,0.74,0.16,0.19,3,2019
+57,Danilo,Parma Calcio 1913,4,249,1,0,0.59,0.00,0.21,0.0,3,2019
+58,Fabián,Juventus,4,360,1,0,0.32,0.12,0.08,0.03,3,2019
+59,Kevin Bonifazi,Napoli,3,251,1,0,0.13,0.03,0.04,0.01,3,2019
+60,Andrea Pinamonti,Genoa,3,267,1,0,0.73,0.02,0.25,0.01,3,2019
+61,Alex Berenguer,Torino,3,138,1,0,0.25,0.18,0.16,0.11,3,2019
+62,Robin Gosens,Atalanta,4,347,1,0,0.55,0.08,0.14,0.02,3,2019
+63,Timothy Castagne,Atalanta,1,90,1,0,0.08,0.08,0.08,0.08,3,2019
+64,Riccardo Orsolini,Bologna,4,360,1,2,1.61,2.81,0.4,0.7,3,2019
+65,Cengiz Ünder,Roma,2,158,1,0,0.63,0.60,0.36,0.34,3,2019
+66,Nikola Milenkovic,Fiorentina,4,360,1,0,0.24,0.00,0.06,0.0,3,2019
+67,Adam Marusic,Lazio,2,113,1,0,0.53,0.04,0.42,0.03,3,2019
+68,Mattia Bani,Bologna,2,147,1,0,0.40,0.04,0.24,0.03,3,2019
+69,Rodrigo Becão,Udinese,5,450,1,0,0.16,0.07,0.03,0.01,3,2019
+70,Justin Kluivert,Roma,4,297,1,0,0.74,0.05,0.22,0.01,3,2019
+71,Giovanni Di Lorenzo,Napoli,3,270,1,1,0.59,0.22,0.2,0.07,3,2019
+72,Hamed Junior Traore,Sassuolo,4,248,1,0,1.30,0.22,0.47,0.08,3,2019
+73,Antonino Barillà,Parma Calcio 1913,4,358,1,0,0.61,0.05,0.15,0.01,3,2019
+74,Lautaro Martínez,Inter,4,259,1,0,1.61,0.49,0.56,0.17,3,2019
+75,Matteo Pessina,Verona,4,158,1,0,0.52,0.02,0.29,0.01,3,2019
+76,Krzysztof Piatek,AC Milan,4,298,1,0,2.64,0.26,0.8,0.08,3,2019
+77,Stefano Denswil,Bologna,4,360,1,0,0.17,0.00,0.04,0.0,3,2019
+78,Andrea Cistana,Brescia,5,450,1,0,0.10,0.14,0.02,0.03,3,2019
+79,Hirving Lozano,Napoli,3,124,1,0,0.57,0.00,0.41,0.0,3,2019
+80,Jeremy Toljan,Sassuolo,3,201,0,0,0.00,0.21,0.0,0.1,3,2019
+81,Ragnar Klavan,Cagliari,3,199,0,0,0.00,0.13,0.0,0.06,3,2019
+82,Ricardo Rodríguez,AC Milan,4,344,0,0,0.00,0.06,0.0,0.02,3,2019
+83,Douglas Costa,Juventus,3,171,0,2,0.14,1.33,0.07,0.7,3,2019
+84,Albin Ekdal,Sampdoria,4,360,0,0,0.85,0.14,0.21,0.03,3,2019
+85,Lucas Leiva,Lazio,3,239,0,0,0.13,0.11,0.05,0.04,3,2019
+86,Alexis Sánchez,Inter,1,7,0,0,0.64,0.00,8.25,0.0,3,2019
+87,David Ospina,Napoli,1,90,0,0,0.00,0.00,0.0,0.0,3,2019
+88,Pedro Obiang,Sassuolo,4,360,0,0,0.38,0.41,0.09,0.1,3,2019
+89,Matteo Darmian,Parma Calcio 1913,2,180,0,1,0.01,0.36,0.01,0.18,3,2019
+90,Emre Can,Juventus,1,27,0,0,0.00,0.01,0.0,0.05,3,2019
+91,Jordan Veretout,Roma,2,180,0,0,0.00,0.05,0.0,0.02,3,2019
+92,Ola Aina,Torino,4,285,0,0,0.02,0.10,0.01,0.03,3,2019
+93,Fabio Borini,AC Milan,2,73,0,0,0.09,0.00,0.11,0.0,3,2019
+94,Gastón Ramírez,Sampdoria,1,63,0,0,0.00,0.00,0.0,0.0,3,2019
+95,Federico Fazio,Roma,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+96,Juan Cuadrado,Juventus,4,203,0,0,0.08,0.19,0.04,0.09,3,2019
+97,Tomás Rincón,Torino,4,360,0,0,0.10,0.13,0.03,0.03,3,2019
+98,Diego Laxalt,Torino,3,40,0,0,0.00,0.00,0.0,0.0,3,2019
+99,Leonardo Pavoletti,Cagliari,1,44,0,0,0.07,0.00,0.15,0.0,3,2019
+100,Darko Lazovic,Verona,5,446,0,0,0.82,0.13,0.16,0.03,3,2019
+101,Davide Biraschi,Genoa,1,90,0,0,0.00,0.00,0.0,0.0,3,2019
+102,Goran Pandev,Genoa,4,24,0,0,0.00,0.02,0.0,0.09,3,2019
+103,Gianluigi Donnarumma,AC Milan,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+104,Andrea Poli,Bologna,4,277,0,0,0.09,0.30,0.03,0.1,3,2019
+105,Alessio Romagnoli,AC Milan,4,360,0,0,0.21,0.43,0.05,0.11,3,2019
+106,Mattia De Sciglio,Juventus,2,104,0,0,0.00,0.00,0.0,0.0,3,2019
+107,Manuel Locatelli,Sassuolo,4,235,0,0,0.17,0.55,0.06,0.21,3,2019
+108,Juraj Kucka,Parma Calcio 1913,1,24,0,0,0.00,0.00,0.0,0.0,3,2019
+109,Suso,AC Milan,4,360,0,1,0.34,0.86,0.09,0.22,3,2019
+110,Gabriel,Lecce,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+111,Mario Pasalic,Atalanta,4,303,0,1,0.86,0.51,0.25,0.15,3,2019
+112,Gianluca Lapadula,Lecce,4,269,0,0,0.71,0.03,0.24,0.01,3,2019
+113,Danilo,Bologna,2,180,0,0,0.00,0.00,0.0,0.0,3,2019
+114,Felipe,SPAL 2013,4,194,0,0,0.00,0.01,0.0,0.01,3,2019
+115,Samir,Udinese,4,360,0,0,0.00,0.17,0.0,0.04,3,2019
+116,Seko Fofana,Udinese,5,358,0,0,0.28,0.26,0.07,0.06,3,2019
+117,Rodrigo de Paul,Udinese,3,139,0,1,0.66,0.38,0.43,0.24,3,2019
+118,Jakub Jankto,Sampdoria,2,78,0,0,0.15,0.11,0.18,0.12,3,2019
+119,Gastón Brugman,Parma Calcio 1913,3,235,0,0,0.02,0.06,0.01,0.02,3,2019
+120,Gianluca Caprari,Sampdoria,4,171,0,0,0.13,0.10,0.07,0.05,3,2019
+121,Davide Zappacosta,Roma,1,8,0,0,0.56,0.00,6.34,0.0,3,2019
+122,Luca Rossettini,Lecce,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+123,Antonio Barreca,Genoa,3,243,0,0,0.00,0.31,0.0,0.11,3,2019
+124,Daniele Baselli,Torino,4,326,0,2,0.00,0.27,0.0,0.07,3,2019
+125,Marco Benassi,Fiorentina,1,15,0,0,0.00,0.00,0.0,0.0,3,2019
+126,Mirko Valdifiori,SPAL 2013,1,25,0,0,0.00,0.00,0.0,0.0,3,2019
+127,Lorenzo De Silvestri,Torino,4,352,0,0,0.91,0.19,0.23,0.05,3,2019
+128,Patric,Lazio,1,55,0,0,0.00,0.00,0.0,0.0,3,2019
+129,Senad Lulic,Lazio,4,344,0,0,0.20,0.37,0.05,0.1,3,2019
+130,Danilo Cataldi,Lazio,1,11,0,0,0.00,0.00,0.0,0.0,3,2019
+131,Marco Parolo,Lazio,4,214,0,0,0.20,0.00,0.08,0.0,3,2019
+132,Alessandro Murgia,SPAL 2013,3,205,0,0,0.60,0.57,0.26,0.25,3,2019
+133,Thomas Strakosha,Lazio,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+134,Jacopo Sala,SPAL 2013,2,74,0,0,0.04,0.04,0.05,0.04,3,2019
+135,Milan Skriniar,Inter,4,360,0,0,0.00,0.07,0.0,0.02,3,2019
+136,Vasco Regini,Sampdoria,1,68,0,0,0.00,0.15,0.0,0.2,3,2019
+137,Edgar Barreto,Sampdoria,1,42,0,0,0.00,0.00,0.0,0.0,3,2019
+138,Karol Linetty,Sampdoria,3,171,0,0,0.08,0.11,0.04,0.06,3,2019
+139,Filip Djuricic,Sassuolo,1,4,0,0,0.00,0.00,0.0,0.0,3,2019
+140,Luca Cigarini,Cagliari,3,148,0,1,0.06,0.51,0.03,0.31,3,2019
+141,Wojciech Szczesny,Juventus,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+142,Juan Jesus,Roma,2,71,0,0,0.00,0.00,0.0,0.0,3,2019
+143,Radja Nainggolan,Cagliari,2,178,0,0,0.08,0.17,0.04,0.09,3,2019
+144,Alessandro Florenzi,Roma,4,321,0,0,0.08,0.41,0.02,0.11,3,2019
+145,Thiago Cionek,SPAL 2013,4,360,0,0,0.09,0.04,0.02,0.01,3,2019
+146,Ilija Nestorovski,Udinese,3,89,0,0,0.24,0.00,0.25,0.0,3,2019
+147,Mato Jajalo,Udinese,5,434,0,0,0.14,0.12,0.03,0.03,3,2019
+148,Andrea Rispoli,Lecce,4,262,0,0,0.06,0.03,0.02,0.01,3,2019
+149,Giuseppe Pezzella,Parma Calcio 1913,4,206,0,0,0.00,0.01,0.0,0.01,3,2019
+150,Gianluigi Buffon,Juventus,1,90,0,0,0.00,0.03,0.0,0.03,3,2019
+151,Leonardo Bonucci,Juventus,5,450,0,0,0.07,0.09,0.01,0.02,3,2019
+152,Alex Sandro,Juventus,5,450,0,1,0.02,0.82,0.0,0.16,3,2019
+153,Sami Khedira,Juventus,5,338,0,0,0.72,0.22,0.19,0.06,3,2019
+154,Paulo Dybala,Juventus,3,165,0,0,0.37,0.24,0.2,0.13,3,2019
+155,Emil Audero,Sampdoria,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+156,Lukasz Skorupski,Bologna,4,360,0,0,0.00,0.02,0.0,0.01,3,2019
+157,Vincent Laurini,Parma Calcio 1913,2,163,0,0,0.00,0.05,0.0,0.03,3,2019
+158,Riccardo Saponara,Genoa,2,92,0,0,0.19,0.00,0.19,0.0,3,2019
+159,Fabrizio Cacciatore,Cagliari,2,180,0,0,0.00,0.00,0.0,0.0,3,2019
+160,Lucas Castro,Cagliari,4,204,0,0,0.16,0.16,0.07,0.07,3,2019
+161,Valter Birsa,Cagliari,2,74,0,0,0.11,0.00,0.13,0.0,3,2019
+162,Ivan Radovanovic,Genoa,4,343,0,0,0.66,0.18,0.17,0.05,3,2019
+163,Gianmarco Ferrari,Sassuolo,4,360,0,0,0.47,0.42,0.12,0.1,3,2019
+164,Bruno Martella,Brescia,3,121,0,0,0.15,0.12,0.11,0.09,3,2019
+165,Federico Ceccherini,Fiorentina,1,4,0,0,0.00,0.00,0.0,0.0,3,2019
+166,Elseid Hysaj,Napoli,1,4,0,0,0.00,0.00,0.0,0.0,3,2019
+167,Kalidou Koulibaly,Napoli,4,360,0,0,0.08,0.09,0.02,0.02,3,2019
+168,Nikola Maksimovic,Napoli,2,180,0,0,0.00,0.00,0.0,0.0,3,2019
+169,Allan,Napoli,2,151,0,0,0.02,0.08,0.01,0.05,3,2019
+170,Amadou Diawara,Roma,1,1,0,0,0.00,0.00,0.0,0.0,3,2019
+171,Piotr Zielinski,Napoli,4,360,0,1,0.23,0.60,0.06,0.15,3,2019
+172,Faouzi Ghoulam,Napoli,3,156,0,0,0.11,0.58,0.06,0.33,3,2019
+173,Marko Rog,Cagliari,3,186,0,0,0.03,0.01,0.01,0.01,3,2019
+174,Luigi Sepe,Parma Calcio 1913,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+175,Vlad Chiriches,Sassuolo,2,180,0,0,0.05,0.00,0.02,0.0,3,2019
+176,Fabio Pisacane,Cagliari,3,239,0,0,0.18,0.00,0.07,0.0,3,2019
+177,Bruno Alves,Parma Calcio 1913,4,360,0,0,0.09,0.00,0.02,0.0,3,2019
+178,Nicola Murru,Sampdoria,4,360,0,0,0.00,0.32,0.0,0.08,3,2019
+179,Panagiotis Tachtsidis,Lecce,4,317,0,0,0.15,0.07,0.04,0.02,3,2019
+180,Nicolò Barella,Inter,4,175,0,2,0.07,0.53,0.04,0.28,3,2019
+181,Rafael,Cagliari,1,90,0,0,0.00,0.00,0.0,0.0,3,2019
+182,Daniele Dessena,Brescia,4,322,0,0,0.10,0.00,0.03,0.0,3,2019
+183,Matías Vecino,Inter,3,155,0,1,0.11,0.13,0.06,0.08,3,2019
+184,Federico Bernardeschi,Juventus,3,106,0,0,0.18,0.00,0.15,0.0,3,2019
+185,Milan Badelj,Fiorentina,4,317,0,0,0.10,0.10,0.03,0.03,3,2019
+186,Sebastien De Maio,Udinese,2,180,0,0,0.11,0.00,0.06,0.0,3,2019
+187,Federico Chiesa,Fiorentina,4,349,0,1,0.89,0.81,0.23,0.21,3,2019
+188,Khouma Babacar,Lecce,1,25,0,0,0.31,0.05,1.11,0.17,3,2019
+189,Nenad Tomovic,SPAL 2013,4,191,0,1,0.04,0.09,0.02,0.04,3,2019
+190,Blerim Dzemaili,Bologna,3,79,0,0,0.07,0.11,0.08,0.13,3,2019
+191,Simone Verdi,Torino,2,36,0,0,0.04,0.10,0.1,0.26,3,2019
+192,Sergio Floccari,SPAL 2013,3,42,0,0,0.10,0.02,0.21,0.05,3,2019
+193,Ladislav Krejci,Bologna,1,42,0,0,0.00,0.00,0.0,0.0,3,2019
+194,Alex Ferrari,Sampdoria,3,195,0,0,0.15,0.00,0.07,0.0,3,2019
+195,Andrea Consigli,Sassuolo,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+196,Pol Lirola,Fiorentina,4,360,0,0,0.02,0.21,0.0,0.05,3,2019
+197,Francesco Acerbi,Lazio,4,342,0,0,0.17,0.00,0.05,0.0,3,2019
+198,Federico Peluso,Sassuolo,4,295,0,0,0.00,0.02,0.0,0.01,3,2019
+199,Francesco Magnanelli,Sassuolo,1,24,0,0,0.04,0.00,0.13,0.0,3,2019
+200,Gregoire Defrel,Sassuolo,2,172,0,1,0.12,0.47,0.06,0.25,3,2019
+201,Lorenzo Pellegrini,Roma,4,358,0,4,0.44,2.03,0.11,0.51,3,2019
+202,Alessandro Matri,Brescia,3,27,0,0,0.18,0.07,0.6,0.24,3,2019
+203,Matteo Politano,Inter,4,116,0,0,0.43,0.65,0.33,0.51,3,2019
+204,Cristian Dell'Orco,Lecce,1,84,0,0,0.00,0.10,0.0,0.1,3,2019
+205,Luca Mazzitelli,Sassuolo,1,9,0,0,0.00,0.00,0.0,0.0,3,2019
+206,Etrit Berisha,SPAL 2013,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+207,Rafael Toloi,Atalanta,3,189,0,0,0.03,0.03,0.02,0.01,3,2019
+208,Andrea Masiello,Atalanta,4,294,0,0,0.00,0.07,0.0,0.02,3,2019
+209,Andrea Conti,AC Milan,1,90,0,0,0.00,0.00,0.0,0.0,3,2019
+210,Remo Freuler,Atalanta,2,145,0,0,0.08,0.44,0.05,0.27,3,2019
+211,Franck Kessié,AC Milan,4,296,0,0,0.38,0.62,0.11,0.19,3,2019
+212,Alejandro Gomez,Atalanta,4,279,0,3,0.91,0.72,0.29,0.23,3,2019
+213,Roberto Gagliardini,Inter,2,58,0,0,0.17,0.00,0.26,0.0,3,2019
+214,Leonardo Spinazzola,Roma,2,31,0,0,0.00,0.11,0.0,0.31,3,2019
+215,Marco D'Alessandro,SPAL 2013,4,267,0,0,0.01,0.51,0.0,0.17,3,2019
+216,Alberto Grassi,Parma Calcio 1913,2,76,0,0,0.04,0.02,0.04,0.02,3,2019
+217,Samir Handanovic,Inter,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+218,Jeison Murillo,Sampdoria,4,289,0,0,0.05,0.03,0.02,0.01,3,2019
+219,Davide Santon,Roma,1,10,0,0,0.00,0.00,0.0,0.0,3,2019
+220,Gary Medel,Bologna,3,262,0,0,0.01,0.31,0.0,0.11,3,2019
+221,Cristian Ansaldi,Torino,1,49,0,1,0.00,1.31,0.0,2.4,3,2019
+222,Andrea Ranocchia,Inter,2,180,0,0,0.01,0.00,0.01,0.0,3,2019
+223,Danilo D'Ambrosio,Inter,3,270,0,0,0.67,0.14,0.22,0.05,3,2019
+224,Sasa Lukic,Torino,2,101,0,0,0.00,0.03,0.0,0.02,3,2019
+225,Stefan de Vrij,Inter,2,180,0,0,0.00,0.00,0.0,0.0,3,2019
+226,Stefan Radu,Lazio,4,360,0,0,0.02,0.31,0.0,0.08,3,2019
+227,Sergej Milinkovic-Savic,Lazio,4,256,0,1,0.38,1.24,0.13,0.44,3,2019
+228,Bartlomiej Dragowski,Fiorentina,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+229,Valerio Verre,Verona,5,232,0,0,0.29,0.10,0.11,0.04,3,2019
+230,Davide Calabria,AC Milan,3,270,0,0,0.05,0.22,0.02,0.07,3,2019
+231,Daniele Gastaldello,Brescia,2,17,0,0,0.00,0.00,0.0,0.0,3,2019
+232,Mattia Destro,Bologna,3,165,0,0,0.54,0.90,0.29,0.49,3,2019
+233,Arkadiusz Milik,Napoli,1,74,0,0,0.19,0.00,0.23,0.0,3,2019
+234,Kwadwo Asamoah,Inter,4,360,0,1,0.15,0.14,0.04,0.04,3,2019
+235,Lucas Biglia,AC Milan,2,180,0,0,0.04,0.02,0.02,0.01,3,2019
+236,Bastos,Lazio,1,51,0,0,0.00,0.00,0.0,0.0,3,2019
+237,Simone Missiroli,SPAL 2013,4,360,0,0,0.00,0.22,0.0,0.05,3,2019
+238,Artur Ionita,Cagliari,4,271,0,1,0.23,0.44,0.08,0.14,3,2019
+239,Fabio Depaoli,Sampdoria,2,99,0,0,0.12,0.31,0.1,0.28,3,2019
+240,Sebastiano Luperto,Napoli,1,2,0,0,0.00,0.05,0.0,2.06,3,2019
+241,Marko Pajac,Genoa,2,100,0,0,0.00,0.39,0.0,0.35,3,2019
+242,Marten de Roon,Atalanta,4,301,0,1,0.13,0.21,0.04,0.06,3,2019
+243,Stefano Okaka,Udinese,2,42,0,0,0.00,0.00,0.0,0.0,3,2019
+244,Mário Rui,Napoli,3,204,0,1,0.05,0.42,0.02,0.19,3,2019
+245,Mario Balotelli,Brescia,1,90,0,0,0.25,0.00,0.25,0.0,3,2019
+246,Ionut Radu,Genoa,4,360,0,1,0.00,0.07,0.0,0.02,3,2019
+247,Pierluigi Gollini,Atalanta,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+248,Luca Siligardi,Parma Calcio 1913,1,30,0,0,0.00,0.00,0.0,0.0,3,2019
+249,Giampaolo Pazzini,Verona,1,5,0,0,0.00,0.00,0.0,0.0,3,2019
+250,Ante Rebic,AC Milan,2,49,0,0,0.00,0.26,0.0,0.48,3,2019
+251,Alex Meret,Napoli,3,270,0,0,0.00,0.00,0.0,0.0,3,2019
+252,Stefano Sabelli,Brescia,5,450,0,0,0.07,0.64,0.01,0.13,3,2019
+253,Berat Gjimshiti,Atalanta,4,360,0,0,0.08,0.02,0.02,0.01,3,2019
+254,Martín Cáceres,Fiorentina,2,180,0,0,0.00,0.05,0.0,0.03,3,2019
+255,Mattia Zaccagni,Verona,5,321,0,1,0.46,0.81,0.13,0.23,3,2019
+256,Filippo Falco,Lecce,4,336,0,0,0.27,0.79,0.07,0.21,3,2019
+257,Andrea Favilli,Genoa,1,78,0,0,0.39,0.00,0.45,0.0,3,2019
+258,Federico Bonazzoli,Sampdoria,1,12,0,0,0.02,0.07,0.13,0.49,3,2019
+259,Paolo Ghiglione,Genoa,3,248,0,2,0.14,0.59,0.05,0.22,3,2019
+260,Pau López,Roma,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+261,Felipe Caicedo,Lazio,2,102,0,0,0.27,0.13,0.24,0.11,3,2019
+262,Germán Pezzella,Fiorentina,4,356,0,0,1.47,0.32,0.37,0.08,3,2019
+263,Jony,Lazio,2,16,0,0,0.00,0.00,0.0,0.0,3,2019
+264,Antonio Sanabria,Genoa,2,13,0,1,0.00,0.06,0.0,0.4,3,2019
+265,Diego Godín,Inter,3,188,0,1,0.01,0.13,0.01,0.06,3,2019
+266,Samu Castillejo,AC Milan,2,160,0,0,0.06,0.13,0.04,0.07,3,2019
+267,Mateo Musacchio,AC Milan,4,360,0,0,0.00,0.16,0.0,0.04,3,2019
+268,Theo Hernández,AC Milan,1,16,0,0,0.26,0.00,1.45,0.0,3,2019
+269,Salvatore Bocchetti,Verona,2,85,0,0,0.00,0.00,0.0,0.0,3,2019
+270,Adrien Rabiot,Juventus,2,114,0,0,0.67,0.06,0.53,0.05,3,2019
+271,Javier Pastore,Roma,3,36,0,0,0.64,0.00,1.59,0.0,3,2019
+272,Blaise Matuidi,Juventus,5,368,0,0,0.14,0.24,0.03,0.06,3,2019
+273,Salvatore Sirigu,Torino,4,360,0,0,0.00,0.00,0.0,0.0,3,2019
+274,Jeremie Boga,Sassuolo,3,111,0,0,0.29,0.08,0.23,0.07,3,2019
+275,Koffi Djidji,Torino,3,199,0,0,0.00,0.00,0.0,0.0,3,2019
+276,Kevin Malcuit,Napoli,1,90,0,0,0.00,0.14,0.0,0.14,3,2019
+277,Soualiho Meité,Torino,4,257,0,1,0.03,0.23,0.01,0.08,3,2019
+278,Rolando Mandragora,Udinese,4,243,0,0,0.22,0.58,0.08,0.22,3,2019
+279,Andrea Tabanelli,Lecce,2,180,0,0,0.16,0.03,0.08,0.02,3,2019
+280,Mattia Valoti,SPAL 2013,2,130,0,0,0.73,0.00,0.5,0.0,3,2019
+281,Marco Faraoni,Verona,5,450,0,0,0.14,0.17,0.03,0.03,3,2019
+282,José Luis Palomino,Atalanta,2,180,0,0,0.00,0.02,0.0,0.01,3,2019
+283,Alberto Cerri,Cagliari,2,95,0,0,0.16,0.01,0.15,0.01,3,2019
+284,Bartosz Bereszynski,Sampdoria,4,360,0,0,0.05,0.05,0.01,0.01,3,2019
+285,Hans Hateboer,Atalanta,3,270,0,1,0.38,0.50,0.13,0.17,3,2019
+286,Luca Pellegrini,Cagliari,3,246,0,0,0.03,0.04,0.01,0.01,3,2019
+287,Marlon Santos,Sassuolo,3,270,0,0,0.00,0.12,0.0,0.04,3,2019
+288,Walace,Udinese,3,191,0,0,0.09,0.01,0.04,0.01,3,2019
+289,Hernani,Parma Calcio 1913,4,360,0,0,0.18,0.24,0.04,0.06,3,2019
+290,Dalbert,Fiorentina,3,206,0,0,0.38,0.09,0.17,0.04,3,2019
+291,Yann Karamoh,Parma Calcio 1913,2,17,0,0,0.00,0.00,0.0,0.0,3,2019
+292,Mariusz Stepinski,Verona,2,82,0,0,0.43,0.00,0.47,0.0,3,2019
+293,Zan Majer,Lecce,4,353,0,0,0.10,0.53,0.03,0.14,3,2019
+294,Lukas Lerager,Genoa,4,285,0,0,0.37,0.95,0.12,0.3,3,2019
+295,Rodrigo Bentancur,Juventus,2,98,0,0,0.00,0.00,0.0,0.0,3,2019
+296,Marco Silvestri,Verona,5,450,0,0,0.00,0.00,0.0,0.0,3,2019
+297,Andreas Cornelius,Parma Calcio 1913,3,25,0,0,0.15,0.03,0.55,0.1,3,2019
+298,Gianluca Mancini,Roma,4,287,0,0,0.00,0.02,0.0,0.01,3,2019
+299,André Silva,AC Milan,1,62,0,0,0.16,0.00,0.23,0.0,3,2019
+300,Luiz Felipe,Lazio,3,219,0,0,0.00,0.06,0.0,0.02,3,2019
+301,Francesco Vicari,SPAL 2013,4,360,0,0,0.02,0.02,0.01,0.0,3,2019
+302,Manuel Lazzari,Lazio,3,247,0,0,0.25,0.21,0.09,0.08,3,2019
+303,Lorenzo Venuti,Fiorentina,2,92,0,0,0.00,0.00,0.0,0.0,3,2019
+304,Fabio Lucioni,Lecce,4,360,0,0,0.38,0.00,0.1,0.0,3,2019
+305,Antonin Barak,Udinese,3,109,0,0,0.09,0.10,0.07,0.08,3,2019
+306,Mehdi Leris,Sampdoria,3,92,0,0,0.02,0.15,0.02,0.15,3,2019
+307,Lyanco,Torino,1,90,0,0,0.00,0.00,0.0,0.0,3,2019
+308,Jens Stryger Larsen,Udinese,5,440,0,0,0.02,0.63,0.0,0.13,3,2019
+309,Emiliano Rigoni,Sampdoria,2,171,0,0,1.11,0.15,0.58,0.08,3,2019
+310,Rogerio,Sassuolo,1,49,0,0,0.00,0.00,0.0,0.0,3,2019
+311,Marash Kumbulla,Verona,4,350,0,0,0.03,0.00,0.01,0.0,3,2019
+312,Charalampos Lykogiannis,Cagliari,2,114,0,0,0.00,0.00,0.0,0.0,3,2019
+313,Jawad El Yamiq,Genoa,1,12,0,0,0.00,0.00,0.0,0.0,3,2019
+314,Guilherme Arana,Atalanta,2,13,0,0,0.00,0.00,0.0,0.0,3,2019
+315,Jhon Chancellor,Brescia,5,450,0,0,0.06,0.00,0.01,0.0,3,2019
+316,Riccardo Sottil,Fiorentina,2,154,0,0,0.14,0.05,0.08,0.03,3,2019
+317,Nicolo Zaniolo,Roma,4,221,0,0,0.22,0.61,0.09,0.25,3,2019
+318,Dejan Kulusevski,Parma Calcio 1913,4,330,0,2,0.07,1.07,0.02,0.29,3,2019
+319,Luca Ranieri,Fiorentina,1,90,0,0,0.03,0.15,0.03,0.15,3,2019
+320,Kingsley Michael,Bologna,1,79,0,0,0.00,0.13,0.0,0.15,3,2019
+321,Ken Sema,Udinese,5,348,0,0,0.05,0.22,0.01,0.06,3,2019
+322,Bremer,Torino,2,174,0,0,0.01,0.00,0.01,0.0,3,2019
+323,Robin Olsen,Cagliari,3,270,0,0,0.00,0.00,0.0,0.0,3,2019
+324,Mitchell Dijks,Bologna,4,318,0,0,0.00,0.49,0.0,0.14,3,2019
+325,Federico Santander,Bologna,4,107,0,0,1.24,0.36,1.04,0.31,3,2019
+326,Ismael Bennacer,AC Milan,2,100,0,0,0.00,0.04,0.0,0.03,3,2019
+327,Simone Iacoponi,Parma Calcio 1913,4,353,0,0,0.05,0.00,0.01,0.0,3,2019
+328,Mattia Sprocati,Parma Calcio 1913,2,18,0,0,0.01,0.00,0.06,0.0,3,2019
+329,William Troost-Ekong,Udinese,3,270,0,0,0.06,0.00,0.02,0.0,3,2019
+330,Ignacio Pussetto,Udinese,4,169,0,0,0.21,0.14,0.11,0.07,3,2019
+331,Lukasz Teodorczyk,Udinese,1,10,0,0,0.19,0.00,1.73,0.0,3,2019
+332,Nicholas Opoku,Udinese,2,99,0,0,0.05,0.02,0.04,0.01,3,2019
+333,Mehdi Bourabia,Sassuolo,1,90,0,0,0.07,0.06,0.07,0.06,3,2019
+334,Arkadiusz Reca,SPAL 2013,1,69,0,0,0.00,0.00,0.0,0.0,3,2019
+335,Dusan Vlahovic,Fiorentina,3,90,0,0,0.20,0.00,0.2,0.0,3,2019
+336,Koray Günter,Verona,5,361,0,0,0.00,0.03,0.0,0.01,3,2019
+337,Juan Musso,Udinese,5,450,0,0,0.00,0.00,0.0,0.0,3,2019
+338,Omar Colley,Sampdoria,3,270,0,0,0.10,0.00,0.03,0.0,3,2019
+339,Ronaldo Vieira,Sampdoria,3,225,0,0,0.54,0.14,0.22,0.05,3,2019
+340,Rafael Leão,AC Milan,2,96,0,0,0.00,0.57,0.0,0.53,3,2019
+341,Cristian Romero,Genoa,3,270,0,1,0.14,0.11,0.05,0.04,3,2019
+342,Amin Younes,Napoli,1,8,0,0,0.06,0.57,0.63,6.42,3,2019
+343,Lucas Paquetá,AC Milan,4,174,0,0,0.13,0.00,0.07,0.0,3,2019
+344,Merih Demiral,Juventus,1,90,0,0,0.00,0.00,0.0,0.0,3,2019
+345,Christian Oliva,Cagliari,1,34,0,0,0.00,0.00,0.0,0.0,3,2019
+346,Giacomo Raspadori,Sassuolo,1,6,0,0,0.07,0.05,1.07,0.78,3,2019
+347,Matthijs de Ligt,Juventus,3,270,0,0,0.01,0.00,0.0,0.0,3,2019
+348,Gaetano Castrovilli,Fiorentina,4,360,0,1,0.32,0.36,0.08,0.09,3,2019
+349,Szymon Zurkowski,Fiorentina,1,1,0,0,0.00,0.00,0.0,0.0,3,2019
+350,Eljif Elmas,Napoli,4,182,0,0,0.29,0.11,0.15,0.06,3,2019
+351,Pawel Dawidowicz,Verona,2,102,0,0,0.00,0.00,0.0,0.0,3,2019
+352,Amir Rrahmani,Verona,5,439,0,0,0.53,0.41,0.11,0.08,3,2019
+353,Liam Henderson,Verona,2,166,0,0,0.05,0.37,0.03,0.2,3,2019
+354,Gennaro Tutino,Verona,4,178,0,0,0.05,0.00,0.02,0.0,3,2019
+355,Sofyan Amrabat,Verona,5,394,0,0,0.07,0.42,0.02,0.09,3,2019
+356,Takehiro Tomiyasu,Bologna,4,360,0,0,0.53,0.11,0.13,0.03,3,2019
+357,Andreas Skov Olsen,Bologna,1,1,0,0,0.00,0.00,0.0,0.0,3,2019
+358,Lasse Schöne,Genoa,4,360,0,0,0.50,0.89,0.12,0.22,3,2019
+359,Denis Vavro,Lazio,2,53,0,0,0.00,0.00,0.0,0.0,3,2019
+360,Igor Julio,SPAL 2013,2,162,0,1,0.02,0.79,0.01,0.44,3,2019
+361,Gabriel Strefezza,SPAL 2013,2,111,0,0,0.13,0.08,0.1,0.07,3,2019
+362,Ruslan Malinovskiy,Atalanta,3,147,0,0,0.08,0.70,0.05,0.43,3,2019
+363,Mert Müldür,Sassuolo,3,125,0,0,0.00,0.19,0.0,0.14,3,2019
+364,Simone Pinna,Cagliari,1,90,0,0,0.00,0.07,0.0,0.07,3,2019
+365,Nahitan Nández,Cagliari,4,360,0,1,0.06,1.03,0.01,0.26,3,2019
+366,Daniele Ragatzu,Cagliari,1,4,0,0,0.00,0.13,0.0,2.86,3,2019
+367,Jesse Joronen,Brescia,5,450,0,0,0.00,0.00,0.0,0.0,3,2019
+368,Dimitri Bisoli,Brescia,5,450,0,0,0.77,0.34,0.15,0.07,3,2019
+369,Sandro Tonali,Brescia,5,443,0,1,0.09,0.41,0.02,0.08,3,2019

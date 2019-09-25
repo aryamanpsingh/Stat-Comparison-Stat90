@@ -14,18 +14,6 @@ csvInfo = [
         'year': 2018,
         'league': 1
     }
-    ''',
-    {
-        'name': "laliga2019.csv",
-        'year': 2019,
-        'league': 2
-    },
-    {
-        'name': "laliga2018.csv",
-        'year': 2018,
-        'league': 2
-    }
-    '''
 ]
 for season in csvInfo:
     try:
@@ -97,3 +85,16 @@ for season in csvInfo:
         'league': 5
     }
 '''
+
+''',
+    {
+        'name': "laliga2019.csv",
+        'year': 2019,
+        'league': 2
+    },
+    {
+        'name': "laliga2018.csv",
+        'year': 2018,
+        'league': 2
+    }
+    '''

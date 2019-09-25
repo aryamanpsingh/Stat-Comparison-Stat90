@@ -13,7 +13,8 @@ csvInfo = [
         'name': "premierleague2018.csv",
         'year': 2018,
         'league': 1
-    },
+    }
+    ''',
     {
         'name': "laliga2019.csv",
         'year': 2019,
@@ -24,6 +25,7 @@ csvInfo = [
         'year': 2018,
         'league': 2
     }
+    '''
 ]
 for season in csvInfo:
     try:
@@ -32,12 +34,14 @@ for season in csvInfo:
     except:
         Player.objects.filter(
             league=season["league"], year=season["Year"]).delete()
+        '''
     with open(season["name"]) as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
             p = Player(name=row['name'], team=row['team'], apps=row['apps'], mins=row['mins'], goals=row['goals'], assists=row['assists'],
                        xG=row['xG'], xA=row['xA'], xG90=row['xG90'], xA90=row['xG90'], year=row['year'], league=row['league'])
             p.save()
+            '''
 '''
     {
         'name': "premierleague2019.csv",

@@ -57,8 +57,13 @@ csvInfo = [
 
 ]
 for season in csvInfo:
-    Player.objects.filter(
-        league=season["league"], year=season["year"]).delete()
+    try:
+        Player.objects.filter(
+            league=season["league"], year=season["year"]).delete()
+    except:
+        Player.objects.filter(
+            league=season["league"], year=season["Year"]).delete()
+
     with open(season["name"]) as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:

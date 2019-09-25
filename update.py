@@ -4,6 +4,7 @@ from graphdata.models import Player
 
 # Serie A
 csvInfo = [
+    '''
     {
         'name': "premierleague2019.csv",
         'year': 2019,
@@ -24,6 +25,7 @@ csvInfo = [
         'year': 2018,
         'league': 2
     },
+    '''
     {
         'name': "serieA2019.csv",
         'year': 2019,

@@ -217,28 +217,40 @@ export class index extends Component {
     currentPlayers = playerArray;
     let color1 = "rgba(105,17,62,0.9)";
 
-    const clubs = [...new Set(currentPlayers.map(player => player.team))];
-    console.log(clubs);
+    const clubNames = [...new Set(currentPlayers.map(player => player.team))];
+    console.log(clubNames);
 
     let teams = [new Array(47)];
 
-    clubs.forEach(function(team, i) {
+    clubNames.forEach(function(team, i) {
       teams.push(
         currentPlayers.filter(function(player) {
           return player.team.toLowerCase() == team.toLowerCase();
         })
       );
     });
-    if (clubs.length > 5) {
+    console.log(currentPlayers);
+    let comparisonElements = Array.from(currentPlayers);
+    if (clubNames.length > 5) {
       if (teams[1].length > 1)
         for (var i = 1; i < teams.length; i++)
           teams[i] = this.sumTeam(teams[i]);
     }
+    console.log(currentPlayers);
+
     teams.shift();
+    console.log(teams);
+    teams.forEach(function(team, i) {
+      comparisonElements.push(team);
+    });
+    console.log(currentPlayers);
+
+    console.log(comparisonElements);
     let elements;
     if (this.state.view == "club") {
       elements = teams;
     } else elements = currentPlayers;
+    console.log(currentPlayers);
     /*
     if (this.state.league == 1) {
       let prem = currentPlayers.filter(function(player) {
@@ -302,7 +314,7 @@ export class index extends Component {
                 }}
               >
                 <Compare
-                  players={elements}
+                  players={comparisonElements}
                   className={classes.compare}
                   type={this.state.view}
                 />

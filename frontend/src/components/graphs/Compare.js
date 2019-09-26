@@ -12,6 +12,8 @@ import CardContent from "@material-ui/core/CardContent";
 import ShowChartIcon from "@material-ui/icons/ShowChart";
 import Paper from "@material-ui/core/Paper";
 import { Input } from "@material-ui/core";
+import AddIcon from "@material-ui/icons/Add";
+import { palette } from "@material-ui/system";
 
 const style = {
   background: "white",
@@ -21,6 +23,15 @@ const style = {
 const chart = {
   justifyContent: "center",
   margin: "auto"
+};
+const chartDiv = {
+  position: "absolute",
+  top: "50%",
+  left: "50%",
+  marginTop: "-150px",
+  marginLeft: "-300px",
+  width: "600px",
+  height: "600px"
 };
 const AutoComplete = {
   marginTop: "30px",
@@ -64,8 +75,12 @@ const options = {
     reverse: false,
     ticks: {
       step: 0.3,
-      beginAtZero: true
+      beginAtZero: true,
+      display: false
     }
+  },
+  gridLines: {
+    display: false
   },
 
   responsive: true,
@@ -153,6 +168,25 @@ export class Compare extends Component {
   };
 
   handleSubmit = e => {
+    let name = new Array(this.state.player.length).fill("");
+    let player = new Array(this.state.player.length).fill(0);
+    let players = this.props.players;
+    let statePlayer = this.state.player;
+    name.forEach(function(value, key) {
+      name[key] = statePlayer[key].name;
+      console.log(statePlayer[key].name);
+    });
+    console.log(name[1]);
+
+    player.forEach(function(value, key) {
+      console.log(player[key]);
+      player[key] = players.filter(function(player) {
+        return player.name.toLowerCase().includes(name[key].toLowerCase());
+      });
+      player[key] = player[key][0];
+      name[key] = player[key].name;
+    });
+    /*
     let name1 = this.state.player[0].name;
     let name2 = this.state.player[1].name;
     var player1 = this.props.players.filter(function(player) {
@@ -165,19 +199,57 @@ export class Compare extends Component {
     player2 = player2[0];
     name1 = player1.name;
     name2 = player2.name;
-    console.log(player1);
+    */
+    console.log(player[0]);
     let array1 = [];
     let array2 = [];
+
+    let array = new Array(player.length).fill("");
+    array.forEach(function(value, key) {
+      array[key] = [];
+    });
+
+    player.forEach(function(value, key) {
+      console.log(value);
+      for (let [name, content] of Object.entries(player[key])) {
+        if (["goals", "assists", "xA", "xG"].includes(name))
+          array[key].push(content);
+      }
+    });
+    console.log(array[0]);
+    /*
+
     for (let [key, value] of Object.entries(player1)) {
       if (["goals", "assists", "xA", "xG"].includes(key)) array1.push(value);
     }
     for (let [key, value] of Object.entries(player2)) {
       if (["goals", "assists", "xA", "xG"].includes(key)) array2.push(value);
     }
-    this.createChart(array1, array2, name1, name2);
+    this.createChart(array1, array2, name1, name2);*/
+    this.createChart(array, name);
   };
 
-  createChart = (array1, array2, name1, name2) => {
+  createChart = (array, name) => {
+    let colors = [
+      "rgba(191, 63, 63, 0.2)",
+      "rgba(47, 12, 170, 0.2)",
+      "rgba(12, 153, 9, 0.2)",
+      "rgba(247, 155, 7, 0.2)",
+      "rgba(246, 113, 249, 0.2)",
+      "rgba(102, 220, 249, 0.2)"
+    ];
+    let data = new Array(array.length).fill(0);
+    data.forEach(function(value, key) {
+      data[key] = {
+        label: name[key],
+        data: array[key],
+        backgroundColor: colors[key],
+        borderColor: colors[key],
+        borderWidth: 5
+      };
+      console.log(data[key]);
+    });
+    /*
     let data1 = {
       label: name1,
       data: array1,
@@ -188,7 +260,8 @@ export class Compare extends Component {
       data: array2,
       backgroundColor: "rgba(71,107,28,0.5)"
     };
-    let dataset = [data1, data2];
+    */
+    let dataset = data;
     console.log(dataset);
     this.setState({
       data: {
@@ -240,6 +313,26 @@ export class Compare extends Component {
       });
     }
   };
+  addField = e => {
+    e.preventDefault();
+    var newIndex = Object.keys(this.state.suggestions).length;
+    let suggestions = this.state.suggestions;
+    suggestions[newIndex] = [];
+    console.log(suggestions);
+    this.setState(prevState => ({
+      player: [
+        ...prevState.player,
+        {
+          name: "",
+          goals: "",
+          assists: "",
+          xapg: "",
+          xgpg: ""
+        }
+      ],
+      suggestions: suggestions
+    }));
+  };
 
   render() {
     let suggestions = this.state.suggestions;
@@ -249,79 +342,52 @@ export class Compare extends Component {
     return (
       <Fragment>
         <Typography variant="h5" gutterBottom>
-          compare any 2 {this.props.type}s.
+          Compare teams/players.
         </Typography>
         <form autoComplete="off">
-          <div className="AutoComplete" style={AutoComplete}>
-            <input
-              type="text"
-              style={AutoComplete.input}
-              id="name"
-              label="Name"
-              className="name"
-              value={this.state.player[0].name}
-              onChange={this.handleChange(0)}
-              onKeyDown={this.handleKeyDown(0, suggestions)}
-            />
-            {this.state.suggestions[0].length > 0 && (
-              <ul style={AutoComplete.ul}>
-                {this.state.suggestions[0].map((item, key) => (
-                  <li
-                    style={
-                      this.state.cursor[0] === key
-                        ? AutoComplete.liCurrent
-                        : AutoComplete.li
-                    }
-                    key={key}
-                    value={item.name}
-                    onClick={this.setValue(0, item.name)}
-                  >
-                    {item.name}
-                  </li>
-                ))}
-              </ul>
-            )}
-          </div>
-
-          <div className="AutoComplete" style={AutoComplete}>
-            <input
-              type="text"
-              style={AutoComplete.input}
-              id="name"
-              label="Name"
-              className="name"
-              value={this.state.player[1].name}
-              onChange={this.handleChange(1)}
-              onKeyDown={this.handleKeyDown(1, suggestions)}
-            />
-            {this.state.suggestions[1].length > 0 && (
-              <ul style={AutoComplete.ul}>
-                {this.state.suggestions[1].map((item, key) => (
-                  <li
-                    style={
-                      this.state.cursor[1] === key
-                        ? AutoComplete.liCurrent
-                        : AutoComplete.li
-                    }
-                    key={key}
-                    value={item.name}
-                    onClick={this.setValue(1, item.name)}
-                  >
-                    {item.name}
-                  </li>
-                ))}
-              </ul>
-            )}
-          </div>
+          {this.state.player.map((item, playerKey) => (
+            <div className="AutoComplete" style={AutoComplete}>
+              <input
+                type="text"
+                style={AutoComplete.input}
+                id="name"
+                label="Name"
+                className="name"
+                value={this.state.player[playerKey].name}
+                onChange={this.handleChange(playerKey)}
+                onKeyDown={this.handleKeyDown(playerKey, suggestions)}
+              />
+              {this.state.suggestions[playerKey].length > 0 && (
+                <ul style={AutoComplete.ul}>
+                  {this.state.suggestions[playerKey].map((item, key) => (
+                    <li
+                      style={
+                        this.state.cursor[playerKey] === key
+                          ? AutoComplete.liCurrent
+                          : AutoComplete.li
+                      }
+                      key={key}
+                      value={item.name}
+                      onClick={this.setValue(playerKey, item.name)}
+                    >
+                      {item.name}
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </div>
+          ))}
         </form>
         <Button
           variant="contained"
           color="primary"
           className="submit"
-          onClick={this.handleSubmit}
+          onClick={this.addField}
           fullWidth={true}
           style={{ marginTop: "20px" }}
-        ></Button>
+        >
+          <AddIcon />
+        </Button>
 
         <Button
           variant="contained"
@@ -335,22 +401,16 @@ export class Compare extends Component {
         </Button>
 
         {this.state.showChart == true && (
-          <div ref={node => (this.node = node)}>
+          <div ref={node => (this.node = node)} style={chartDiv}>
             <Paper
               style={{
-                marginTop: "-50px",
-                backgroundColor: "rgba(0,0,0,0.4)",
-                position: "absolute",
-                alignItems: "center",
-                left: "33%",
-                marginLeft: "50px",
-                top: "50%"
+                backgroundColor: "rgba(0,0,0,1)"
               }}
               elevation={5}
             >
               <Radar
-                height={450}
-                width={500}
+                height={500}
+                width={550}
                 data={this.state.data}
                 options={options}
                 style={chart}

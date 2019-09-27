@@ -7,14 +7,14 @@ import { CssBaseline } from "@material-ui/core";
 const theme = createMuiTheme({
   palette: {
     primary: {
-      main: "rgba(0,0,0, 0.2)"
+      main: "#341426"
     },
     secondary: {
       main: "rgba(255, 171, 145, 0.1)"
     },
     type: "dark",
     background: {
-      default: "rgb(33, 27, 56)"
+      default: "#503238"
     }
   }
 });

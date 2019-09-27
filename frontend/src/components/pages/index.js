@@ -17,7 +17,7 @@ import Grid from "@material-ui/core/Grid";
 import Container from "@material-ui/core/Container";
 import Compare from "../graphs/Compare";
 import Typography from "@material-ui/core/Typography";
-import { Paper } from "@material-ui/core";
+import { Paper, Hidden } from "@material-ui/core";
 import Header from "../layout/header";
 import SwitchTab from "../tools/SwitchTab";
 import SettingsIcon from "@material-ui/icons/Settings";
@@ -26,7 +26,7 @@ import InputColor from "react-input-color";
 
 const styles = theme => ({
   container: {
-    backgroundColor: "rgb(33, 27, 56)",
+    backgroundColor: "#4C243B",
     padding: "0 0 0 0"
   },
   list: {
@@ -44,6 +44,9 @@ const styles = theme => ({
   },
   paper: {
     backgroundColor: "rgba(0,0,0, 0.2)"
+  },
+  gridItem: {
+    alignItems: "center"
   }
 });
 
@@ -64,7 +67,7 @@ export class index extends Component {
     league: [1, 2, 3, 4, 5],
     right: false,
     view: "player",
-    color: "#ffab9199"
+    color: "#905D3A"
   };
   tabChange = (event, newValue) => {
     if (newValue != "settings")
@@ -108,7 +111,8 @@ export class index extends Component {
     });
   };
   render() {
-    console.log(this.state.league);
+    const smallScreen = window.innerWidth < 960;
+    console.log(smallScreen);
     const { classes } = this.props;
     const toggleDrawer = (side, open) => event => {
       if (
@@ -265,7 +269,7 @@ export class index extends Component {
     }*/
     return (
       <Fragment>
-        <Header switchView={this.switchView} />
+        <Header switchView={this.switchView} toggleDrawer={toggleDrawer} />
         <Container className={classes.container}>
           <Paper elevation={3} className={classes.container}>
             <Drawer
@@ -282,7 +286,7 @@ export class index extends Component {
               color={this.state.color}
             />
             <Grid container>
-              <Grid item xs={4} style={{ textAlign: "center" }}>
+              <Hidden item sm smDown className={classes.gridItem}>
                 <Paper className={classes.paper}>
                   <Graph
                     className={classes.graph}
@@ -302,16 +306,18 @@ export class index extends Component {
                     type={this.state.view}
                   />
                 </Paper>
-              </Grid>
+              </Hidden>
 
               <Grid
                 item
-                xs={4}
+                md
+                xs={12}
                 style={{
                   marginTop: "50px",
                   textAlign: "center",
                   padding: "30px"
                 }}
+                className={classes.gridItem}
               >
                 <Compare
                   players={comparisonElements}
@@ -320,7 +326,7 @@ export class index extends Component {
                 />
               </Grid>
 
-              <Grid item xs={4} style={{ textAlign: "center" }}>
+              <Hidden item sm smDown className={classes.gridItem}>
                 <Paper className={classes.paper}>
                   <Graph
                     className={classes.graph}
@@ -341,7 +347,7 @@ export class index extends Component {
                     type={this.state.view}
                   />
                 </Paper>
-              </Grid>
+              </Hidden>
             </Grid>
           </Paper>
         </Container>

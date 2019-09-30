@@ -72,9 +72,7 @@ const options = {
     fontColor: "white"
   },
   scale: {
-    reverse: false,
     ticks: {
-      step: 0.3,
       beginAtZero: true,
       display: false
     }
@@ -82,12 +80,23 @@ const options = {
   gridLines: {
     display: false
   },
+  tooltips: {
+    enabled: true,
+    callbacks: {
+      label: function(tooltipItem, data) {
+        return (
+          data.datasets[tooltipItem.datasetIndex].label +
+          " : " +
+          data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index]
+        );
+      }
+    }
+  },
 
   responsive: true,
   pointDot: false,
   showTooltips: true,
   maintainAspectRatio: false,
-  scaleOverride: true,
   scaleSteps: 2,
   scaleStepWidth: 0.5,
   scaleStartValue: 0
@@ -404,9 +413,9 @@ export class Compare extends Component {
           <div ref={node => (this.node = node)} style={chartDiv}>
             <Paper
               style={{
-                backgroundColor: "rgba(0,0,0,1)"
+                backgroundColor: "rgb(236,226,208)"
               }}
-              elevation={5}
+              elevation={9}
             >
               <Radar
                 height={500}

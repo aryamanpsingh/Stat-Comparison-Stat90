@@ -2,6 +2,7 @@ import React, { Component, Fragment } from "react";
 import Graph from "../graphs/Graph";
 import { connect } from "react-redux";
 import PropTypes from "prop-types";
+import Footer from "../layout/footer";
 
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
@@ -67,7 +68,9 @@ export class index extends Component {
     league: [1, 2, 3, 4, 5],
     right: false,
     view: "player",
-    color: "#905D3A"
+    color: "#905D3A",
+    showDetailedView: false,
+    currentGraph: ""
   };
   tabChange = (event, newValue) => {
     if (newValue != "settings")
@@ -108,6 +111,13 @@ export class index extends Component {
   setColor = event => {
     this.setState({
       color: event.hex
+    });
+  };
+  showDetailedView = graphType => {
+    let currentView = !this.state.showDetailedView;
+    this.setState({
+      showDetailedView: currentView,
+      currentGraph: graphType
     });
   };
   render() {
@@ -295,6 +305,7 @@ export class index extends Component {
                     color={this.state.color}
                     players={elements}
                     type={this.state.view}
+                    showDetailedView={this.showDetailedView}
                   />
                   <Graph
                     className={classes.graph}
@@ -304,6 +315,7 @@ export class index extends Component {
                     year={this.state.year}
                     players={elements}
                     type={this.state.view}
+                    showDetailedView={this.showDetailedView}
                   />
                 </Paper>
               </Hidden>
@@ -336,6 +348,7 @@ export class index extends Component {
                     year={this.state.year}
                     players={elements}
                     type={this.state.view}
+                    showDetailedView={this.showDetailedView}
                   />
                   <Graph
                     className={classes.graph}
@@ -345,12 +358,47 @@ export class index extends Component {
                     year={this.state.year}
                     players={elements}
                     type={this.state.view}
+                    showDetailedView={this.showDetailedView}
                   />
                 </Paper>
               </Hidden>
             </Grid>
           </Paper>
+          {this.state.showDetailedView == true && (
+            <div
+              ref={node => (this.node = node)}
+              style={{
+                position: "absolute",
+                top: "50%",
+                left: "50%",
+                marginTop: "-350px",
+                marginLeft: "-350px",
+                width: "700px",
+                height: "800px"
+              }}
+            >
+              <Paper
+                style={{
+                  backgroundColor: "#341426",
+                  padding: "10px"
+                }}
+                elevation={5}
+              >
+                <Graph
+                  className={classes.graph}
+                  length={30}
+                  attribute={this.state.currentGraph}
+                  color={this.state.color}
+                  players={elements}
+                  type={this.state.view}
+                  height={700}
+                  width={600}
+                />
+              </Paper>
+            </div>
+          )}
         </Container>
+        <Footer />
       </Fragment>
     );
   }

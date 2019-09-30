@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component, Fragment } from "react";
 import store from "../../store";
 import PropTypes from "prop-types";
 import { connect } from "react-redux";
@@ -17,6 +17,9 @@ export class Graph extends Component {
     let length = this.props.length;
     let attribute = this.props.attribute;
     let players = this.props.players;
+    let height, width;
+    this.props.height ? (height = this.props.height) : (height = 350);
+    this.props.width ? (width = this.props.width) : (width = 400);
 
     let color = this.props.color;
     console.log(color);
@@ -50,55 +53,58 @@ export class Graph extends Component {
     };
     console.log(data);
     return (
-      <div style={{ textAlign: "center" }}>
-        <HorizontalBar
-          data={data}
-          height={350}
-          width={400}
-          options={{
-            layout: {
-              padding: {
-                left: 50,
-                right: 0,
-                top: 0,
-                bottom: 0
-              }
-            },
-            scales: {
-              xAxes: [
-                {
-                  ticks: {
-                    beginAtZero: true,
-                    stepSize: 1
-                  }
+      <Fragment>
+        <div style={{ textAlign: "center" }}>
+          <HorizontalBar
+            onElementsClick={() => this.props.showDetailedView(attribute)}
+            data={data}
+            height={height}
+            width={width}
+            options={{
+              layout: {
+                padding: {
+                  left: 50,
+                  right: 0,
+                  top: 0,
+                  bottom: 0
                 }
-              ],
-              yAxes: [
-                {
-                  ticks: {
-                    display: true,
-                    fontColor: "white"
+              },
+              scales: {
+                xAxes: [
+                  {
+                    ticks: {
+                      beginAtZero: true,
+                      stepSize: 1
+                    }
                   }
-                }
-              ]
-            },
-            title: {
-              display: true,
-              text: attribute[0].toUpperCase() + attribute.slice(1),
-              fontSize: 18,
-              fontColor: "white"
-            },
-            legend: {
-              display: false,
-              position: "bottom",
-              fontColor: "white"
-            },
-            responsive: false,
-            maintainAspectRatio: true,
-            scaleShowLabels: false
-          }}
-        />
-      </div>
+                ],
+                yAxes: [
+                  {
+                    ticks: {
+                      display: true,
+                      fontColor: "white"
+                    }
+                  }
+                ]
+              },
+              title: {
+                display: true,
+                text: attribute[0].toUpperCase() + attribute.slice(1),
+                fontSize: 18,
+                fontColor: "white"
+              },
+              legend: {
+                display: false,
+                position: "bottom",
+                fontColor: "white"
+              },
+              responsive: false,
+              maintainAspectRatio: true,
+              scaleShowLabels: false
+            }}
+          />
+        </div>
+      </Fragment>
     );
   }
 }

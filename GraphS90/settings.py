@@ -89,7 +89,7 @@ DATABASES = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'myDB',
+        'NAME': 'mydb',
         'USER': 'arya',
         'PASSWORD': 'supgithub',
         'HOST': 'localhost',

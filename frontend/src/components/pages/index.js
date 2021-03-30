@@ -24,6 +24,7 @@ import SwitchTab from "../tools/SwitchTab";
 import SettingsIcon from "@material-ui/icons/Settings";
 import withRoot from "../../withRoot";
 import InputColor from "react-input-color";
+import domtoimage from "dom-to-image";
 
 const styles = theme => ({
   container: {
@@ -57,6 +58,10 @@ const heading = {
 };
 
 export class index extends Component {
+  constructor(props) {
+    super(props);
+    this.myRef = React.createRef();
+  }
   static propTypes = {
     players: PropTypes.array.isRequired,
     players2018: PropTypes.array.isRequired,
@@ -121,6 +126,7 @@ export class index extends Component {
     });
   };
   render() {
+    const node = this.myRef.current;
     const smallScreen = window.innerWidth < 960;
     console.log(smallScreen);
     const { classes } = this.props;
@@ -331,11 +337,13 @@ export class index extends Component {
                 }}
                 className={classes.gridItem}
               >
-                <Compare
-                  players={comparisonElements}
-                  className={classes.compare}
-                  type={this.state.view}
-                />
+                <div ref={this.myRef}>
+                  <Compare
+                    players={comparisonElements}
+                    className={classes.compare}
+                    type={this.state.view}
+                  />
+                </div>
               </Grid>
 
               <Hidden item sm smDown className={classes.gridItem}>
@@ -393,6 +401,7 @@ export class index extends Component {
                   type={this.state.view}
                   height={700}
                   width={600}
+                  id="last"
                 />
               </Paper>
             </div>

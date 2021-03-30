@@ -25,7 +25,7 @@ SECRET_KEY = '0rpwwflx1fv&o2+hlt@*8h@-cd=@+p#m$b5rl8kmatue)0zq9p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['graph.stat90.com']
+ALLOWED_HOSTS = ['143.110.225.43']
 
 
 # Application definition
@@ -85,12 +85,13 @@ DATABASES = {
     }
 }
 '''
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'graphdata',
+        'NAME': 'myDB',
         'USER': 'arya',
-        'PASSWORD': 'graphdatakey786',
+        'PASSWORD': 'supgithub',
         'HOST': 'localhost',
         'PORT': '',
     }

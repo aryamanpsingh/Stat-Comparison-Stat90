@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 import { connect } from "react-redux";
 import update from "immutability-helper";
 import Button from "@material-ui/core/Button";
-import { Radar } from "react-chartjs-2";
+import { Radar, Doughnut } from "react-chartjs-2";
 import { FormControl, Typography } from "@material-ui/core";
 import Card from "@material-ui/core/Card";
 import CardActions from "@material-ui/core/CardActions";
@@ -14,6 +14,31 @@ import Paper from "@material-ui/core/Paper";
 import { Input } from "@material-ui/core";
 import AddIcon from "@material-ui/icons/Add";
 import { palette } from "@material-ui/system";
+import Grid from "@material-ui/core/Grid";
+import Container from "@material-ui/core/Container";
+
+var originalDoughnutDraw = Chart.controllers.doughnut.prototype.draw;
+Chart.helpers.extend(Chart.controllers.doughnut.prototype, {
+  draw: function() {
+    originalDoughnutDraw.apply(this, arguments);
+
+    var chart = this.chart.chart;
+    var ctx = chart.ctx;
+    var width = chart.width;
+    var height = chart.height;
+
+    var fontSize = (height / 114).toFixed(2);
+    ctx.font = fontSize + "em Verdana";
+    ctx.textBaseline = "middle";
+    ctx.fillStyle = "white";
+
+    var text = chart.config.data.text,
+      textX = Math.round((width - ctx.measureText(text).width) / 2),
+      textY = height / 2;
+
+    ctx.fillText(text, textX, textY);
+  }
+});
 
 const style = {
   background: "white",
@@ -24,11 +49,14 @@ const chart = {
   justifyContent: "center",
   margin: "auto"
 };
+const doughnut = {
+  marginTop: "15px"
+};
 const chartDiv = {
   position: "absolute",
   top: "50%",
   left: "50%",
-  marginTop: "-150px",
+  marginTop: "-400px",
   marginLeft: "-300px",
   width: "600px",
   height: "600px"
@@ -62,16 +90,42 @@ const AutoComplete = {
   }
 };
 
+const doughnutOptions = {
+  animation: true,
+  animationEasing: "easeInOutQuart",
+  animationSteps: 80,
+  title: {
+    text: "Comparison",
+    fontColor: "black"
+  },
+  legend: {
+    display: false
+  },
+  responsive: true
+};
+
 const options = {
+  chartArea: { backgroundColor: "red" },
   legend: {
     position: "top",
-    fontColor: "white"
+    fontColor: "black"
   },
   title: {
     text: "Comparison",
-    fontColor: "white"
+    fontColor: "black"
   },
   scale: {
+    angleLines: {
+      display: true,
+      lineWidth: 0.5,
+      color: "rgba(128, 128, 128, 0.2)"
+    },
+    pointLabels: {
+      fontSize: 14,
+      fontStyle: "300",
+      fontColor: "rgba(204, 204, 204, 1)",
+      fontFamily: "'Lato', sans-serif"
+    },
     ticks: {
       beginAtZero: true,
       display: false
@@ -258,6 +312,22 @@ export class Compare extends Component {
       };
       console.log(data[key]);
     });
+    let bgcolors = new Array(array.length).fill(0);
+    let goalData = new Array(array.length).fill(0);
+    let assistData = new Array(array.length).fill(0);
+    let xgData = new Array(array.length).fill(0);
+    let xaData = new Array(array.length).fill(0);
+
+    goalData.forEach(function(value, key) {
+      goalData[key] = array[key][0];
+      assistData[key] = array[key][1];
+      xgData[key] = array[key][1];
+      xaData[key] = array[key][1];
+
+      bgcolors[key] = colors[key];
+
+      console.log(goalData[key]);
+    });
     /*
     let data1 = {
       label: name1,
@@ -270,9 +340,45 @@ export class Compare extends Component {
       backgroundColor: "rgba(71,107,28,0.5)"
     };
     */
+    goalData = {
+      data: goalData,
+      backgroundColor: bgcolors
+    };
+    assistData = {
+      data: assistData,
+      backgroundColor: bgcolors
+    };
+    xgData = {
+      data: xgData,
+      backgroundColor: bgcolors
+    };
+    xaData = {
+      data: xaData,
+      backgroundColor: bgcolors
+    };
     let dataset = data;
-    console.log(dataset);
+    console.log(goalData);
     this.setState({
+      goalData: {
+        datasets: [goalData],
+        labels: name,
+        text: "Goals"
+      },
+      assistData: {
+        datasets: [assistData],
+        labels: name,
+        text: "Assists"
+      },
+      xgData: {
+        datasets: [xgData],
+        labels: name,
+        text: "xG"
+      },
+      xaData: {
+        datasets: [xaData],
+        labels: name,
+        text: "xA"
+      },
       data: {
         datasets: dataset,
         labels: ["Goals", "Assists", "xG", "xA"]
@@ -413,18 +519,52 @@ export class Compare extends Component {
           <div ref={node => (this.node = node)} style={chartDiv}>
             <Paper
               style={{
-                backgroundColor: "rgb(236,226,208)"
+                backgroundColor: "#2e2c26"
               }}
               elevation={9}
             >
-              <Radar
-                height={500}
-                width={550}
-                data={this.state.data}
-                options={options}
-                style={chart}
-                onClose={this.closeChart}
-              />
+              <Grid container>
+                <Grid item sm style={doughnut}>
+                  <Doughnut
+                    height={150}
+                    data={this.state.goalData}
+                    options={doughnutOptions}
+                  />
+                </Grid>
+                <Grid item sm style={doughnut}>
+                  <Doughnut
+                    height={150}
+                    data={this.state.assistData}
+                    options={doughnutOptions}
+                  />
+                </Grid>
+              </Grid>
+              <Grid container>
+                <Radar
+                  height={500}
+                  width={550}
+                  data={this.state.data}
+                  options={options}
+                  style={chart}
+                  onClose={this.closeChart}
+                />
+              </Grid>
+              <Grid container>
+                <Grid item sm style={doughnut}>
+                  <Doughnut
+                    height={150}
+                    data={this.state.xgData}
+                    options={doughnutOptions}
+                  />
+                </Grid>
+                <Grid item sm style={doughnut}>
+                  <Doughnut
+                    height={150}
+                    data={this.state.xaData}
+                    options={doughnutOptions}
+                  />
+                </Grid>
+              </Grid>
             </Paper>
           </div>
         )}

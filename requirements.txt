@@ -4,7 +4,7 @@ certifi==2019.6.16
 cffi>=1.12.3
 chardet==3.0.4
 cryptography==2.7
-Django==2.2.5
+Django==2.2.28
 django-adaptors==0.2.5
 django-csvimport==2.12
 django-rest-knox==4.1.0

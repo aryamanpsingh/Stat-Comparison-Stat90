@@ -14,7 +14,7 @@ html5lib==1.0.1
 idna==2.8
 json-table-schema==0.2.1
 libmagic==1.0
-lxml==4.4.1
+lxml==4.9.1
 messytables==0.15.2
 psycopg2-binary==2.8.3
 pycodestyle==2.5.0
